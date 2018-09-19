@@ -1,0 +1,10629 @@
+Chitta Baral
+C Baral
+C. Baral
+Baral C
+Kasim Candan
+K Candan
+K. Candan
+Candan K
+Charles Colbourn
+C Colbourn
+C. Colbourn
+Colbourn C
+James Collofello
+J Collofello
+J. Collofello
+Collofello J
+Sandeep Gupta
+S Gupta
+S. Gupta
+Gupta S
+Subbarao Kambhampati
+S Kambhampati
+S. Kambhampati
+Kambhampati S
+Huan Liu
+H Liu
+H. Liu
+Liu H
+Arunabha Sen
+A Sen
+A. Sen
+Sen A
+Wei-Tek Tsai
+Wei Tsai
+W Tsai
+W. Tsai
+Wei T. Tsai
+Wei T Tsai
+W T Tsai
+Tsai W
+Kurt VanLehn
+K VanLehn
+K. VanLehn
+VanLehn K
+Guoliang Xue
+G Xue
+G. Xue
+Xue G
+Rida Bazzi
+R Bazzi
+R. Bazzi
+Bazzi R
+Partha Dasgupta
+P Dasgupta
+P. Dasgupta
+Dasgupta P
+Hasan Davulcu
+H Davulcu
+H. Davulcu
+Davulcu H
+Joohyung Lee
+J Lee
+J. Lee
+Lee J
+Brian Nelson
+B Nelson
+B. Nelson
+Nelson B
+Andrea Richa
+A Richa
+A. Richa
+Richa A
+Violet Syrotiuk
+V Syrotiuk
+V. Syrotiuk
+Syrotiuk V
+Peter Wonka
+P Wonka
+P. Wonka
+Wonka P
+Jieping Ye
+J Ye
+J. Ye
+Ye J
+Georgios Fainekos
+G Fainekos
+G. Fainekos
+Fainekos G
+Aviral Shrivastava
+A Shrivastava
+A. Shrivastava
+Shrivastava A
+Yalin Wang
+Y Wang
+Y. Wang
+Wang Y
+Assaf J. Kfoury
+Assaf Kfoury
+A Kfoury
+A. Kfoury
+Assaf J. Kfoury
+Assaf J Kfoury
+A J Kfoury
+Kfoury A
+Azer Bestavros
+A Bestavros
+A. Bestavros
+Bestavros A
+Evimaria Terzi
+E Terzi
+E. Terzi
+Terzi E
+George Kollios
+G Kollios
+G. Kollios
+Kollios G
+Hongwei Xi
+H Xi
+H. Xi
+Xi H
+Ibrahim Matta
+I Matta
+I. Matta
+Matta I
+John Byers
+J Byers
+J. Byers
+Byers J
+Jonathan Appavoo
+J Appavoo
+J. Appavoo
+Appavoo J
+Leonid Levin
+L Levin
+L. Levin
+Levin L
+Leonid Reyzin
+L Reyzin
+L. Reyzin
+Reyzin L
+Lorenzo Orecchia
+L Orecchia
+L. Orecchia
+Orecchia L
+Margrit Betke
+M Betke
+M. Betke
+Betke M
+Mark Crovella
+M Crovella
+M. Crovella
+Crovella M
+Peter Gacs
+P Gacs
+P. Gacs
+Gacs P
+Ran Canetti
+R Canetti
+R. Canetti
+Canetti R
+Richard West
+R West
+R. West
+West R
+Sharon Goldberg
+S Goldberg
+S. Goldberg
+Goldberg S
+Stan Sclaroff
+S Sclaroff
+S. Sclaroff
+Sclaroff S
+Steve Homer
+S Homer
+S. Homer
+Homer S
+Wayne Snyder
+W Snyder
+W. Snyder
+Snyder W
+Amy Greenwald
+A Greenwald
+A. Greenwald
+Greenwald A
+Andries van Dam
+Andries Dam
+A Dam
+A. Dam
+Andries v. Dam
+Andries v Dam
+A v Dam
+Dam A
+Anna Lysyanskaya
+A Lysyanskaya
+A. Lysyanskaya
+Lysyanskaya A
+Benjamin Raphael
+B Raphael
+B. Raphael
+Raphael B
+Chad Jenkins
+C Jenkins
+C. Jenkins
+Jenkins C
+Claire Mathieu
+C Mathieu
+C. Mathieu
+Mathieu C
+David Laidlaw
+D Laidlaw
+D. Laidlaw
+Laidlaw D
+Eli Upfal
+E Upfal
+E. Upfal
+Upfal E
+Erik Sudderth
+E Sudderth
+E. Sudderth
+Sudderth E
+Eugene Charniak
+E Charniak
+E. Charniak
+Charniak E
+Franco Preparata
+F Preparata
+F. Preparata
+Preparata F
+James Hays
+J Hays
+J. Hays
+Hays J
+Jeff Huang
+J Huang
+J. Huang
+Huang J
+John Hughes
+J Hughes
+J. Hughes
+Hughes J
+John Savage
+J Savage
+J. Savage
+Savage J
+Maurice Herlihy
+M Herlihy
+M. Herlihy
+Herlihy M
+Michael Littman
+M Littman
+M. Littman
+Littman M
+Paul Valiant
+P Valiant
+P. Valiant
+Valiant P
+Pedro Felzenszwalb
+P Felzenszwalb
+P. Felzenszwalb
+Felzenszwalb P
+Philip Klein
+P Klein
+P. Klein
+Klein P
+Roberto Tamassia
+R Tamassia
+R. Tamassia
+Tamassia R
+Rodrigo Fonseca
+R Fonseca
+R. Fonseca
+Fonseca R
+Shriram Krishnamurthi
+S Krishnamurthi
+S. Krishnamurthi
+Krishnamurthi S
+Sorin Istrail
+S Istrail
+S. Istrail
+Istrail S
+Stan Zdonik
+S Zdonik
+S. Zdonik
+Zdonik S
+Stefanie Tellex
+S Tellex
+S. Tellex
+Tellex S
+Steven Reiss
+S Reiss
+S. Reiss
+Reiss S
+Thomas Doeppner
+T Doeppner
+T. Doeppner
+Doeppner T
+Tim Kraska
+T Kraska
+T. Kraska
+Kraska T
+Ugur Cetintemel
+U Cetintemel
+U. Cetintemel
+Cetintemel U
+Adam Wierman
+A Wierman
+A. Wierman
+Wierman A
+Alain J. Martin
+Alain Martin
+A Martin
+A. Martin
+Alain J. Martin
+Alain J Martin
+A J Martin
+Martin A
+Alan H. Barr
+Alan Barr
+A Barr
+A. Barr
+Alan H. Barr
+Alan H Barr
+A H Barr
+Barr A
+Christopher Umans
+C Umans
+C. Umans
+Umans C
+Erik Winfree
+E Winfree
+E. Winfree
+Winfree E
+Katrina Ligett
+K Ligett
+K. Ligett
+Ligett K
+Leonard J. Schulman
+Leonard Schulman
+L Schulman
+L. Schulman
+Leonard J. Schulman
+Leonard J Schulman
+L J Schulman
+Schulman L
+Mathieu Desbrun
+M Desbrun
+M. Desbrun
+Desbrun M
+Peter Schroeder
+P Schroeder
+P. Schroeder
+Schroeder P
+Steven Low
+S Low
+S. Low
+Low S
+Thomas Vidick
+T Vidick
+T. Vidick
+Vidick T
+Tracey C. Ho
+Tracey Ho
+T Ho
+T. Ho
+Tracey C. Ho
+Tracey C Ho
+T C Ho
+Ho T
+Venkat Chandrasekaran
+V Chandrasekaran
+V. Chandrasekaran
+Chandrasekaran V
+Yaser S. Abu-Mostafa
+Yaser Mostafa
+Y Mostafa
+Y. Mostafa
+Yaser S.A. Mostafa
+Yaser SA Mostafa
+Y S Mostafa
+Mostafa Y
+Yisong Yue
+Y Yue
+Y. Yue
+Yue Y
+Aarti Singh
+A Singh
+A. Singh
+Singh A
+Adrien Treuille
+A Treuille
+A. Treuille
+Treuille A
+Alan Black
+A Black
+A. Black
+Black A
+Alan Montgomery
+A Montgomery
+A. Montgomery
+Montgomery A
+Alexander J. Smola
+Alexander Smola
+A Smola
+A. Smola
+Alexander J. Smola
+Alexander J Smola
+A J Smola
+Smola A
+Alexander Waibel
+A Waibel
+A. Waibel
+Waibel A
+Amy Ogan
+A Ogan
+A. Ogan
+Ogan A
+Andre Platzer
+A Platzer
+A. Platzer
+Platzer A
+Andrew Moore
+A Moore
+A. Moore
+Moore A
+Andy Pavlo
+A Pavlo
+A. Pavlo
+Pavlo A
+Aniket Kittur
+A Kittur
+A. Kittur
+Kittur A
+Anind Dey
+A Dey
+A. Dey
+Dey A
+Ann Lee
+A Lee
+A. Lee
+Lee A
+Anupam Datta
+A Datta
+A. Datta
+Datta A
+Anupam Gupta
+A Gupta
+A. Gupta
+Gupta A
+Ariel Procaccia
+A Procaccia
+A. Procaccia
+Procaccia A
+Avrim Blum
+A Blum
+A. Blum
+Blum A
+Barnabás Póczos
+B Póczos
+B. Póczos
+Póczos B
+Bhiksha Raj
+B Raj
+B. Raj
+Raj B
+Brad Myers
+B Myers
+B. Myers
+Myers B
+Carl Kingsford
+C Kingsford
+C. Kingsford
+Kingsford C
+Carolyn Penstein Rose
+Carolyn Rose
+C Rose
+C. Rose
+Carolyn P. Rose
+Carolyn P Rose
+C P Rose
+Rose C
+Chris Atkeson
+C Atkeson
+C. Atkeson
+Atkeson C
+Chris Harrison
+C Harrison
+C. Harrison
+Harrison C
+Christian Kästner
+C Kästner
+C. Kästner
+Kästner C
+Christine Neuwirth
+C Neuwirth
+C. Neuwirth
+Neuwirth C
+Christopher Dyer
+C Dyer
+C. Dyer
+Dyer C
+Christopher Langmead
+C Langmead
+C. Langmead
+Langmead C
+Christos Faloutsos
+C Faloutsos
+C. Faloutsos
+Faloutsos C
+Claire Le Goues
+Claire Goues
+C Goues
+C. Goues
+Claire L. Goues
+Claire L Goues
+C L Goues
+Goues C
+Daniel D. Sleator
+Daniel Sleator
+D Sleator
+D. Sleator
+Daniel D. Sleator
+Daniel D Sleator
+D D Sleator
+Sleator D
+Daniel P. Siewiorek
+Daniel Siewiorek
+D Siewiorek
+D. Siewiorek
+Daniel P. Siewiorek
+Daniel P Siewiorek
+D P Siewiorek
+Siewiorek D
+Dannie Durand
+D Durand
+D. Durand
+Durand D
+David Andersen
+D Andersen
+D. Andersen
+Andersen D
+David Brumley
+D Brumley
+D. Brumley
+Brumley D
+David Farber
+D Farber
+D. Farber
+Farber D
+David Garlan
+D Garlan
+D. Garlan
+Garlan D
+David O'Hallaron
+D O'Hallaron
+D. O'Hallaron
+O'Hallaron D
+Edmund M. Clarke
+Edmund Clarke
+E Clarke
+E. Clarke
+Edmund M. Clarke
+Edmund M Clarke
+E M Clarke
+Clarke E
+Emma Brunskill
+E Brunskill
+E. Brunskill
+Brunskill E
+Eric Nyberg
+E Nyberg
+E. Nyberg
+Nyberg E
+Eric Poe Xing
+Eric Xing
+E Xing
+E. Xing
+Eric P. Xing
+Eric P Xing
+E P Xing
+Xing E
+Frank Pfenning
+F Pfenning
+F. Pfenning
+Pfenning F
+Garth Gibson
+G Gibson
+G. Gibson
+Gibson G
+Gary Miller
+G Miller
+G. Miller
+Miller G
+Ge Yang
+G Yang
+G. Yang
+Yang G
+Greg Ganger
+G Ganger
+G. Ganger
+Ganger G
+Gustavo Rohde
+G Rohde
+G. Rohde
+Rohde G
+Guy Blelloch
+G Blelloch
+G. Blelloch
+Blelloch G
+Howie Choset
+H Choset
+H. Choset
+Choset H
+Hui Zhang
+H Zhang
+H. Zhang
+Zhang H
+J. Andrew (Drew) Bagnell
+J. Bagnell
+J Bagnell
+J. Bagnell
+J. A.(. Bagnell
+J. A( Bagnell
+J A Bagnell
+Bagnell J
+J. Zico Kolter
+J. Kolter
+J Kolter
+J. Kolter
+J. Z. Kolter
+J. Z Kolter
+J Z Kolter
+Kolter J
+Jacobo Carrasquel
+J Carrasquel
+J. Carrasquel
+Carrasquel J
+Jaime Carbonell
+J Carbonell
+J. Carbonell
+Carbonell J
+James C. Hoe
+James Hoe
+J Hoe
+J. Hoe
+James C. Hoe
+James C Hoe
+J C Hoe
+Hoe J
+James Herbsleb
+J Herbsleb
+J. Herbsleb
+Herbsleb J
+James Morris
+J Morris
+J. Morris
+Morris J
+Jamie Callan
+J Callan
+J. Callan
+Callan J
+Jason Hong
+J Hong
+J. Hong
+Hong J
+Javier Lopez
+J Lopez
+J. Lopez
+Lopez J
+Jeannette M. Wing
+Jeannette Wing
+J Wing
+J. Wing
+Jeannette M. Wing
+Jeannette M Wing
+J M Wing
+Wing J
+Jeffrey Bigham
+J Bigham
+J. Bigham
+Bigham J
+Jeffrey Eppinger
+J Eppinger
+J. Eppinger
+Eppinger J
+Jennifer Mankoff
+J Mankoff
+J. Mankoff
+Mankoff J
+Jessica Hammer
+J Hammer
+J. Hammer
+Hammer J
+Jessica Hodgins
+J Hodgins
+J. Hodgins
+Hodgins J
+Jodi Forlizzi
+J Forlizzi
+J. Forlizzi
+Forlizzi J
+John Anderson
+J Anderson
+J. Anderson
+Anderson J
+John Zimmerman
+J Zimmerman
+J. Zimmerman
+Zimmerman J
+Jonathan Aldrich
+J Aldrich
+J. Aldrich
+Aldrich J
+Justine Cassell
+J Cassell
+J. Cassell
+Cassell J
+Karl Crary
+K Crary
+K. Crary
+Crary K
+Kathleen M. Carley
+Kathleen Carley
+K Carley
+K. Carley
+Kathleen M. Carley
+Kathleen M Carley
+K M Carley
+Carley K
+Kathryn Roeder
+K Roeder
+K. Roeder
+Roeder K
+Kayvon Fatahalian
+K Fatahalian
+K. Fatahalian
+Fatahalian K
+Ken Koedinger
+K Koedinger
+K. Koedinger
+Koedinger K
+Larry Wasserman
+L Wasserman
+L. Wasserman
+Wasserman L
+Laura Dabbish
+L Dabbish
+L. Dabbish
+Dabbish L
+Lenore Blum
+L Blum
+L. Blum
+Blum L
+Lorrie Cranor
+L Cranor
+L. Cranor
+Cranor L
+Luis VonAhn
+L VonAhn
+L. VonAhn
+VonAhn L
+Mahadev Satyanarayanan
+M Satyanarayanan
+M. Satyanarayanan
+Satyanarayanan M
+Manuel Blum
+M Blum
+M. Blum
+Blum M
+Manuela Veloso
+M Veloso
+M. Veloso
+Veloso M
+Mary Shaw
+M Shaw
+M. Shaw
+Shaw M
+Matt Mason
+M Mason
+M. Mason
+Mason M
+Michael Erdmann
+M Erdmann
+M. Erdmann
+Erdmann M
+Michael Shamos
+M Shamos
+M. Shamos
+Shamos M
+Mor Harchol-Balter
+Mor Balter
+M Balter
+M. Balter
+Mor H. Balter
+Mor H Balter
+M H Balter
+Balter M
+Nancy Pollard
+N Pollard
+N. Pollard
+Pollard N
+Norman M Sadeh
+Norman Sadeh
+N Sadeh
+N. Sadeh
+Norman M. Sadeh
+Norman M Sadeh
+N M Sadeh
+Sadeh N
+Onur Mutlu
+O Mutlu
+O. Mutlu
+Mutlu O
+Peter Steenkiste
+P Steenkiste
+P. Steenkiste
+Steenkiste P
+Raj Reddy
+R Reddy
+R. Reddy
+Reddy R
+Randal Bryant
+R Bryant
+R. Bryant
+Bryant R
+Richard Scheines
+R Scheines
+R. Scheines
+Scheines R
+Richard Stern
+R Stern
+R. Stern
+Stern R
+Robert F. Murphy
+Robert Murphy
+R Murphy
+R. Murphy
+Robert F. Murphy
+Robert F Murphy
+R F Murphy
+Murphy R
+Robert Harper
+R Harper
+R. Harper
+Harper R
+Robert Kass
+R Kass
+R. Kass
+Kass R
+Robert Kraut
+R Kraut
+R. Kraut
+Kraut R
+Roberta Klatzky
+R Klatzky
+R. Klatzky
+Klatzky R
+Roni Rosenfeld
+R Rosenfeld
+R. Rosenfeld
+Rosenfeld R
+Russell Schwartz
+R Schwartz
+R. Schwartz
+Schwartz R
+Ryan O'Donnell
+R O'Donnell
+R. O'Donnell
+O'Donnell R
+Ryan Tibshirani
+R Tibshirani
+R. Tibshirani
+Tibshirani R
+Sara Kiesler
+S Kiesler
+S. Kiesler
+Kiesler S
+Scott Hudson
+S Hudson
+S. Hudson
+Hudson S
+Seth Goldstein
+S Goldstein
+S. Goldstein
+Goldstein S
+Seyoung Kim
+S Kim
+S. Kim
+Kim S
+Srinivasan Seshan
+S Seshan
+S. Seshan
+Seshan S
+Stephen Brookes
+S Brookes
+S. Brookes
+Brookes S
+Steve Collins
+S Collins
+S. Collins
+Collins S
+Steven Dow
+S Dow
+S. Dow
+Dow S
+Steven Rudich
+S Rudich
+S. Rudich
+Rudich S
+Tai Sing Lee
+Tai Lee
+T Lee
+T. Lee
+Tai S. Lee
+Tai S Lee
+T S Lee
+Lee T
+Takeo Kanade
+T Kanade
+T. Kanade
+Kanade T
+Todd Mowry
+T Mowry
+T. Mowry
+Mowry T
+Tom M. Mitchell
+Tom Mitchell
+T Mitchell
+T. Mitchell
+Tom M. Mitchell
+Tom M Mitchell
+T M Mitchell
+Mitchell T
+Travis Breaux
+T Breaux
+T. Breaux
+Breaux T
+Tuomas Sandholm
+T Sandholm
+T. Sandholm
+Sandholm T
+Umut Acar
+U Acar
+U. Acar
+Acar U
+Venkatesan Guruswami
+V Guruswami
+V. Guruswami
+Guruswami V
+Vincent Aleven
+V Aleven
+V. Aleven
+Aleven V
+William Cohen
+W Cohen
+W. Cohen
+Cohen W
+William Scherlis
+W Scherlis
+W. Scherlis
+Scherlis W
+Yiming Yang
+Y Yang
+Y. Yang
+Yang Y
+Yuvraj Agarwal
+Y Agarwal
+Y. Agarwal
+Agarwal Y
+Ziv Bar-Joseph
+Ziv Joseph
+Z Joseph
+Z. Joseph
+Ziv B. Joseph
+Ziv B Joseph
+Z B Joseph
+Joseph Z
+Alfred V. Aho
+Alfred Aho
+A Aho
+A. Aho
+Alfred V. Aho
+Alfred V Aho
+A V Aho
+Aho A
+Allison Bishop Lewko
+Allison Lewko
+A Lewko
+A. Lewko
+Allison B. Lewko
+Allison B Lewko
+A B Lewko
+Lewko A
+Angelos Keromytis
+A Keromytis
+A. Keromytis
+Keromytis A
+Augustin Chaintreau
+A Chaintreau
+A. Chaintreau
+Chaintreau A
+Changxi Zheng
+C Zheng
+C. Zheng
+Zheng C
+Clifford Stein
+C Stein
+C. Stein
+Stein C
+Dan Rubenstein
+D Rubenstein
+D. Rubenstein
+Rubenstein D
+Dana Pe'er
+D Pe'er
+D. Pe'er
+Pe'er D
+Daniel J Hsu
+Daniel Hsu
+D Hsu
+D. Hsu
+Daniel J. Hsu
+Daniel J Hsu
+D J Hsu
+Hsu D
+David S. Johnson
+David Johnson
+D Johnson
+D. Johnson
+David S. Johnson
+David S Johnson
+D S Johnson
+Johnson D
+Eitan Grinspun
+E Grinspun
+E. Grinspun
+Grinspun E
+Feniosky Pena-Mora
+Feniosky Mora
+F Mora
+F. Mora
+Feniosky P. Mora
+Feniosky P Mora
+F P Mora
+Mora F
+Gail E. Kaiser
+Gail Kaiser
+G Kaiser
+G. Kaiser
+Gail E. Kaiser
+Gail E Kaiser
+G E Kaiser
+Kaiser G
+Henning Schulzrinne
+H Schulzrinne
+H. Schulzrinne
+Schulzrinne H
+Henryk Wozniakowski
+H Wozniakowski
+H. Wozniakowski
+Wozniakowski H
+Itsik G Pe'er
+Itsik Pe'er
+I Pe'er
+I. Pe'er
+Itsik G. Pe'er
+Itsik G Pe'er
+I G Pe'er
+Pe'er I
+Jason Nieh
+J Nieh
+J. Nieh
+Nieh J
+John R. Kender
+John Kender
+J Kender
+J. Kender
+John R. Kender
+John R Kender
+J R Kender
+Kender J
+Jonathan L. Gross
+Jonathan Gross
+J Gross
+J. Gross
+Jonathan L. Gross
+Jonathan L Gross
+J L Gross
+Gross J
+Joseph F. Traub
+Joseph Traub
+J Traub
+J. Traub
+Joseph F. Traub
+Joseph F Traub
+J F Traub
+Traub J
+Julia Hirschberg
+J Hirschberg
+J. Hirschberg
+Hirschberg J
+Junfeng Yang
+J Yang
+J. Yang
+Yang J
+Kathleen McKeown
+K McKeown
+K. McKeown
+McKeown K
+Kenneth Ross
+K Ross
+K. Ross
+Ross K
+Luca Carloni
+L Carloni
+L. Carloni
+Carloni L
+Luis Gravano
+L Gravano
+L. Gravano
+Gravano L
+Martha Kim
+M Kim
+M. Kim
+Kim M
+Michael Collins
+M Collins
+M. Collins
+Collins M
+Mihalis Yannakakis
+M Yannakakis
+M. Yannakakis
+Yannakakis M
+Peter K. Allen
+Peter Allen
+P Allen
+P. Allen
+Peter K. Allen
+Peter K Allen
+P K Allen
+Allen P
+Peter N. Belhumeur
+Peter Belhumeur
+P Belhumeur
+P. Belhumeur
+Peter N. Belhumeur
+Peter N Belhumeur
+P N Belhumeur
+Belhumeur P
+Rocco A. Servedio
+Rocco Servedio
+R Servedio
+R. Servedio
+Rocco A. Servedio
+Rocco A Servedio
+R A Servedio
+Servedio R
+Roxana Geambasu
+R Geambasu
+R. Geambasu
+Geambasu R
+Salvatore J. Stolfo
+Salvatore Stolfo
+S Stolfo
+S. Stolfo
+Salvatore J. Stolfo
+Salvatore J Stolfo
+S J Stolfo
+Stolfo S
+Shih-Fu Chang
+Shih Chang
+S Chang
+S. Chang
+Shih F. Chang
+Shih F Chang
+S F Chang
+Chang S
+Shree K. Nayar
+Shree Nayar
+S Nayar
+S. Nayar
+Shree K. Nayar
+Shree K Nayar
+S K Nayar
+Nayar S
+Simha Sethumadhavan
+S Sethumadhavan
+S. Sethumadhavan
+Sethumadhavan S
+Stephen A. Edwards
+Stephen Edwards
+S Edwards
+S. Edwards
+Stephen A. Edwards
+Stephen A Edwards
+S A Edwards
+Edwards S
+Steven K. Feiner
+Steven Feiner
+S Feiner
+S. Feiner
+Steven K. Feiner
+Steven K Feiner
+S K Feiner
+Feiner S
+Steven M. Bellovin
+Steven Bellovin
+S Bellovin
+S. Bellovin
+Steven M. Bellovin
+Steven M Bellovin
+S M Bellovin
+Bellovin S
+Steven Nowick
+S Nowick
+S. Nowick
+Nowick S
+Tal G. Malkin
+Tal Malkin
+T Malkin
+T. Malkin
+Tal G. Malkin
+Tal G Malkin
+T G Malkin
+Malkin T
+Tony Jebara
+T Jebara
+T. Jebara
+Jebara T
+Venkat Venkatasubramanian
+V Venkatasubramanian
+V. Venkatasubramanian
+Venkatasubramanian V
+Vishal Misra
+V Misra
+V. Misra
+Misra V
+Vladimir Vapnik
+V Vapnik
+V. Vapnik
+Vapnik V
+Xi Chen
+X Chen
+X. Chen
+Chen X
+Yechiam Yemini
+Y Yemini
+Y. Yemini
+Yemini Y
+Andrew Myers
+A Myers
+A. Myers
+Myers A
+Ashutosh Saxena
+A Saxena
+A. Saxena
+Saxena A
+Bart Selman
+B Selman
+B. Selman
+Selman B
+Carla Gomes
+C Gomes
+C. Gomes
+Gomes C
+Charles Van Loan
+Charles Loan
+C Loan
+C. Loan
+Charles V. Loan
+Charles V Loan
+C V Loan
+Loan C
+Claire Cardie
+C Cardie
+C. Cardie
+Cardie C
+Daniel P. Huttenlocher
+Daniel Huttenlocher
+D Huttenlocher
+D. Huttenlocher
+Daniel P. Huttenlocher
+Daniel P Huttenlocher
+D P Huttenlocher
+Huttenlocher D
+David Bindel
+D Bindel
+D. Bindel
+Bindel D
+David Steurer
+D Steurer
+D. Steurer
+Steurer D
+Deborah Estrin
+D Estrin
+D. Estrin
+Estrin D
+Dexter Kozen
+D Kozen
+D. Kozen
+Kozen D
+Donald P. Greenberg
+Donald Greenberg
+D Greenberg
+D. Greenberg
+Donald P. Greenberg
+Donald P Greenberg
+D P Greenberg
+Greenberg D
+Doug James
+D James
+D. James
+James D
+E. Gun Sirer
+E. Sirer
+E Sirer
+E. Sirer
+E. G. Sirer
+E. G Sirer
+E G Sirer
+Sirer E
+Eva Tardos
+E Tardos
+E. Tardos
+Tardos E
+Fred B. Schneider
+Fred Schneider
+F Schneider
+F. Schneider
+Fred B. Schneider
+Fred B Schneider
+F B Schneider
+Schneider F
+Hakim Weatherspoon
+H Weatherspoon
+H. Weatherspoon
+Weatherspoon H
+Haym Hirsh
+H Hirsh
+H. Hirsh
+Hirsh H
+Johannes Gehrke
+J Gehrke
+J. Gehrke
+Gehrke J
+John E. Hopcroft
+John Hopcroft
+J Hopcroft
+J. Hopcroft
+John E. Hopcroft
+John E Hopcroft
+J E Hopcroft
+Hopcroft J
+Jon Kleinberg
+J Kleinberg
+J. Kleinberg
+Kleinberg J
+Joseph Y. Halpern
+Joseph Halpern
+J Halpern
+J. Halpern
+Joseph Y. Halpern
+Joseph Y Halpern
+J Y Halpern
+Halpern J
+Kavita Bala
+K Bala
+K. Bala
+Bala K
+Kenneth P. Birman
+Kenneth Birman
+K Birman
+K. Birman
+Kenneth P. Birman
+Kenneth P Birman
+K P Birman
+Birman K
+Lillian Lee
+L Lee
+L. Lee
+Lee L
+Nate Foster
+N Foster
+N. Foster
+Foster N
+Noah Snavely
+N Snavely
+N. Snavely
+Snavely N
+Rafael Pass
+R Pass
+R. Pass
+Pass R
+Ramin Zabih
+R Zabih
+R. Zabih
+Zabih R
+Robert Kleinberg
+R Kleinberg
+R. Kleinberg
+Kleinberg R
+Robert L. Constable
+Robert Constable
+R Constable
+R. Constable
+Robert L. Constable
+Robert L Constable
+R L Constable
+Constable R
+Ross Tate
+R Tate
+R. Tate
+Tate R
+Salman Avestimehr
+S Avestimehr
+S. Avestimehr
+Avestimehr S
+Serge Belongie
+S Belongie
+S. Belongie
+Belongie S
+Steve Marschner
+S Marschner
+S. Marschner
+Marschner S
+Thorsten Joachims
+T Joachims
+T. Joachims
+Joachims T
+Amit Chakrabarti
+A Chakrabarti
+A. Chakrabarti
+Chakrabarti A
+David Kotz
+D Kotz
+D. Kotz
+Kotz D
+Devin J. Balkcom
+Devin Balkcom
+D Balkcom
+D. Balkcom
+Devin J. Balkcom
+Devin J Balkcom
+D J Balkcom
+Balkcom D
+Gevorg Grigoryan
+G Grigoryan
+G. Grigoryan
+Grigoryan G
+Lisa Fleischer
+L Fleischer
+L. Fleischer
+Fleischer L
+Lorenzo Torresani
+L Torresani
+L. Torresani
+Torresani L
+Lorie Loeb
+L Loeb
+L. Loeb
+Loeb L
+Michael Casey
+M Casey
+M. Casey
+Casey M
+Robert Lewis (Scot) Drysdale III
+Robert III
+R III
+R. III
+Robert L.(.D. III
+Robert L(D III
+R L III
+III R
+Sergey Bratus
+S Bratus
+S. Bratus
+Bratus S
+Thomas H. Cormen
+Thomas Cormen
+T Cormen
+T. Cormen
+Thomas H. Cormen
+Thomas H Cormen
+T H Cormen
+Cormen T
+Xia Zhou
+X Zhou
+X. Zhou
+Zhou X
+Alexander J. Hartemink
+Alexander Hartemink
+A Hartemink
+A. Hartemink
+Alexander J. Hartemink
+Alexander J Hartemink
+A J Hartemink
+Hartemink A
+Alvin R. Lebeck
+Alvin Lebeck
+A Lebeck
+A. Lebeck
+Alvin R. Lebeck
+Alvin R Lebeck
+A R Lebeck
+Lebeck A
+Andrew Hilton
+A Hilton
+A. Hilton
+Hilton A
+Ashwin Machanavajjhala
+A Machanavajjhala
+A. Machanavajjhala
+Machanavajjhala A
+Barbara E. Engelhardt
+Barbara Engelhardt
+B Engelhardt
+B. Engelhardt
+Barbara E. Engelhardt
+Barbara E Engelhardt
+B E Engelhardt
+Engelhardt B
+Benjamin C. Lee
+Benjamin Lee
+B Lee
+B. Lee
+Benjamin C. Lee
+Benjamin C Lee
+B C Lee
+Lee B
+Bruce Maggs
+B Maggs
+B. Maggs
+Maggs B
+Bruce R. Donald
+Bruce Donald
+B Donald
+B. Donald
+Bruce R. Donald
+Bruce R Donald
+B R Donald
+Donald B
+Carla Schlatter Ellis
+Carla Ellis
+C Ellis
+C. Ellis
+Carla S. Ellis
+Carla S Ellis
+C S Ellis
+Ellis C
+Carlo Tomasi
+C Tomasi
+C. Tomasi
+Tomasi C
+Chris Dwyer
+C Dwyer
+C. Dwyer
+Dwyer C
+Craig Henriquez
+C Henriquez
+C. Henriquez
+Henriquez C
+Daniel J. Sorin
+Daniel Sorin
+D Sorin
+D. Sorin
+Daniel J. Sorin
+Daniel J Sorin
+D J Sorin
+Sorin D
+Debmalya Panigrahi
+D Panigrahi
+D. Panigrahi
+Panigrahi D
+Donald J. Rose
+Donald Rose
+D Rose
+D. Rose
+Donald J. Rose
+Donald J Rose
+D J Rose
+Rose D
+Donald Loveland
+D Loveland
+D. Loveland
+Loveland D
+Guillermo Sapiro
+G Sapiro
+G. Sapiro
+Sapiro G
+Jeffrey R. N. Forbes
+Jeffrey Forbes
+J Forbes
+J. Forbes
+Jeffrey R.N. Forbes
+Jeffrey RN Forbes
+J R Forbes
+Forbes J
+Jeffrey S. Chase
+Jeffrey Chase
+J Chase
+J. Chase
+Jeffrey S. Chase
+Jeffrey S Chase
+J S Chase
+Chase J
+John A. Board
+John Board
+J Board
+J. Board
+John A. Board
+John A Board
+J A Board
+Board J
+John H. Reif
+John Reif
+J Reif
+J. Reif
+John H. Reif
+John H Reif
+J H Reif
+Reif J
+John Harer
+J Harer
+J. Harer
+Harer J
+Jun Yang
+J Yang
+J. Yang
+Yang J
+Jungsang Kim
+J Kim
+J. Kim
+Kim J
+Kamesh Munagala
+K Munagala
+K. Munagala
+Munagala K
+Katherine Heller
+K Heller
+K. Heller
+Heller K
+Kishor S. Trivedi
+Kishor Trivedi
+K Trivedi
+K. Trivedi
+Kishor S. Trivedi
+Kishor S Trivedi
+K S Trivedi
+Trivedi K
+Krishnendu Chakrabarty
+K Chakrabarty
+K. Chakrabarty
+Chakrabarty K
+Landon Cox
+L Cox
+L. Cox
+Cox L
+Lars Arge
+L Arge
+L. Arge
+Arge L
+Lisa Hsu
+L Hsu
+L. Hsu
+Hsu L
+Mauro Maggioni
+M Maggioni
+M. Maggioni
+Maggioni M
+Owen Astrachan
+O Astrachan
+O. Astrachan
+Astrachan O
+Pankaj K. Agarwal
+Pankaj Agarwal
+P Agarwal
+P. Agarwal
+Pankaj K. Agarwal
+Pankaj K Agarwal
+P K Agarwal
+Agarwal P
+Raluca-Mihaela Gordan
+Raluca Gordan
+R Gordan
+R. Gordan
+Raluca M. Gordan
+Raluca M Gordan
+R M Gordan
+Gordan R
+Richard A. Lucic
+Richard Lucic
+R Lucic
+R. Lucic
+Richard A. Lucic
+Richard A Lucic
+R A Lucic
+Lucic R
+Robert Calderbank
+R Calderbank
+R. Calderbank
+Calderbank R
+Robert L. Bryant
+Robert Bryant
+R Bryant
+R. Bryant
+Robert L. Bryant
+Robert L Bryant
+R L Bryant
+Bryant R
+Robert Wagner
+R Wagner
+R. Wagner
+Wagner R
+romit roy choudhury
+romit choudhury
+r choudhury
+r. choudhury
+romit r. choudhury
+romit r choudhury
+r r choudhury
+choudhury r
+Ronald E. Parr
+Ronald Parr
+R Parr
+R. Parr
+Ronald E. Parr
+Ronald E Parr
+R E Parr
+Parr R
+Sayan Mukherjee
+S Mukherjee
+S. Mukherjee
+Mukherjee S
+Scott C. Schmidler
+Scott Schmidler
+S Schmidler
+S. Schmidler
+Scott C. Schmidler
+Scott C Schmidler
+S C Schmidler
+Schmidler S
+Shivnath Babu
+S Babu
+S. Babu
+Babu S
+Silvia Ferrari
+S Ferrari
+S. Ferrari
+Ferrari S
+Sina Farsiu
+S Farsiu
+S. Farsiu
+Farsiu S
+Susan H. Rodger
+Susan Rodger
+S Rodger
+S. Rodger
+Susan H. Rodger
+Susan H Rodger
+S H Rodger
+Rodger S
+Theo Benson
+T Benson
+T. Benson
+Benson T
+Timothy Lenoir
+T Lenoir
+T. Lenoir
+Lenoir T
+Vincent Conitzer
+V Conitzer
+V. Conitzer
+Conitzer V
+Xiaobai Sun
+X Sun
+X. Sun
+Sun X
+Xiaowei Yang
+X Yang
+X. Yang
+Yang X
+Aaron Bobick
+A Bobick
+A. Bobick
+Bobick A
+Alberto Apostolico
+A Apostolico
+A. Apostolico
+Apostolico A
+Alessandro Orso
+A Orso
+A. Orso
+Orso A
+Alex Endert
+A Endert
+A. Endert
+Endert A
+Alexander Gray
+A Gray
+A. Gray
+Gray A
+Alexandra Boldyreva
+A Boldyreva
+A. Boldyreva
+Boldyreva A
+Amy Bruckman
+A Bruckman
+A. Bruckman
+Bruckman A
+Andrea Thomaz
+A Thomaz
+A. Thomaz
+Thomaz A
+Annie Antón
+A Antón
+A. Antón
+Antón A
+Ashok Goel
+A Goel
+A. Goel
+Goel A
+Beki Grinter
+B Grinter
+B. Grinter
+Grinter B
+Betsy DiSalvo
+B DiSalvo
+B. DiSalvo
+DiSalvo B
+Blair MacIntyre
+B MacIntyre
+B. MacIntyre
+MacIntyre B
+Bruce Walker
+B Walker
+B. Walker
+Walker B
+Calton Pu
+C Pu
+C. Pu
+Pu C
+Charles Eastman
+C Eastman
+C. Eastman
+Eastman C
+Charles Isbell - Jr.
+Charles Jr.
+C Jr.
+C. Jr.
+Charles I. Jr.
+Charles I Jr.
+C I Jr.
+Jr. C
+Chris Peikert
+C Peikert
+C. Peikert
+Peikert C
+Colin Potts
+C Potts
+C. Potts
+Potts C
+Concettina Guerra
+C Guerra
+C. Guerra
+Guerra C
+Constantine Dovrolis
+C Dovrolis
+C. Dovrolis
+Dovrolis C
+Dana Randall
+D Randall
+D. Randall
+Randall D
+David A. Bader
+David Bader
+D Bader
+D. Bader
+David A. Bader
+David A Bader
+D A Bader
+Bader D
+Edmond Chow
+E Chow
+E. Chow
+Chow E
+Edward Omiecinski
+E Omiecinski
+E. Omiecinski
+Omiecinski E
+Elizabeth Mynatt
+E Mynatt
+E. Mynatt
+Mynatt E
+Ellen Do
+E Do
+E. Do
+Do E
+Ellen Zegura
+E Zegura
+E. Zegura
+Zegura E
+Eric Gilbert
+E Gilbert
+E. Gilbert
+Gilbert E
+Eric Vigoda
+E Vigoda
+E. Vigoda
+Vigoda E
+Frank Dellaert
+F Dellaert
+F. Dellaert
+Dellaert F
+Greg Turk
+G Turk
+G. Turk
+Turk G
+Gregory Abowd
+G Abowd
+G. Abowd
+Abowd G
+H. Venkateswaran
+H Venkateswaran
+H. Venkateswaran
+Venkateswaran H
+Hadi Esmaeilzadeh
+H Esmaeilzadeh
+H. Esmaeilzadeh
+Esmaeilzadeh H
+Haesun Park
+H Park
+H. Park
+Park H
+Henrik Christensen
+H Christensen
+H. Christensen
+Christensen H
+Hongyuan Zha
+H Zha
+H. Zha
+Zha H
+Hyesoon Kim
+H Kim
+H. Kim
+Kim H
+Irfan Essa
+I Essa
+I. Essa
+Essa I
+Jack Poulson
+J Poulson
+J. Poulson
+Poulson J
+Jacob Eisenstein
+J Eisenstein
+J. Eisenstein
+Eisenstein J
+James Foley
+J Foley
+J. Foley
+Foley J
+James Rehg
+J Rehg
+J. Rehg
+Rehg J
+Janet Kolodner
+J Kolodner
+J. Kolodner
+Kolodner J
+Jarek Rossignac
+J Rossignac
+J. Rossignac
+Rossignac J
+Jimeng Sun
+J Sun
+J. Sun
+Sun J
+John Stasko
+J Stasko
+J. Stasko
+Stasko J
+Jun Xu
+J Xu
+J. Xu
+Xu J
+Karen Liu
+K Liu
+K. Liu
+Liu K
+Karsten Schwan
+K Schwan
+K. Schwan
+Schwan K
+Keith Edwards
+K Edwards
+K. Edwards
+Edwards K
+Lance Fortnow
+L Fortnow
+L. Fortnow
+Fortnow L
+Lauren Wilcox
+L Wilcox
+L. Wilcox
+Wilcox L
+Le Song
+L Song
+L. Song
+Song L
+Leo Mark
+L Mark
+L. Mark
+Mark L
+Ling Liu
+L Liu
+L. Liu
+Liu L
+Maria Balcan
+M Balcan
+M. Balcan
+Balcan M
+Mark Guzdial
+M Guzdial
+M. Guzdial
+Guzdial M
+Mark Riedl
+M Riedl
+M. Riedl
+Riedl M
+Mayur Naik
+M Naik
+M. Naik
+Naik M
+Melody Jackson
+M Jackson
+M. Jackson
+Jackson M
+Merrick Furst
+M Furst
+M. Furst
+Furst M
+Michael Best
+M Best
+M. Best
+Best M
+Mike Stilman
+M Stilman
+M. Stilman
+Stilman M
+Milena Mihail
+M Mihail
+M. Mihail
+Mihail M
+Milos Prvulovic
+M Prvulovic
+M. Prvulovic
+Prvulovic M
+Mostafa Ammar
+M Ammar
+M. Ammar
+Ammar M
+Munmun De Choudhury
+Munmun Choudhury
+M Choudhury
+M. Choudhury
+Munmun D. Choudhury
+Munmun D Choudhury
+M D Choudhury
+Choudhury M
+Mustaque Ahamad
+M Ahamad
+M. Ahamad
+Ahamad M
+Nancy Nersessian
+N Nersessian
+N. Nersessian
+Nersessian N
+Nick Feamster
+N Feamster
+N. Feamster
+Feamster N
+Polo Chau
+P Chau
+P. Chau
+Chau P
+Prasad Tetali
+P Tetali
+P. Tetali
+Tetali P
+Rahul Basole
+R Basole
+R. Basole
+Basole R
+Richard DeMillo
+R DeMillo
+R. DeMillo
+DeMillo R
+Richard Fujimoto
+R Fujimoto
+R. Fujimoto
+Fujimoto R
+Richard Lipton
+R Lipton
+R. Lipton
+Lipton R
+Richard Vuduc
+R Vuduc
+R. Vuduc
+Vuduc R
+Ronald Arkin
+R Arkin
+R. Arkin
+Arkin R
+Santosh Pande
+S Pande
+S. Pande
+Pande S
+Santosh Vempala
+S Vempala
+S. Vempala
+Vempala S
+Seymour Goodman
+S Goodman
+S. Goodman
+Goodman S
+Shamkant Navathe
+S Navathe
+S. Navathe
+Navathe S
+Srinivas Aluru
+S Aluru
+S. Aluru
+Aluru S
+Taesoo Kim
+T Kim
+T. Kim
+Kim T
+Thad Starner
+T Starner
+T. Starner
+Starner T
+Thomas Conte
+T Conte
+T. Conte
+Conte T
+Tucker Balch
+T Balch
+T. Balch
+Balch T
+Umakishore Ramachandran
+U Ramachandran
+U. Ramachandran
+Ramachandran U
+Vijay Vazirani
+V Vazirani
+V. Vazirani
+Vazirani V
+Wenke Lee
+W Lee
+W. Lee
+Lee W
+Barbara J. Grosz
+Barbara Grosz
+B Grosz
+B. Grosz
+Barbara J. Grosz
+Barbara J Grosz
+B J Grosz
+Grosz B
+David C. Parkes
+David Parkes
+D Parkes
+D. Parkes
+David C. Parkes
+David C Parkes
+D C Parkes
+Parkes D
+David Cox
+D Cox
+D. Cox
+Cox D
+David M. Brooks
+David Brooks
+D Brooks
+D. Brooks
+David M. Brooks
+David M Brooks
+D M Brooks
+Brooks D
+Eddie Kohler
+E Kohler
+E. Kohler
+Kohler E
+Greg Morrisett
+G Morrisett
+G. Morrisett
+Morrisett G
+H.T. Kung
+H Kung
+H. Kung
+Kung H
+Hanspeter Pfister
+H Pfister
+H. Pfister
+Pfister H
+Harry R. Lewis
+Harry Lewis
+H Lewis
+H. Lewis
+Harry R. Lewis
+Harry R Lewis
+H R Lewis
+Lewis H
+James H. Waldo
+James Waldo
+J Waldo
+J. Waldo
+James H. Waldo
+James H Waldo
+J H Waldo
+Waldo J
+Jelani Nelson
+J Nelson
+J. Nelson
+Nelson J
+Jonathan Zittrain
+J Zittrain
+J. Zittrain
+Zittrain J
+Krzysztof Gajos
+K Gajos
+K. Gajos
+Gajos K
+Leslie Valiant
+L Valiant
+L. Valiant
+Valiant L
+Margo I. Seltzer
+Margo Seltzer
+M Seltzer
+M. Seltzer
+Margo I. Seltzer
+Margo I Seltzer
+M I Seltzer
+Seltzer M
+Michael D. Mitzenmacher
+Michael Mitzenmacher
+M Mitzenmacher
+M. Mitzenmacher
+Michael D. Mitzenmacher
+Michael D Mitzenmacher
+M D Mitzenmacher
+Mitzenmacher M
+Michael D. Smith
+Michael Smith
+M Smith
+M. Smith
+Michael D. Smith
+Michael D Smith
+M D Smith
+Smith M
+Radhika Nagpal
+R Nagpal
+R. Nagpal
+Nagpal R
+Ryan P. Adams
+Ryan Adams
+R Adams
+R. Adams
+Ryan P. Adams
+Ryan P Adams
+R P Adams
+Adams R
+Salil P. Vadhan
+Salil Vadhan
+S Vadhan
+S. Vadhan
+Salil P. Vadhan
+Salil P Vadhan
+S P Vadhan
+Vadhan S
+Stephen Chong
+S Chong
+S. Chong
+Chong S
+Steven J. Gortler
+Steven Gortler
+S Gortler
+S. Gortler
+Steven J. Gortler
+Steven J Gortler
+S J Gortler
+Gortler S
+Stuart M. Shieber
+Stuart Shieber
+S Shieber
+S. Shieber
+Stuart M. Shieber
+Stuart M Shieber
+S M Shieber
+Shieber S
+Yaron Singer
+Y Singer
+Y. Singer
+Singer Y
+Yiling Chen
+Y Chen
+Y. Chen
+Chen Y
+Adam Lopez
+A Lopez
+A. Lopez
+Lopez A
+Alexis Battle
+A Battle
+A. Battle
+Battle A
+Aviel Rubin
+A Rubin
+A. Rubin
+Rubin A
+Benjamin Langmead
+B Langmead
+B. Langmead
+Langmead B
+Benjamin Van Durme
+Benjamin Durme
+B Durme
+B. Durme
+Benjamin V. Durme
+Benjamin V Durme
+B V Durme
+Durme B
+David Yarowsky
+D Yarowsky
+D. Yarowsky
+Yarowsky D
+Giuseppe Ateniese
+G Ateniese
+G. Ateniese
+Ateniese G
+Gregory Hager
+G Hager
+G. Hager
+Hager G
+Jason Eisner
+J Eisner
+J. Eisner
+Eisner J
+Joanne Selinski
+J Selinski
+J. Selinski
+Selinski J
+Mark Dredze
+M Dredze
+M. Dredze
+Dredze M
+Matthew Green
+M Green
+M. Green
+Green M
+Michael Dinitz
+M Dinitz
+M. Dinitz
+Dinitz M
+Michael Kazhdan
+M Kazhdan
+M. Kazhdan
+Kazhdan M
+Nassir Navab
+N Navab
+N. Navab
+Navab N
+Peter Kazanzides
+P Kazanzides
+P. Kazanzides
+Kazanzides P
+Philipp Koehn
+P Koehn
+P. Koehn
+Koehn P
+Raman Arora
+R Arora
+R. Arora
+Arora R
+Randal Burns
+R Burns
+R. Burns
+Burns R
+Russell Taylor
+R Taylor
+R. Taylor
+Taylor R
+S. Rao Kosaraju
+S. Kosaraju
+S Kosaraju
+S. Kosaraju
+S. R. Kosaraju
+S. R Kosaraju
+S R Kosaraju
+Kosaraju S
+Scott Smith
+S Smith
+S. Smith
+Smith S
+Stephen Checkoway
+S Checkoway
+S. Checkoway
+Checkoway S
+Suchi Saria
+S Saria
+S. Saria
+Saria S
+Susan Hohenberger
+S Hohenberger
+S. Hohenberger
+Hohenberger S
+Vladimir Braverman
+V Braverman
+V. Braverman
+Braverman V
+Xin Li
+X Li
+X. Li
+Li X
+Yair Amir
+Y Amir
+Y. Amir
+Amir Y
+Yanif Ahmad
+Y Ahmad
+Y. Ahmad
+Ahmad Y
+Alan S. Willsky
+Alan Willsky
+A Willsky
+A. Willsky
+Alan S. Willsky
+Alan S Willsky
+A S Willsky
+Willsky A
+Albert Meyer
+A Meyer
+A. Meyer
+Meyer A
+Alexandre Megretski
+A Megretski
+A. Megretski
+Megretski A
+Anant Agarwal
+A Agarwal
+A. Agarwal
+Agarwal A
+Andrew Lo
+A Lo
+A. Lo
+Lo A
+Arvind
+Arvind Arvind
+A Arvind
+A. Arvind
+Arvind A
+Asuman Ozdaglar
+A Ozdaglar
+A. Ozdaglar
+Ozdaglar A
+Barbara Liskov
+B Liskov
+B. Liskov
+Liskov B
+Berthold Horn
+B Horn
+B. Horn
+Horn B
+Bonnie A. Berger
+Bonnie Berger
+B Berger
+B. Berger
+Bonnie A. Berger
+Bonnie A Berger
+B A Berger
+Berger B
+Bruce Tidor
+B Tidor
+B. Tidor
+Tidor B
+Charles Leiserson
+C Leiserson
+C. Leiserson
+Leiserson C
+Collin Stultz
+C Stultz
+C. Stultz
+Stultz C
+Dana Moshkovitz
+D Moshkovitz
+D. Moshkovitz
+Moshkovitz D
+Daniel Jackson
+D Jackson
+D. Jackson
+Jackson D
+Daniel Sanchez
+D Sanchez
+D. Sanchez
+Sanchez D
+Daniela Rus
+D Rus
+D. Rus
+Rus D
+David Gifford
+D Gifford
+D. Gifford
+Gifford D
+David Karger
+D Karger
+D. Karger
+Karger D
+David Perreault
+D Perreault
+D. Perreault
+Perreault D
+Devavrat Shah
+D Shah
+D. Shah
+Shah D
+Dina Katabi
+D Katabi
+D. Katabi
+Katabi D
+Elfar Adalsteinsson
+E Adalsteinsson
+E. Adalsteinsson
+Adalsteinsson E
+Frederick Hennie III
+Frederick III
+F III
+F. III
+Frederick H. III
+Frederick H III
+F H III
+III F
+Fredo Durand
+F Durand
+F. Durand
+Durand F
+George Verghese
+G Verghese
+G. Verghese
+Verghese G
+Gerald Sussman
+G Sussman
+G. Sussman
+Sussman G
+Gregory W. Wornell
+Gregory Wornell
+G Wornell
+G. Wornell
+Gregory W. Wornell
+Gregory W Wornell
+G W Wornell
+Wornell G
+Hal Abelson
+H Abelson
+H. Abelson
+Abelson H
+Hari Balakrishnan
+H Balakrishnan
+H. Balakrishnan
+Balakrishnan H
+Jacob K. White
+Jacob White
+J White
+J. White
+Jacob K. White
+Jacob K White
+J K White
+White J
+Jae Lim
+J Lim
+J. Lim
+Lim J
+Joel Moses
+J Moses
+J. Moses
+Moses J
+John Guttag
+J Guttag
+J. Guttag
+Guttag J
+John Tsitsiklis
+J Tsitsiklis
+J. Tsitsiklis
+Tsitsiklis J
+Konstantinos Daskalakis
+K Daskalakis
+K. Daskalakis
+Daskalakis K
+Leslie Kaelbling
+L Kaelbling
+L. Kaelbling
+Kaelbling L
+Li-Shiuan Peh
+Li Peh
+L Peh
+L. Peh
+Li S. Peh
+Li S Peh
+L S Peh
+Peh L
+Luca Daniel
+L Daniel
+L. Daniel
+Daniel L
+M. Frans Kaashoek
+M. Kaashoek
+M Kaashoek
+M. Kaashoek
+M. F. Kaashoek
+M. F Kaashoek
+M F Kaashoek
+Kaashoek M
+Madhu Sudan
+M Sudan
+M. Sudan
+Sudan M
+Manolis Kellis
+M Kellis
+M. Kellis
+Kellis M
+Martin Rinard
+M Rinard
+M. Rinard
+Rinard M
+Marvin Minsky
+M Minsky
+M. Minsky
+Minsky M
+Michael R. Watts
+Michael Watts
+M Watts
+M. Watts
+Michael R. Watts
+Michael R Watts
+M R Watts
+Watts M
+Muriel Medard
+M Medard
+M. Medard
+Medard M
+Nickolai Zeldovich
+N Zeldovich
+N. Zeldovich
+Zeldovich N
+Nir Shavit
+N Shavit
+N. Shavit
+Shavit N
+Pablo Parrilo
+P Parrilo
+P. Parrilo
+Parrilo P
+Patrick Jaillet
+P Jaillet
+P. Jaillet
+Jaillet P
+Patrick Winston
+P Winston
+P. Winston
+Winston P
+Peter Szolovits
+P Szolovits
+P. Szolovits
+Szolovits P
+Piotr Indyk
+P Indyk
+P. Indyk
+Indyk P
+Rahul Sarpeshkar
+R Sarpeshkar
+R. Sarpeshkar
+Sarpeshkar R
+Rajeev Ram
+R Ram
+R. Ram
+Ram R
+Randall Davis
+R Davis
+R. Davis
+Davis R
+Regina Barzilay
+R Barzilay
+R. Barzilay
+Barzilay R
+Rob Miller
+R Miller
+R. Miller
+Miller R
+Robert Berwick
+R Berwick
+R. Berwick
+Berwick R
+Robert Morris
+R Morris
+R. Morris
+Morris R
+Ron Weiss
+R Weiss
+R. Weiss
+Weiss R
+Ronald Rivest
+R Rivest
+R. Rivest
+Rivest R
+Ronitt Rubinfeld
+R Rubinfeld
+R. Rubinfeld
+Rubinfeld R
+Russell Tedrake
+R Tedrake
+R. Tedrake
+Tedrake R
+Saman Amarasinghe
+S Amarasinghe
+S. Amarasinghe
+Amarasinghe S
+Samuel Madden
+S Madden
+S. Madden
+Madden S
+Scott Aaronson
+S Aaronson
+S. Aaronson
+Aaronson S
+Seth Teller
+S Teller
+S. Teller
+Teller S
+Shafrira Goldwasser
+S Goldwasser
+S. Goldwasser
+Goldwasser S
+Silvio Micali
+S Micali
+S. Micali
+Micali S
+Srini Devadas
+S Devadas
+S. Devadas
+Devadas S
+Stephen Ward
+S Ward
+S. Ward
+Ward S
+Tomas Lozano-Perez
+Tomas Perez
+T Perez
+T. Perez
+Tomas L. Perez
+Tomas L Perez
+T L Perez
+Perez T
+Tommi Jaakkola
+T Jaakkola
+T. Jaakkola
+Jaakkola T
+Victor Zue
+V Zue
+V. Zue
+Zue V
+Vinod Vaikuntanathan
+V Vaikuntanathan
+V. Vaikuntanathan
+Vaikuntanathan V
+William Freeman
+W Freeman
+W. Freeman
+Freeman W
+William Peake
+W Peake
+W. Peake
+Peake W
+Wojciech Matusik
+W Matusik
+W. Matusik
+Matusik W
+Yury Polyanskiy
+Y Polyanskiy
+Y. Polyanskiy
+Polyanskiy Y
+Allan Gottlieb
+A Gottlieb
+A. Gottlieb
+Gottlieb A
+Benjamin Goldberg
+B Goldberg
+B. Goldberg
+Goldberg B
+Bhubaneswar Mishra
+B Mishra
+B. Mishra
+Mishra B
+Chee K. Yap
+Chee Yap
+C Yap
+C. Yap
+Chee K. Yap
+Chee K Yap
+C K Yap
+Yap C
+Christoph Bregler
+C Bregler
+C. Bregler
+Bregler C
+Clark Barrett
+C Barrett
+C. Barrett
+Barrett C
+Davi Geiger
+D Geiger
+D. Geiger
+Geiger D
+David Sontag
+D Sontag
+D. Sontag
+Sontag D
+Denis Zorin
+D Zorin
+D. Zorin
+Zorin D
+Dennis Shasha
+D Shasha
+D. Shasha
+Shasha D
+Ernest Davis
+E Davis
+E. Davis
+Davis E
+Helen Nissenbaum
+H Nissenbaum
+H. Nissenbaum
+Nissenbaum H
+Jinyang Li
+J Li
+J. Li
+Li J
+Joel Spencer
+J Spencer
+J. Spencer
+Spencer J
+Juliana Freire
+J Freire
+J. Freire
+Freire J
+Kenneth Perlin
+K Perlin
+K. Perlin
+Perlin K
+Lakshminarayanan Subramanian
+L Subramanian
+L. Subramanian
+Subramanian L
+Margaret H. Wright
+Margaret Wright
+M Wright
+M. Wright
+Margaret H. Wright
+Margaret H Wright
+M H Wright
+Wright M
+Mehryar Mohri
+M Mohri
+M. Mohri
+Mohri M
+Michael L. Overton
+Michael Overton
+M Overton
+M. Overton
+Michael L. Overton
+Michael L Overton
+M L Overton
+Overton M
+Michael Walfish
+M Walfish
+M. Walfish
+Walfish M
+Mohamed Zahran
+M Zahran
+M. Zahran
+Zahran M
+Oded Regev
+O Regev
+O. Regev
+Regev O
+Olof Widlund
+O Widlund
+O. Widlund
+Widlund O
+Panayotis Mavromatis
+P Mavromatis
+P. Mavromatis
+Mavromatis P
+Patrick Cousot
+P Cousot
+P. Cousot
+Cousot P
+Ralph Grishman
+R Grishman
+R. Grishman
+Grishman R
+Richard Bonneau
+R Bonneau
+R. Bonneau
+Bonneau R
+Richard Cole
+R Cole
+R. Cole
+Cole R
+Rob Fergus
+R Fergus
+R. Fergus
+Fergus R
+Robert Grimm
+R Grimm
+R. Grimm
+Grimm R
+Subhash Khot
+S Khot
+S. Khot
+Khot S
+Thomas Wies
+T Wies
+T. Wies
+Wies T
+Victor Shoup
+V Shoup
+V. Shoup
+Shoup V
+Yann LeCun
+Y LeCun
+Y. LeCun
+LeCun Y
+Yevgeniy Dodis
+Y Dodis
+Y. Dodis
+Dodis Y
+Zvi Kedem
+Z Kedem
+Z. Kedem
+Kedem Z
+Ben Watson
+B Watson
+B. Watson
+Watson B
+Blair D. Sullivan
+Blair Sullivan
+B Sullivan
+B. Sullivan
+Blair D. Sullivan
+Blair D Sullivan
+B D Sullivan
+Sullivan B
+Carla D. Savage
+Carla Savage
+C Savage
+C. Savage
+Carla D. Savage
+Carla D Savage
+C D Savage
+Savage C
+Christopher G. Healey
+Christopher Healey
+C Healey
+C. Healey
+Christopher G. Healey
+Christopher G Healey
+C G Healey
+Healey C
+David L. Roberts
+David Roberts
+D Roberts
+D. Roberts
+David L. Roberts
+David L Roberts
+D L Roberts
+Roberts D
+David Sturgill
+D Sturgill
+D. Sturgill
+Sturgill D
+David Thuente
+D Thuente
+D. Thuente
+Thuente D
+Dennis R. Bahler
+Dennis Bahler
+D Bahler
+D. Bahler
+Dennis R. Bahler
+Dennis R Bahler
+D R Bahler
+Bahler D
+Donald Bitzer
+D Bitzer
+D. Bitzer
+Bitzer D
+Douglas S. Reeves
+Douglas Reeves
+D Reeves
+D. Reeves
+Douglas S. Reeves
+Douglas S Reeves
+D S Reeves
+Reeves D
+Edward Gehringer
+E Gehringer
+E. Gehringer
+Gehringer E
+Emerson Murphy-Hill
+Emerson Hill
+E Hill
+E. Hill
+Emerson M. Hill
+Emerson M Hill
+E M Hill
+Hill E
+Frank Mueller
+F Mueller
+F. Mueller
+Mueller F
+George N. Rouskas
+George Rouskas
+G Rouskas
+G. Rouskas
+George N. Rouskas
+George N Rouskas
+G N Rouskas
+Rouskas G
+Harry Perros
+H Perros
+H. Perros
+Perros H
+Injong Rhee
+I Rhee
+I. Rhee
+Rhee I
+James C. Lester
+James Lester
+J Lester
+J. Lester
+James C. Lester
+James C Lester
+J C Lester
+Lester J
+Jon Doyle
+J Doyle
+J. Doyle
+Doyle J
+Kemafor Anyanwu Ogan
+Kemafor Ogan
+K Ogan
+K. Ogan
+Kemafor A. Ogan
+Kemafor A Ogan
+K A Ogan
+Ogan K
+Khaled Harfoush
+K Harfoush
+K. Harfoush
+Harfoush K
+Kristy Elizabeth Boyer
+Kristy Boyer
+K Boyer
+K. Boyer
+Kristy E. Boyer
+Kristy E Boyer
+K E Boyer
+Boyer K
+Laurie Williams
+L Williams
+L. Williams
+Williams L
+Matthias Stallmann
+M Stallmann
+M. Stallmann
+Stallmann M
+Michael Rappa
+M Rappa
+M. Rappa
+Rappa M
+Michael Young
+M Young
+M. Young
+Young M
+Min Chi
+M Chi
+M. Chi
+Chi M
+Mladen Vouk
+M Vouk
+M. Vouk
+Vouk M
+Munindar P. Singh
+Munindar Singh
+M Singh
+M. Singh
+Munindar P. Singh
+Munindar P Singh
+M P Singh
+Singh M
+Nagiza Samatova
+N Samatova
+N. Samatova
+Samatova N
+Peng Ning
+P Ning
+P. Ning
+Ning P
+R. Michael Young
+R. Young
+R Young
+R. Young
+R. M. Young
+R. M Young
+R M Young
+Young R
+Rada Y. Chirkova
+Rada Chirkova
+R Chirkova
+R. Chirkova
+Rada Y. Chirkova
+Rada Y Chirkova
+R Y Chirkova
+Chirkova R
+Randy Avent
+R Avent
+R. Avent
+Avent R
+Robert D. Rodman
+Robert Rodman
+R Rodman
+R. Rodman
+Robert D. Rodman
+Robert D Rodman
+R D Rodman
+Rodman R
+Robert Fornaro
+R Fornaro
+R. Fornaro
+Fornaro R
+Robert St. Amant
+Robert Amant
+R Amant
+R. Amant
+Robert S. Amant
+Robert S Amant
+R S Amant
+Amant R
+Rudra Dutta
+R Dutta
+R. Dutta
+Dutta R
+Sarah Heckman
+S Heckman
+S. Heckman
+Heckman S
+Steffen Heber
+S Heber
+S. Heber
+Heber S
+Tiffany Barnes
+T Barnes
+T. Barnes
+Barnes T
+Ting Yu
+T Yu
+T. Yu
+Yu T
+Vincent W. Freeh
+Vincent Freeh
+V Freeh
+V. Freeh
+Vincent W. Freeh
+Vincent W Freeh
+V W Freeh
+Freeh V
+William Enck
+W Enck
+W. Enck
+Enck W
+William J. Stewart
+William Stewart
+W Stewart
+W. Stewart
+William J. Stewart
+William J Stewart
+W J Stewart
+Stewart W
+Xiaohui (Helen) Gu
+Xiaohui Gu
+X Gu
+X. Gu
+Xiaohui (. Gu
+Xiaohui ( Gu
+X ( Gu
+Gu X
+Xiaosong Ma
+X Ma
+X. Ma
+Ma X
+Xuxian Jiang
+X Jiang
+X. Jiang
+Jiang X
+Abraham H Haddad
+Abraham Haddad
+A Haddad
+A. Haddad
+Abraham H. Haddad
+Abraham H Haddad
+A H Haddad
+Haddad A
+Aggelos Katsaggelos
+A Katsaggelos
+A. Katsaggelos
+Katsaggelos A
+Alan V Sahakian
+Alan Sahakian
+A Sahakian
+A. Sahakian
+Alan V. Sahakian
+Alan V Sahakian
+A V Sahakian
+Sahakian A
+Aleksandar Kuzmanovic
+A Kuzmanovic
+A. Kuzmanovic
+Kuzmanovic A
+Allen Taflove
+A Taflove
+A. Taflove
+Taflove A
+Alok N Choudhary
+Alok Choudhary
+A Choudhary
+A. Choudhary
+Alok N. Choudhary
+Alok N Choudhary
+A N Choudhary
+Choudhary A
+Arthur Butz
+A Butz
+A. Butz
+Butz A
+Benjamin Watson
+B Watson
+B. Watson
+Watson B
+Brenna D Argall
+Brenna Argall
+B Argall
+B. Argall
+Brenna D. Argall
+Brenna D Argall
+B D Argall
+Argall B
+Bryan Pardo
+B Pardo
+B. Pardo
+Pardo B
+Chang Liu
+C Liu
+C. Liu
+Liu C
+Chi-Haur Wu
+Chi Wu
+C Wu
+C. Wu
+Chi H. Wu
+Chi H Wu
+C H Wu
+Wu C
+Christopher Riesbeck
+C Riesbeck
+C. Riesbeck
+Riesbeck C
+Chung-Chieh Lee
+Chung Lee
+C Lee
+C. Lee
+Chung C. Lee
+Chung C Lee
+C C Lee
+Lee C
+Don Norman
+D Norman
+D. Norman
+Norman D
+Dongning Guo
+D Guo
+D. Guo
+Guo D
+Doug Downey
+D Downey
+D. Downey
+Downey D
+Fabin E Bustamante
+Fabin Bustamante
+F Bustamante
+F. Bustamante
+Fabin E. Bustamante
+Fabin E Bustamante
+F E Bustamante
+Bustamante F
+Goce Trajcevski
+G Trajcevski
+G. Trajcevski
+Trajcevski G
+Gokhan Memik
+G Memik
+G. Memik
+Memik G
+Hai Zhou
+H Zhou
+H. Zhou
+Zhou H
+Haoqi Zhang
+H Zhang
+H. Zhang
+Zhang H
+Hooman Mohseni
+H Mohseni
+H. Mohseni
+Mohseni H
+Horace Yuen
+H Yuen
+H. Yuen
+Yuen H
+Ian Horswill
+I Horswill
+I. Horswill
+Horswill I
+Jack Tumblin
+J Tumblin
+J. Tumblin
+Tumblin J
+Jason D Hartline
+Jason Hartline
+J Hartline
+J. Hartline
+Jason D. Hartline
+Jason D Hartline
+J D Hartline
+Hartline J
+Kenneth D Forbus
+Kenneth Forbus
+K Forbus
+K. Forbus
+Kenneth D. Forbus
+Kenneth D Forbus
+K D Forbus
+Forbus K
+Koray Aydin
+K Aydin
+K. Aydin
+Aydin K
+Kristian Hammond
+K Hammond
+K. Hammond
+Hammond K
+Larry Birnbaum
+L Birnbaum
+L. Birnbaum
+Birnbaum L
+Lawrence Henschen
+L Henschen
+L. Henschen
+Henschen L
+Louis Gomez
+L Gomez
+L. Gomez
+Gomez L
+Manijeh Razeghi
+M Razeghi
+M. Razeghi
+Razeghi M
+Martin Plonus
+M Plonus
+M. Plonus
+Plonus M
+Matthew Grayson
+M Grayson
+M. Grayson
+Grayson M
+Michael Honig
+M Honig
+M. Honig
+Honig M
+Michael Horn
+M Horn
+M. Horn
+Horn M
+Ming-Yang Kao
+Ming Kao
+M Kao
+M. Kao
+Ming Y. Kao
+Ming Y Kao
+M Y Kao
+Kao M
+Morteza Amir Rahimi
+Morteza Rahimi
+M Rahimi
+M. Rahimi
+Morteza A. Rahimi
+Morteza A Rahimi
+M A Rahimi
+Rahimi M
+Nikos Hardavellas
+N Hardavellas
+N. Hardavellas
+Hardavellas N
+Oliver (Ollie) S Cossairt
+Oliver Cossairt
+O Cossairt
+O. Cossairt
+Oliver (.S. Cossairt
+Oliver (S Cossairt
+O ( Cossairt
+Cossairt O
+Peter A Dinda
+Peter Dinda
+P Dinda
+P. Dinda
+Peter A. Dinda
+Peter A Dinda
+P A Dinda
+Dinda P
+Peter Scheuermann
+P Scheuermann
+P. Scheuermann
+Scheuermann P
+Prem Kumar
+P Kumar
+P. Kumar
+Kumar P
+Randall Berry
+R Berry
+R. Berry
+Berry R
+Randy Freeman
+R Freeman
+R. Freeman
+Freeman R
+Robby Findler
+R Findler
+R. Findler
+Findler R
+Robert P Dick
+Robert Dick
+R Dick
+R. Dick
+Robert P. Dick
+Robert P Dick
+R P Dick
+Dick R
+Russ Joseph
+R Joseph
+R. Joseph
+Joseph R
+Seda Ogrenci Memik
+Seda Memik
+S Memik
+S. Memik
+Seda O. Memik
+Seda O Memik
+S O Memik
+Memik S
+Selim Shahriar
+S Shahriar
+S. Shahriar
+Shahriar S
+Seng-Tiong Ho
+Seng Ho
+S Ho
+S. Ho
+Seng T. Ho
+Seng T Ho
+S T Ho
+Ho S
+Thrasyvoulos N Pappas
+Thrasyvoulos Pappas
+T Pappas
+T. Pappas
+Thrasyvoulos N. Pappas
+Thrasyvoulos N Pappas
+T N Pappas
+Pappas T
+Tom Hinrichs
+T Hinrichs
+T. Hinrichs
+Hinrichs T
+Uri Wilensky
+U Wilensky
+U. Wilensky
+Wilensky U
+Wei-Chung Lin
+Wei Lin
+W Lin
+W. Lin
+Wei C. Lin
+Wei C Lin
+W C Lin
+Lin W
+Yan Chen
+Y Chen
+Y. Chen
+Chen Y
+Ying Wu
+Y Wu
+Y. Wu
+Wu Y
+Anastasios Sidiropoulos
+A Sidiropoulos
+A. Sidiropoulos
+Sidiropoulos A
+Anish Arora
+A Arora
+A. Arora
+Arora A
+Arnab Nandi
+A Nandi
+A. Nandi
+Nandi A
+Atanas Rountev
+A Rountev
+A. Rountev
+Rountev A
+Brian Kulis
+B Kulis
+B. Kulis
+Kulis B
+Christopher Stewart
+C Stewart
+C. Stewart
+Stewart C
+Chunyi Peng
+C Peng
+C. Peng
+Peng C
+Dhabaleswar K (DK) Panda
+Dhabaleswar Panda
+D Panda
+D. Panda
+Dhabaleswar K.(. Panda
+Dhabaleswar K( Panda
+D K Panda
+Panda D
+DeLiang Wang
+D Wang
+D. Wang
+Wang D
+Dong Xuan Xuan
+Dong Xuan
+D Xuan
+D. Xuan
+Dong X. Xuan
+Dong X Xuan
+D X Xuan
+Xuan D
+Eric Fosler-Lussier
+Eric Lussier
+E Lussier
+E. Lussier
+Eric F. Lussier
+Eric F Lussier
+E F Lussier
+Lussier E
+Facundo Memoli
+F Memoli
+F. Memoli
+Memoli F
+Feng Qin
+F Qin
+F. Qin
+Qin F
+Gagan Agrawal
+G Agrawal
+G. Agrawal
+Agrawal G
+Han-Wei Shen
+Han Shen
+H Shen
+H. Shen
+Han W. Shen
+Han W Shen
+H W Shen
+Shen H
+Huamin Wang
+H Wang
+H. Wang
+Wang H
+Jim Davis
+J Davis
+J. Davis
+Davis J
+Kannan Srinivasan
+K Srinivasan
+K. Srinivasan
+Srinivasan K
+Kenneth Supowit
+K Supowit
+K. Supowit
+Supowit K
+Luis Rademacher
+L Rademacher
+L. Rademacher
+Rademacher L
+Michael Bond
+M Bond
+M. Bond
+Bond M
+Mikhail Belkin
+M Belkin
+M. Belkin
+Belkin M
+Neelam Soundarajan
+N Soundarajan
+N. Soundarajan
+Soundarajan N
+Ness Shroff
+N Shroff
+N. Shroff
+Shroff N
+Nicoleta Roman
+N Roman
+N. Roman
+Roman N
+P. Sadayappan
+P Sadayappan
+P. Sadayappan
+Sadayappan P
+Paul Sivilotti
+P Sivilotti
+P. Sivilotti
+Sivilotti P
+Prasun Sinha
+P Sinha
+P. Sinha
+Sinha P
+Radu Teodorescu
+R Teodorescu
+R. Teodorescu
+Teodorescu R
+Raghu Machiraju
+R Machiraju
+R. Machiraju
+Machiraju R
+Rephael Wenger
+R Wenger
+R. Wenger
+Wenger R
+Roger Crawfis
+R Crawfis
+R. Crawfis
+Crawfis R
+Spyros Blanas
+S Blanas
+S. Blanas
+Blanas S
+Srinivasan Parthasarathy
+S Parthasarathy
+S. Parthasarathy
+Parthasarathy S
+Tamal Dey
+T Dey
+T. Dey
+Dey T
+Ten-Hwang Steve Lai
+Ten Lai
+T Lai
+T. Lai
+Ten H.S. Lai
+Ten HS Lai
+T H Lai
+Lai T
+Xiaodong Zhang
+X Zhang
+X. Zhang
+Zhang X
+Yusu Wang
+Y Wang
+Y. Wang
+Wang Y
+Adam Smith
+A Smith
+A. Smith
+Smith A
+Anand Sivasubramaniam
+A Sivasubramaniam
+A. Sivasubramaniam
+Sivasubramaniam A
+Bhuvan Urgaonkar
+B Urgaonkar
+B. Urgaonkar
+Urgaonkar B
+Chita R. Das
+Chita Das
+C Das
+C. Das
+Chita R. Das
+Chita R Das
+C R Das
+Das C
+Daniel Kifer
+D Kifer
+D. Kifer
+Kifer D
+George Kesidis
+G Kesidis
+G. Kesidis
+Kesidis G
+Guohong Cao
+G Cao
+G. Cao
+Cao G
+Jesse Barlow
+J Barlow
+J. Barlow
+Barlow J
+John (Jack) Sampson
+John Sampson
+J Sampson
+J. Sampson
+John (. Sampson
+John ( Sampson
+J ( Sampson
+Sampson J
+John Carroll
+J Carroll
+J. Carroll
+Carroll J
+John Hannan
+J Hannan
+J. Hannan
+Hannan J
+John J. Metzner
+John Metzner
+J Metzner
+J. Metzner
+John J. Metzner
+John J Metzner
+J J Metzner
+Metzner J
+Kamesh Madduri
+K Madduri
+K. Madduri
+Madduri K
+Lee Coraor
+L Coraor
+L. Coraor
+Coraor L
+Mahmut Kandemir
+M Kandemir
+M. Kandemir
+Kandemir M
+Martin Furer
+M Furer
+M. Furer
+Furer M
+Mary Jane Irwin
+Mary Irwin
+M Irwin
+M. Irwin
+Mary J. Irwin
+Mary J Irwin
+M J Irwin
+Irwin M
+Padma Raghavan
+P Raghavan
+P. Raghavan
+Raghavan P
+Patrick D. McDaniel
+Patrick McDaniel
+P McDaniel
+P. McDaniel
+Patrick D. McDaniel
+Patrick D McDaniel
+P D McDaniel
+McDaniel P
+Paul Medvedev
+P Medvedev
+P. Medvedev
+Medvedev P
+Piotr Berman
+P Berman
+P. Berman
+Berman P
+Raj Acharya
+R Acharya
+R. Acharya
+Acharya R
+Robert Collins
+R Collins
+R. Collins
+Collins R
+Sean Hallgren
+S Hallgren
+S. Hallgren
+Hallgren S
+Sencun Zhu
+S Zhu
+S. Zhu
+Zhu S
+Sofya Raskhodnikova
+S Raskhodnikova
+S. Raskhodnikova
+Raskhodnikova S
+Thomas La Porta
+Thomas Porta
+T Porta
+T. Porta
+Thomas L. Porta
+Thomas L Porta
+T L Porta
+Porta T
+Trent Jaeger
+T Jaeger
+T. Jaeger
+Jaeger T
+Vijaykrishnan Narayanan
+V Narayanan
+V. Narayanan
+Narayanan V
+Wang-Chien Lee
+Wang Lee
+W Lee
+W. Lee
+Wang C. Lee
+Wang C Lee
+W C Lee
+Lee W
+Webb C. Miller
+Webb Miller
+W Miller
+W. Miller
+Webb C. Miller
+Webb C Miller
+W C Miller
+Miller W
+Yanxi Liu
+Y Liu
+Y. Liu
+Liu Y
+Yuan Xie
+Y Xie
+Y. Xie
+Xie Y
+Adam Finkelstein
+A Finkelstein
+A. Finkelstein
+Finkelstein A
+Andrea LaPaugh
+A LaPaugh
+A. LaPaugh
+LaPaugh A
+Andrew Appel
+A Appel
+A. Appel
+Appel A
+Arvind Narayanan
+A Narayanan
+A. Narayanan
+Narayanan A
+Bernard Chazelle
+B Chazelle
+B. Chazelle
+Chazelle B
+Brian Kernighan
+B Kernighan
+B. Kernighan
+Kernighan B
+David August
+D August
+D. August
+August D
+David Blei
+D Blei
+D. Blei
+Blei D
+David Dobkin
+D Dobkin
+D. Dobkin
+Dobkin D
+David Walker
+D Walker
+D. Walker
+Walker D
+Douglas Clark
+D Clark
+D. Clark
+Clark D
+Edward Felten
+E Felten
+E. Felten
+Felten E
+Jaswinder Singh
+J Singh
+J. Singh
+Singh J
+Jennifer Rexford
+J Rexford
+J. Rexford
+Rexford J
+Jianxiong Xiao
+J Xiao
+J. Xiao
+Xiao J
+Kai Li
+K Li
+K. Li
+Li K
+Margaret Martonosi
+M Martonosi
+M. Martonosi
+Martonosi M
+Mark Braverman
+M Braverman
+M. Braverman
+Braverman M
+Michael Freedman
+M Freedman
+M. Freedman
+Freedman M
+Mona Singh
+M Singh
+M. Singh
+Singh M
+Moses Charikar
+M Charikar
+M. Charikar
+Charikar M
+Olga Troyanskaya
+O Troyanskaya
+O. Troyanskaya
+Troyanskaya O
+Rebecca Fiebrink
+R Fiebrink
+R. Fiebrink
+Fiebrink R
+Robert Schapire
+R Schapire
+R. Schapire
+Schapire R
+Robert Sedgewick
+R Sedgewick
+R. Sedgewick
+Sedgewick R
+Robert Tarjan
+R Tarjan
+R. Tarjan
+Tarjan R
+Sanjeev Arora
+S Arora
+S. Arora
+Arora S
+Sebastian Seung
+S Seung
+S. Seung
+Seung S
+Szymon Rusinkiewicz
+S Rusinkiewicz
+S. Rusinkiewicz
+Rusinkiewicz S
+Thomas Funkhouser
+T Funkhouser
+T. Funkhouser
+Funkhouser T
+Vivek Pai
+V Pai
+V. Pai
+Pai V
+Zeev Dvir
+Z Dvir
+Z. Dvir
+Dvir Z
+Aditya P. Mathur
+Aditya Mathur
+A Mathur
+A. Mathur
+Aditya P. Mathur
+Aditya P Mathur
+A P Mathur
+Mathur A
+Ahmed Elmagarmid
+A Elmagarmid
+A. Elmagarmid
+Elmagarmid A
+Ahmed Sameh
+A Sameh
+A. Sameh
+Sameh A
+Aman Yadav
+A Yadav
+A. Yadav
+Yadav A
+Ananth Grama
+A Grama
+A. Grama
+Grama A
+Bharat Bhargava
+B Bhargava
+B. Bhargava
+Bhargava B
+Bradley Lucier
+B Lucier
+B. Lucier
+Lucier B
+Buster Dunsmore
+B Dunsmore
+B. Dunsmore
+Dunsmore B
+Chris Clifton
+C Clifton
+C. Clifton
+Clifton C
+Chris Hoffmann
+C Hoffmann
+C. Hoffmann
+Hoffmann C
+Cristina Nita-Rotaru
+Cristina Rotaru
+C Rotaru
+C. Rotaru
+Cristina N. Rotaru
+Cristina N Rotaru
+C N Rotaru
+Rotaru C
+Daisuke Kihara
+D Kihara
+D. Kihara
+Kihara D
+Daniel Aliaga
+D Aliaga
+D. Aliaga
+Aliaga D
+David Gleich
+D Gleich
+D. Gleich
+Gleich D
+Dongyan Xu
+D Xu
+D. Xu
+Xu D
+Douglas Comer
+D Comer
+D. Comer
+Comer D
+Elena Grigorescu
+E Grigorescu
+E. Grigorescu
+Grigorescu E
+Elisa Bertino
+E Bertino
+E. Bertino
+Bertino E
+Elisha Sacks
+E Sacks
+E. Sacks
+Sacks E
+Eugene H. Spafford
+Eugene Spafford
+E Spafford
+E. Spafford
+Eugene H. Spafford
+Eugene H Spafford
+E H Spafford
+Spafford E
+Greg N. Frederickson
+Greg Frederickson
+G Frederickson
+G. Frederickson
+Greg N. Frederickson
+Greg N Frederickson
+G N Frederickson
+Frederickson G
+Jan Vitek
+J Vitek
+J. Vitek
+Vitek J
+Jeffrey M. Siskind
+Jeffrey Siskind
+J Siskind
+J. Siskind
+Jeffrey M. Siskind
+Jeffrey M Siskind
+J M Siskind
+Siskind J
+Jennifer Neville
+J Neville
+J. Neville
+Neville J
+Luo Si
+L Si
+L. Si
+Si L
+Mikhail Atallah
+M Atallah
+M. Atallah
+Atallah M
+Ninghui Li
+N Li
+N. Li
+Li N
+Olga Vitek
+O Vitek
+O. Vitek
+Vitek O
+Patrick Thomas Eugster
+Patrick Eugster
+P Eugster
+P. Eugster
+Patrick T. Eugster
+Patrick T Eugster
+P T Eugster
+Eugster P
+Ramana Kompella
+R Kompella
+R. Kompella
+Kompella R
+Robert D. Skeel
+Robert Skeel
+R Skeel
+R. Skeel
+Robert D. Skeel
+Robert D Skeel
+R D Skeel
+Skeel R
+S. V. N. Vishwanathan
+S. Vishwanathan
+S Vishwanathan
+S. Vishwanathan
+S. V.N. Vishwanathan
+S. VN Vishwanathan
+S V Vishwanathan
+Vishwanathan S
+Sabre Kais
+S Kais
+S. Kais
+Kais S
+Samuel Wagstaff
+S Wagstaff
+S. Wagstaff
+Wagstaff S
+Saugata Basu
+S Basu
+S. Basu
+Basu S
+Sonia Fahmy
+S Fahmy
+S. Fahmy
+Fahmy S
+Sunil Prabhakar
+S Prabhakar
+S. Prabhakar
+Prabhakar S
+Suresh Jagannathan
+S Jagannathan
+S. Jagannathan
+Jagannathan S
+Susanne Hambrusch
+S Hambrusch
+S. Hambrusch
+Hambrusch S
+T. N. Vijaykumar
+T. Vijaykumar
+T Vijaykumar
+T. Vijaykumar
+T. N. Vijaykumar
+T. N Vijaykumar
+T N Vijaykumar
+Vijaykumar T
+Tony Hosking
+T Hosking
+T. Hosking
+Hosking T
+Walid Aref
+W Aref
+W. Aref
+Aref W
+Wojciech Szpankowski
+W Szpankowski
+W. Szpankowski
+Szpankowski W
+Xavier Tricoche
+X Tricoche
+X. Tricoche
+Tricoche X
+Xiangyu Zhang
+X Zhang
+X. Zhang
+Zhang X
+Yi Wu
+Y Wu
+Y. Wu
+Wu Y
+Yung-Hsiang Lu
+Yung Lu
+Y Lu
+Y. Lu
+Yung H. Lu
+Yung H Lu
+Y H Lu
+Lu Y
+Zhiyuan Li
+Z Li
+Z. Li
+Li Z
+Ana Milanova
+A Milanova
+A. Milanova
+Milanova A
+Barbara Cutler
+B Cutler
+B. Cutler
+Cutler B
+Boleslaw Szymanski
+B Szymanski
+B. Szymanski
+Szymanski B
+Carlos Varela
+C Varela
+C. Varela
+Varela C
+Charles Stewart
+C Stewart
+C. Stewart
+Stewart C
+Christopher Bystroff
+C Bystroff
+C. Bystroff
+Bystroff C
+Christopher Carothers
+C Carothers
+C. Carothers
+Carothers C
+David Isaacson
+D Isaacson
+D. Isaacson
+Isaacson D
+David Spooner
+D Spooner
+D. Spooner
+Spooner D
+Elliot Anshelevich
+E Anshelevich
+E. Anshelevich
+Anshelevich E
+Francine Berman
+F Berman
+F. Berman
+Berman F
+Heng Ji
+H Ji
+H. Ji
+Ji H
+Jeff Trinkle
+J Trinkle
+J. Trinkle
+Trinkle J
+Jim Hendler
+J Hendler
+J. Hendler
+Hendler J
+Lirong Xia
+L Xia
+L. Xia
+Xia L
+Malik Magdon-Ismail
+Malik Ismail
+M Ismail
+M. Ismail
+Malik M. Ismail
+Malik M Ismail
+M M Ismail
+Ismail M
+Mark Goldberg
+M Goldberg
+M. Goldberg
+Goldberg M
+Martin Hardwick
+M Hardwick
+M. Hardwick
+Hardwick M
+Michael Wozny
+M Wozny
+M. Wozny
+Wozny M
+Mohammed Zaki
+M Zaki
+M. Zaki
+Zaki M
+Mukkai Krishnamoorthy
+M Krishnamoorthy
+M. Krishnamoorthy
+Krishnamoorthy M
+Petros Drineas
+P Drineas
+P. Drineas
+Drineas P
+Ron Eglash
+R Eglash
+R. Eglash
+Eglash R
+Selmer Bringsjord
+S Bringsjord
+S. Bringsjord
+Bringsjord S
+Sergei Nirenburg
+S Nirenburg
+S. Nirenburg
+Nirenburg S
+Sibel Adali
+S Adali
+S. Adali
+Adali S
+Stacy Patterson
+S Patterson
+S. Patterson
+Patterson S
+Wayne Gray
+W Gray
+W. Gray
+Gray W
+Wm. Randolph Franklin
+Wm. Franklin
+W Franklin
+W. Franklin
+Wm. R. Franklin
+Wm. R Franklin
+W R Franklin
+Franklin W
+Alan L. Cox
+Alan Cox
+A Cox
+A. Cox
+Alan L. Cox
+Alan L Cox
+A L Cox
+Cox A
+Chris M. Jermaine
+Chris Jermaine
+C Jermaine
+C. Jermaine
+Chris M. Jermaine
+Chris M Jermaine
+C M Jermaine
+Jermaine C
+Dan S. Wallach
+Dan Wallach
+D Wallach
+D. Wallach
+Dan S. Wallach
+Dan S Wallach
+D S Wallach
+Wallach D
+David B. Johnson
+David Johnson
+D Johnson
+D. Johnson
+David B. Johnson
+David B Johnson
+D B Johnson
+Johnson D
+Devika Subramanian
+D Subramanian
+D. Subramanian
+Subramanian D
+James McLurkin
+J McLurkin
+J. McLurkin
+McLurkin J
+Joe Warren
+J Warren
+J. Warren
+Warren J
+John Mellor-Crummey
+John Crummey
+J Crummey
+J. Crummey
+John M. Crummey
+John M Crummey
+J M Crummey
+Crummey J
+Keith D. Cooper
+Keith Cooper
+K Cooper
+K. Cooper
+Keith D. Cooper
+Keith D Cooper
+K D Cooper
+Cooper K
+Krishna V. Palem
+Krishna Palem
+K Palem
+K. Palem
+Krishna V. Palem
+Krishna V Palem
+K V Palem
+Palem K
+Luay K. Nakhleh
+Luay Nakhleh
+L Nakhleh
+L. Nakhleh
+Luay K. Nakhleh
+Luay K Nakhleh
+L K Nakhleh
+Nakhleh L
+Lydia E. Kavraki
+Lydia Kavraki
+L Kavraki
+L. Kavraki
+Lydia E. Kavraki
+Lydia E Kavraki
+L E Kavraki
+Kavraki L
+Moshe Y. Vardi
+Moshe Vardi
+M Vardi
+M. Vardi
+Moshe Y. Vardi
+Moshe Y Vardi
+M Y Vardi
+Vardi M
+Robert 'Corky' Cartwright
+Robert Cartwright
+R Cartwright
+R. Cartwright
+Robert '. Cartwright
+Robert ' Cartwright
+R ' Cartwright
+Cartwright R
+Ronald N. Goldman
+Ronald Goldman
+R Goldman
+R. Goldman
+Ronald N. Goldman
+Ronald N Goldman
+R N Goldman
+Goldman R
+Scott Cutler
+S Cutler
+S. Cutler
+Cutler S
+Scott Rixner
+S Rixner
+S. Rixner
+Rixner S
+Swarat Chaudhuri
+S Chaudhuri
+S. Chaudhuri
+Chaudhuri S
+T. S. Eugene Ng
+T. Ng
+T Ng
+T. Ng
+T. S.E. Ng
+T. SE Ng
+T S Ng
+Ng T
+Vivek Sarkar
+V Sarkar
+V. Sarkar
+Sarkar V
+Abhishek Bhattacharjee
+A Bhattacharjee
+A. Bhattacharjee
+Bhattacharjee A
+Ahmed Elgammal
+A Elgammal
+A. Elgammal
+Elgammal A
+Alex Borgida
+A Borgida
+A. Borgida
+Borgida A
+Alexander Schliep
+A Schliep
+A. Schliep
+Schliep A
+Amelie Marian
+A Marian
+A. Marian
+Marian A
+Apostolos Gerasoulis
+A Gerasoulis
+A. Gerasoulis
+Gerasoulis A
+Badri Nath
+B Nath
+B. Nath
+Nath B
+Bahman Kalantari
+B Kalantari
+B. Kalantari
+Kalantari B
+Casimir Kulikowski
+C Kulikowski
+C. Kulikowski
+Kulikowski C
+David Cash
+D Cash
+D. Cash
+Cash D
+Dimitris Metaxas
+D Metaxas
+D. Metaxas
+Metaxas D
+Endre Szemeredi
+E Szemeredi
+E. Szemeredi
+Szemeredi E
+Eric Allender
+E Allender
+E. Allender
+Allender E
+Gerard Richter
+G Richter
+G. Richter
+Richter G
+Kostas Bekris
+K Bekris
+K. Bekris
+Bekris K
+Liviu Iftode
+L Iftode
+L. Iftode
+Iftode L
+Louis Steinberg
+L Steinberg
+L. Steinberg
+Steinberg L
+Mario Szegedy
+M Szegedy
+M. Szegedy
+Szegedy M
+Martin Farach-Colton
+Martin Colton
+M Colton
+M. Colton
+Martin F. Colton
+Martin F Colton
+M F Colton
+Colton M
+Matthew Stone
+M Stone
+M. Stone
+Stone M
+Michael Fredman
+M Fredman
+M. Fredman
+Fredman M
+Michael Grigoriadis
+M Grigoriadis
+M. Grigoriadis
+Grigoriadis M
+Naftaly Minsky
+N Minsky
+N. Minsky
+Minsky N
+Ping Li
+P Li
+P. Li
+Li P
+Rebecca Wright
+R Wright
+R. Wright
+Wright R
+Ricardo Bianchini
+R Bianchini
+R. Bianchini
+Bianchini R
+Richard Martin
+R Martin
+R. Martin
+Martin R
+Santosh Nagarakatte
+S Nagarakatte
+S. Nagarakatte
+Nagarakatte S
+Shan Muthukrishnan
+S Muthukrishnan
+S. Muthukrishnan
+Muthukrishnan S
+Shubhangi Saraf
+S Saraf
+S. Saraf
+Saraf S
+Swastik Kopparty
+S Kopparty
+S. Kopparty
+Kopparty S
+Thu Nguyen
+T Nguyen
+T. Nguyen
+Nguyen T
+Tina Eliassi-Rad
+Tina Rad
+T Rad
+T. Rad
+Tina E. Rad
+Tina E Rad
+T E Rad
+Rad T
+Tomasz Imielinski
+T Imielinski
+T. Imielinski
+Imielinski T
+Ulrich Kremer
+U Kremer
+U. Kremer
+Kremer U
+Vinod Ganapathy
+V Ganapathy
+V. Ganapathy
+Ganapathy V
+Vladimir Pavlovic
+V Pavlovic
+V. Pavlovic
+Pavlovic V
+William Steiger
+W Steiger
+W. Steiger
+Steiger W
+Zheng Zhang
+Z Zhang
+Z. Zhang
+Zhang Z
+Alex Aiken
+A Aiken
+A. Aiken
+Aiken A
+Andrew Ng
+A Ng
+A. Ng
+Ng A
+Anshul Kundaje
+A Kundaje
+A. Kundaje
+Kundaje A
+Balaji Prabhakar
+B Prabhakar
+B. Prabhakar
+Prabhakar B
+Bill Dally
+B Dally
+B. Dally
+Dally B
+Chris Manning
+C Manning
+C. Manning
+Manning C
+Chris Re
+C Re
+C. Re
+Re C
+Christos Kozyrakis
+C Kozyrakis
+C. Kozyrakis
+Kozyrakis C
+Dan Boneh
+D Boneh
+D. Boneh
+Boneh D
+Daphne Koller
+D Koller
+D. Koller
+Koller D
+David Cheriton
+D Cheriton
+D. Cheriton
+Cheriton D
+David L. Dill
+David Dill
+D Dill
+D. Dill
+David L. Dill
+David L Dill
+D L Dill
+Dill D
+David Mazieres
+D Mazieres
+D. Mazieres
+Mazieres D
+Dawson Engler
+D Engler
+D. Engler
+Engler D
+Eric Roberts
+E Roberts
+E. Roberts
+Roberts E
+Fei-Fei Li
+Fei Li
+F Li
+F. Li
+Fei F. Li
+Fei F Li
+F F Li
+Li F
+Gill Bejerano
+G Bejerano
+G. Bejerano
+Bejerano G
+Greg Valiant
+G Valiant
+G. Valiant
+Valiant G
+Hector Garcia-Molina
+Hector Molina
+H Molina
+H. Molina
+Hector G. Molina
+Hector G Molina
+H G Molina
+Molina H
+Jennifer Widom
+J Widom
+J. Widom
+Widom J
+John Hennessy
+J Hennessy
+J. Hennessy
+Hennessy J
+John Mitchell
+J Mitchell
+J. Mitchell
+Mitchell J
+John Ousterhout
+J Ousterhout
+J. Ousterhout
+Ousterhout J
+Jure Leskovec
+J Leskovec
+J. Leskovec
+Leskovec J
+Ken Salisbury
+K Salisbury
+K. Salisbury
+Salisbury K
+Kunle Olukotun
+K Olukotun
+K. Olukotun
+Olukotun K
+Leonidas Guibas
+L Guibas
+L. Guibas
+Guibas L
+Luca Trevisan
+L Trevisan
+L. Trevisan
+Trevisan L
+Marc Levoy
+M Levoy
+M. Levoy
+Levoy M
+Mark Horowitz
+M Horowitz
+M. Horowitz
+Horowitz M
+Mehran Sahami
+M Sahami
+M. Sahami
+Sahami M
+Mendel Rosenblum
+M Rosenblum
+M. Rosenblum
+Rosenblum M
+Michael Bernstein
+M Bernstein
+M. Bernstein
+Bernstein M
+Mike Genesereth
+M Genesereth
+M. Genesereth
+Genesereth M
+Monica Lam
+M Lam
+M. Lam
+Lam M
+Nick McKeown
+N McKeown
+N. McKeown
+McKeown N
+Oussama Khatib
+O Khatib
+O. Khatib
+Khatib O
+Patrick Hanrahan
+P Hanrahan
+P. Hanrahan
+Hanrahan P
+Percy Liang
+P Liang
+P. Liang
+Liang P
+Philip Levis
+P Levis
+P. Levis
+Levis P
+Ron Fedkiw
+R Fedkiw
+R. Fedkiw
+Fedkiw R
+Ryan Williams
+R Williams
+R. Williams
+Williams R
+Sachin Katti
+S Katti
+S. Katti
+Katti S
+Sebastian Thrun
+S Thrun
+S. Thrun
+Thrun S
+Serafim Batzoglou
+S Batzoglou
+S. Batzoglou
+Batzoglou S
+Silvio Savarese
+S Savarese
+S. Savarese
+Savarese S
+Stephen Cooper
+S Cooper
+S. Cooper
+Cooper S
+Subhasish Mitra
+S Mitra
+S. Mitra
+Mitra S
+Tim Roughgarden
+T Roughgarden
+T. Roughgarden
+Roughgarden T
+Virginia Williams
+V Williams
+V. Williams
+Williams V
+Yoav Shoham
+Y Shoham
+Y. Shoham
+Shoham Y
+Allen Tannenbaum
+A Tannenbaum
+A. Tannenbaum
+Tannenbaum A
+Anita Wasilewska
+A Wasilewska
+A. Wasilewska
+Wasilewska A
+Annie Liu
+A Liu
+A. Liu
+Liu A
+Anshul Gandhi
+A Gandhi
+A. Gandhi
+Gandhi A
+Arie Kaufman
+A Kaufman
+A. Kaufman
+Kaufman A
+C.R. Ramakrishnan
+C Ramakrishnan
+C. Ramakrishnan
+Ramakrishnan C
+Dimitris Samaras
+D Samaras
+D. Samaras
+Samaras D
+Donald Porter
+D Porter
+D. Porter
+Porter D
+Erez Zadok
+E Zadok
+E. Zadok
+Zadok E
+Eugene Stark
+E Stark
+E. Stark
+Stark E
+Fusheng Wang
+F Wang
+F. Wang
+Wang F
+Himanshu Gupta
+H Gupta
+H. Gupta
+Gupta H
+Hong Qin
+H Qin
+H. Qin
+Qin H
+Hussein Badr
+H Badr
+H. Badr
+Badr H
+I.V. Ramakrishnan
+I Ramakrishnan
+I. Ramakrishnan
+Ramakrishnan I
+Jie Gao
+J Gao
+J. Gao
+Gao J
+Jing Chen
+J Chen
+J. Chen
+Chen J
+Klaus Mueller
+K Mueller
+K. Mueller
+Mueller K
+Larry D. Wittie
+Larry Wittie
+L Wittie
+L. Wittie
+Larry D. Wittie
+Larry D Wittie
+L D Wittie
+Wittie L
+Leman Akoglu
+L Akoglu
+L. Akoglu
+Akoglu L
+Leo Bachmair
+L Bachmair
+L. Bachmair
+Bachmair L
+Long Lu
+L Lu
+L. Lu
+Lu L
+Luis Ortiz
+L Ortiz
+L. Ortiz
+Ortiz L
+Michael Bender
+M Bender
+M. Bender
+Bender M
+Michael Ferdman
+M Ferdman
+M. Ferdman
+Ferdman M
+Michael Kifer
+M Kifer
+M. Kifer
+Kifer M
+Phillipa Gill
+P Gill
+P. Gill
+Gill P
+R. Sekar
+R Sekar
+R. Sekar
+Sekar R
+Radu Sion
+R Sion
+R. Sion
+Sion R
+Rezaul Chowdhury
+R Chowdhury
+R. Chowdhury
+Chowdhury R
+Rob Johnson
+R Johnson
+R. Johnson
+Johnson R
+Samir Das
+S Das
+S. Das
+Das S
+Scott A. Smolka
+Scott Smolka
+S Smolka
+S. Smolka
+Scott A. Smolka
+Scott A Smolka
+S A Smolka
+Smolka S
+Scott Stoller
+S Stoller
+S. Stoller
+Stoller S
+Steve Skiena
+S Skiena
+S. Skiena
+Skiena S
+Xianfeng Gu
+X Gu
+X. Gu
+Gu X
+Yejin Choi
+Y Choi
+Y. Choi
+Choi Y
+Aaron Ames
+A Ames
+A. Ames
+Ames A
+Andreas Klappenecker
+A Klappenecker
+A. Klappenecker
+Klappenecker A
+Andruid Kerne
+A Kerne
+A. Kerne
+Kerne A
+Anxiao (Andrew) Jiang
+Anxiao Jiang
+A Jiang
+A. Jiang
+Anxiao (. Jiang
+Anxiao ( Jiang
+A ( Jiang
+Jiang A
+Daniel A. Jiménez
+Daniel Jiménez
+D Jiménez
+D. Jiménez
+Daniel A. Jiménez
+Daniel A Jiménez
+D A Jiménez
+Jiménez D
+Daniel W. Goldberg
+Daniel Goldberg
+D Goldberg
+D. Goldberg
+Daniel W. Goldberg
+Daniel W Goldberg
+D W Goldberg
+Goldberg D
+Dezhen Song
+D Song
+D. Song
+Song D
+Dmitri Loguinov
+D Loguinov
+D. Loguinov
+Loguinov D
+Duncan M. Walker
+Duncan Walker
+D Walker
+D. Walker
+Duncan M. Walker
+Duncan M Walker
+D M Walker
+Walker D
+Dylan Shell
+D Shell
+D. Shell
+Shell D
+Ergun Akleman
+E Akleman
+E. Akleman
+Akleman E
+Eun Jung Kim
+Eun Kim
+E Kim
+E. Kim
+Eun J. Kim
+Eun J Kim
+E J Kim
+Kim E
+Evdokia Nikolova
+E Nikolova
+E. Nikolova
+Nikolova E
+Francis Quek
+F Quek
+F. Quek
+Quek F
+Frank M. Shipman
+Frank Shipman
+F Shipman
+F. Shipman
+Frank M. Shipman
+Frank M Shipman
+F M Shipman
+Shipman F
+Guofei Gu
+G Gu
+G. Gu
+Gu G
+J. Maurice Rojas
+J. Rojas
+J Rojas
+J. Rojas
+J. M. Rojas
+J. M Rojas
+J M Rojas
+Rojas J
+Jaakko Jarvi
+J Jarvi
+J. Jarvi
+Jarvi J
+James Caverlee
+J Caverlee
+J. Caverlee
+Caverlee J
+Jennifer L. Welch
+Jennifer Welch
+J Welch
+J. Welch
+Jennifer L. Welch
+Jennifer L Welch
+J L Welch
+Welch J
+Jianer Chen
+J Chen
+J. Chen
+Chen J
+Jinxiang Chai
+J Chai
+J. Chai
+Chai J
+John Keyser
+J Keyser
+J. Keyser
+Keyser J
+Jyh-Charn (Steve) Liu
+Jyh Liu
+J Liu
+J. Liu
+Jyh C.(. Liu
+Jyh C( Liu
+J C Liu
+Liu J
+Lawrence Rauchwerger
+L Rauchwerger
+L. Rauchwerger
+Rauchwerger L
+Maurice Rojas
+M Rojas
+M. Rojas
+Rojas M
+Nancy M. Amato
+Nancy Amato
+N Amato
+N. Amato
+Nancy M. Amato
+Nancy M Amato
+N M Amato
+Amato N
+Rabi N. Mahapatra
+Rabi Mahapatra
+R Mahapatra
+R. Mahapatra
+Rabi N. Mahapatra
+Rabi N Mahapatra
+R N Mahapatra
+Mahapatra R
+Radu Stoleru
+R Stoleru
+R. Stoleru
+Stoleru R
+Ricardo Gutierrez-Osuna
+Ricardo Osuna
+R Osuna
+R. Osuna
+Ricardo G. Osuna
+Ricardo G Osuna
+R G Osuna
+Osuna R
+Riccardo Bettati
+R Bettati
+R. Bettati
+Bettati R
+Richard Furuta
+R Furuta
+R. Furuta
+Furuta R
+Robin R. Murphy
+Robin Murphy
+R Murphy
+R. Murphy
+Robin R. Murphy
+Robin R Murphy
+R R Murphy
+Murphy R
+Scott Schaefer
+S Schaefer
+S. Schaefer
+Schaefer S
+Sing-Hoi Sze
+Sing Sze
+S Sze
+S. Sze
+Sing H. Sze
+Sing H Sze
+S H Sze
+Sze S
+Thomas R. Ioerger
+Thomas Ioerger
+T Ioerger
+T. Ioerger
+Thomas R. Ioerger
+Thomas R Ioerger
+T R Ioerger
+Ioerger T
+Tiffani L. Williams
+Tiffani Williams
+T Williams
+T. Williams
+Tiffani L. Williams
+Tiffani L Williams
+T L Williams
+Williams T
+Timothy Alden Davis
+Timothy Davis
+T Davis
+T. Davis
+Timothy A. Davis
+Timothy A Davis
+T A Davis
+Davis T
+Tracy Anne Hammond
+Tracy Hammond
+T Hammond
+T. Hammond
+Tracy A. Hammond
+Tracy A Hammond
+T A Hammond
+Hammond T
+Valerie E. Taylor
+Valerie Taylor
+V Taylor
+V. Taylor
+Valerie E. Taylor
+Valerie E Taylor
+V E Taylor
+Taylor V
+Vivek Sarin
+V Sarin
+V. Sarin
+Sarin V
+Yoonsuck Choe
+Y Choe
+Y. Choe
+Choe Y
+Greg Andrews
+G Andrews
+G. Andrews
+Andrews G
+Christian Collberg
+C Collberg
+C. Collberg
+Collberg C
+Saumya Debray
+S Debray
+S. Debray
+Debray S
+Peter J. Downey
+Peter Downey
+P Downey
+P. Downey
+Peter J. Downey
+Peter J Downey
+P J Downey
+Downey P
+Alon Efrat
+A Efrat
+A. Efrat
+Efrat A
+Chris Gniady
+C Gniady
+C. Gniady
+Gniady C
+John H. Hartman
+John Hartman
+J Hartman
+J. Hartman
+John H. Hartman
+John H Hartman
+J H Hartman
+Hartman J
+John Kececioglu
+J Kececioglu
+J. Kececioglu
+Kececioglu J
+Stephen Kobourov
+S Kobourov
+S. Kobourov
+Kobourov S
+David Lowenthal
+D Lowenthal
+D. Lowenthal
+Lowenthal D
+Larry Peterson
+L Peterson
+L. Peterson
+Peterson L
+Todd Proebsting
+T Proebsting
+T. Proebsting
+Proebsting T
+Carlos Scheidegger
+C Scheidegger
+C. Scheidegger
+Scheidegger C
+Richard T. Snodgrass
+Richard Snodgrass
+R Snodgrass
+R. Snodgrass
+Richard T. Snodgrass
+Richard T Snodgrass
+R T Snodgrass
+Snodgrass R
+Beichuan Zhang
+B Zhang
+B. Zhang
+Zhang B
+Kobus Barnard
+K Barnard
+K. Barnard
+Barnard K
+Sandiway Fong
+S Fong
+S. Fong
+Fong S
+Sudha Ram
+S Ram
+S. Ram
+Ram S
+Alexei (Alyosha) Efros
+Alexei Efros
+A Efros
+A. Efros
+Alexei (. Efros
+Alexei ( Efros
+A ( Efros
+Efros A
+Alistair Sinclair
+A Sinclair
+A. Sinclair
+Sinclair A
+Anthony D. Joseph
+Anthony Joseph
+A Joseph
+A. Joseph
+Anthony D. Joseph
+Anthony D Joseph
+A D Joseph
+Joseph A
+Armando Fox
+A Fox
+A. Fox
+Fox A
+Benjamin Recht
+B Recht
+B. Recht
+Recht B
+Bernd Sturmfels
+B Sturmfels
+B. Sturmfels
+Sturmfels B
+Björn Hartmann
+B Hartmann
+B. Hartmann
+Hartmann B
+Brian A. Barsky
+Brian Barsky
+B Barsky
+B. Barsky
+Brian A. Barsky
+Brian A Barsky
+B A Barsky
+Barsky B
+Christos Papadimitriou
+C Papadimitriou
+C. Papadimitriou
+Papadimitriou C
+Daniel Klein
+D Klein
+D. Klein
+Klein D
+David A. Patterson
+David Patterson
+D Patterson
+D. Patterson
+David A. Patterson
+David A Patterson
+D A Patterson
+Patterson D
+David E. Culler
+David Culler
+D Culler
+D. Culler
+David E. Culler
+David E Culler
+D E Culler
+Culler D
+David Wagner
+D Wagner
+D. Wagner
+Wagner D
+Dawn Song
+D Song
+D. Song
+Song D
+Doug Tygar
+D Tygar
+D. Tygar
+Tygar D
+Elchanan Mossel
+E Mossel
+E. Mossel
+Mossel E
+Eric Brewer
+E Brewer
+E. Brewer
+Brewer E
+Eric Paulos
+E Paulos
+E. Paulos
+Paulos E
+George Necula
+G Necula
+G. Necula
+Necula G
+Ion Stoica
+I Stoica
+I. Stoica
+Stoica I
+James Demmel
+J Demmel
+J. Demmel
+Demmel J
+James O'Brien
+J O'Brien
+J. O'Brien
+O'Brien J
+Jitendra Malik
+J Malik
+J. Malik
+Malik J
+John D. Kubiatowicz
+John Kubiatowicz
+J Kubiatowicz
+J. Kubiatowicz
+John D. Kubiatowicz
+John D Kubiatowicz
+J D Kubiatowicz
+Kubiatowicz J
+John F. Canny
+John Canny
+J Canny
+J. Canny
+John F. Canny
+John F Canny
+J F Canny
+Canny J
+John Wawrzynek
+J Wawrzynek
+J. Wawrzynek
+Wawrzynek J
+Jonathan Shewchuk
+J Shewchuk
+J. Shewchuk
+Shewchuk J
+Joseph M. Hellerstein
+Joseph Hellerstein
+J Hellerstein
+J. Hellerstein
+Joseph M. Hellerstein
+Joseph M Hellerstein
+J M Hellerstein
+Hellerstein J
+Katherine A. Yelick
+Katherine Yelick
+K Yelick
+K. Yelick
+Katherine A. Yelick
+Katherine A Yelick
+K A Yelick
+Yelick K
+Ken Goldberg
+K Goldberg
+K. Goldberg
+Goldberg K
+Koushik Sen
+K Sen
+K. Sen
+Sen K
+Krste Asanovic
+K Asanovic
+K. Asanovic
+Asanovic K
+Lior Pachter
+L Pachter
+L. Pachter
+Pachter L
+Maneesh Agrawala
+M Agrawala
+M. Agrawala
+Agrawala M
+Marti Hearst
+M Hearst
+M. Hearst
+Hearst M
+Michael Franklin
+M Franklin
+M. Franklin
+Franklin M
+Michael Jordan
+M Jordan
+M. Jordan
+Jordan M
+Nir Yosef
+N Yosef
+N. Yosef
+Yosef N
+Peter Bartlett
+P Bartlett
+P. Bartlett
+Bartlett P
+Pieter Abbeel
+P Abbeel
+P. Abbeel
+Abbeel P
+Prasad Raghavendra
+P Raghavendra
+P. Raghavendra
+Raghavendra P
+Randy H. Katz
+Randy Katz
+R Katz
+R. Katz
+Randy H. Katz
+Randy H Katz
+R H Katz
+Katz R
+Ras Bodik
+R Bodik
+R. Bodik
+Bodik R
+Richard M. Karp
+Richard Karp
+R Karp
+R. Karp
+Richard M. Karp
+Richard M Karp
+R M Karp
+Karp R
+Ruzena Bajcsy
+R Bajcsy
+R. Bajcsy
+Bajcsy R
+Satish Rao
+S Rao
+S. Rao
+Rao S
+Scott Shenker
+S Shenker
+S. Shenker
+Shenker S
+Stuart J. Russell
+Stuart Russell
+S Russell
+S. Russell
+Stuart J. Russell
+Stuart J Russell
+S J Russell
+Russell S
+Sylvia Ratnasamy
+S Ratnasamy
+S. Ratnasamy
+Ratnasamy S
+Tapan S. Parikh
+Tapan Parikh
+T Parikh
+T. Parikh
+Tapan S. Parikh
+Tapan S Parikh
+T S Parikh
+Parikh T
+Thomas Griffiths
+T Griffiths
+T. Griffiths
+Griffiths T
+Umesh Vazirani
+U Vazirani
+U. Vazirani
+Vazirani U
+Vern Paxson
+V Paxson
+V. Paxson
+Paxson V
+Yun S. Song
+Yun Song
+Y Song
+Y. Song
+Yun S. Song
+Yun S Song
+Y S Song
+Song Y
+Bernd Hamann
+B Hamann
+B. Hamann
+Hamann B
+Bertram Ludaescher
+B Ludaescher
+B. Ludaescher
+Ludaescher B
+Biswanath Mukherjee
+B Mukherjee
+B. Mukherjee
+Mukherjee B
+Daniel M. Gusfield
+Daniel Gusfield
+D Gusfield
+D. Gusfield
+Daniel M. Gusfield
+Daniel M Gusfield
+D M Gusfield
+Gusfield D
+Dipak Ghosal
+D Ghosal
+D. Ghosal
+Ghosal D
+Francois Gygi
+F Gygi
+F. Gygi
+Gygi F
+Hao Chen
+H Chen
+H. Chen
+Chen H
+Ian Davidson
+I Davidson
+I. Davidson
+Davidson I
+Ilias Tagkopoulos
+I Tagkopoulos
+I. Tagkopoulos
+Tagkopoulos I
+Karl N. Levitt
+Karl Levitt
+K Levitt
+K. Levitt
+Karl N. Levitt
+Karl N Levitt
+K N Levitt
+Levitt K
+Kennet I. Joy
+Kennet Joy
+K Joy
+K. Joy
+Kennet I. Joy
+Kennet I Joy
+K I Joy
+Joy K
+Kwan-Liu Ma
+Kwan Ma
+K Ma
+K. Ma
+Kwan L. Ma
+Kwan L Ma
+K L Ma
+Ma K
+Matthew A. Bishop
+Matthew Bishop
+M Bishop
+M. Bishop
+Matthew A. Bishop
+Matthew A Bishop
+M A Bishop
+Bishop M
+Matthew Franklin
+M Franklin
+M. Franklin
+Franklin M
+Matthew K. Farrens
+Matthew Farrens
+M Farrens
+M. Farrens
+Matthew K. Farrens
+Matthew K Farrens
+M K Farrens
+Farrens M
+Michael Neff
+M Neff
+M. Neff
+Neff M
+Nelson Max
+N Max
+N. Max
+Max N
+Nina Amenta
+N Amenta
+N. Amenta
+Amenta N
+Norman S. Matloff
+Norman Matloff
+N Matloff
+N. Matloff
+Norman S. Matloff
+Norman S Matloff
+N S Matloff
+Matloff N
+Patrice Koehl
+P Koehl
+P. Koehl
+Koehl P
+Phillip W. Rogaway
+Phillip Rogaway
+P Rogaway
+P. Rogaway
+Phillip W. Rogaway
+Phillip W Rogaway
+P W Rogaway
+Rogaway P
+Prasant Mohapatra
+P Mohapatra
+P. Mohapatra
+Mohapatra P
+Premkumar T. Devanbu
+Premkumar Devanbu
+P Devanbu
+P. Devanbu
+Premkumar T. Devanbu
+Premkumar T Devanbu
+P T Devanbu
+Devanbu P
+Raissa D'Souza
+R D'Souza
+R. D'Souza
+D'Souza R
+Raju Pandey
+R Pandey
+R. Pandey
+Pandey R
+Ronald A. Olsson
+Ronald Olsson
+R Olsson
+R. Olsson
+Ronald A. Olsson
+Ronald A Olsson
+R A Olsson
+Olsson R
+Shyhtsun Felix Wu
+Shyhtsun Wu
+S Wu
+S. Wu
+Shyhtsun F. Wu
+Shyhtsun F Wu
+S F Wu
+Wu S
+Vladimir Filkov
+V Filkov
+V. Filkov
+Filkov V
+Xin Liu
+X Liu
+X. Liu
+Liu X
+Zhaojun Bai
+Z Bai
+Z. Bai
+Bai Z
+Zhendong Su
+Z Su
+Z. Su
+Su Z
+Aditi Majumder
+A Majumder
+A. Majumder
+Majumder A
+Alexander Ihler
+A Ihler
+A. Ihler
+Ihler A
+Alexander Nicolau
+A Nicolau
+A. Nicolau
+Nicolau A
+Alexander Veidenbaum
+A Veidenbaum
+A. Veidenbaum
+Veidenbaum A
+Alfred Kobsa
+A Kobsa
+A. Kobsa
+Kobsa A
+Amelia C. Regan
+Amelia Regan
+A Regan
+A. Regan
+Amelia C. Regan
+Amelia C Regan
+A C Regan
+Regan A
+Andre van der Hoek
+Andre Hoek
+A Hoek
+A. Hoek
+Andre v.d. Hoek
+Andre vd Hoek
+A v Hoek
+Hoek A
+Babak Shahbaba
+B Shahbaba
+B. Shahbaba
+Shahbaba B
+Bill Tomlinson
+B Tomlinson
+B. Tomlinson
+Tomlinson B
+Bonnie Nardi
+B Nardi
+B. Nardi
+Nardi B
+Charless Fowlkes
+C Fowlkes
+C. Fowlkes
+Fowlkes C
+Chen Li
+C Li
+C. Li
+Li C
+Cristina V. Lopes
+Cristina Lopes
+C Lopes
+C. Lopes
+Cristina V. Lopes
+Cristina V Lopes
+C V Lopes
+Lopes C
+Dan Frost
+D Frost
+D. Frost
+Frost D
+Daniel Gillen
+D Gillen
+D. Gillen
+Gillen D
+Daniel S. Hirschberg
+Daniel Hirschberg
+D Hirschberg
+D. Hirschberg
+Daniel S. Hirschberg
+Daniel S Hirschberg
+D S Hirschberg
+Hirschberg D
+David Eppstein
+D Eppstein
+D. Eppstein
+Eppstein D
+David Redmiles
+D Redmiles
+D. Redmiles
+Redmiles D
+Deva Ramanan
+D Ramanan
+D. Ramanan
+Ramanan D
+Donald J. Patterson
+Donald Patterson
+D Patterson
+D. Patterson
+Donald J. Patterson
+Donald J Patterson
+D J Patterson
+Patterson D
+Elaheh (Eli) Bozorgzadeh
+Elaheh Bozorgzadeh
+E Bozorgzadeh
+E. Bozorgzadeh
+Elaheh (. Bozorgzadeh
+Elaheh ( Bozorgzadeh
+E ( Bozorgzadeh
+Bozorgzadeh E
+Eric Mjolsness
+E Mjolsness
+E. Mjolsness
+Mjolsness E
+Gary M. Olson
+Gary Olson
+G Olson
+G. Olson
+Gary M. Olson
+Gary M Olson
+G M Olson
+Olson G
+Gene Tsudik
+G Tsudik
+G. Tsudik
+Tsudik G
+Gillian R Hayes
+Gillian Hayes
+G Hayes
+G. Hayes
+Gillian R. Hayes
+Gillian R Hayes
+G R Hayes
+Hayes G
+Gloria Mark
+G Mark
+G. Mark
+Mark G
+Gopi Meenakshisundaram
+G Meenakshisundaram
+G. Meenakshisundaram
+Meenakshisundaram G
+Hal Stern
+H Stern
+H. Stern
+Stern H
+Harry Xu
+H Xu
+H. Xu
+Xu H
+Hernando Ombao
+H Ombao
+H. Ombao
+Ombao H
+Ian G. Harris
+Ian Harris
+I Harris
+I. Harris
+Ian G. Harris
+Ian G Harris
+I G Harris
+Harris I
+Issac D. Scherson
+Issac Scherson
+I Scherson
+I. Scherson
+Issac D. Scherson
+Issac D Scherson
+I D Scherson
+Scherson I
+James A. Jones
+James Jones
+J Jones
+J. Jones
+James A. Jones
+James A Jones
+J A Jones
+Jones J
+Jessuca Utts
+J Utts
+J. Utts
+Utts J
+Judy Olson
+J Olson
+J. Olson
+Olson J
+Lubomir Bic
+L Bic
+L. Bic
+Bic L
+Magda El Zarki
+Magda Zarki
+M Zarki
+M. Zarki
+Magda E. Zarki
+Magda E Zarki
+M E Zarki
+Zarki M
+Marco Levorato
+M Levorato
+M. Levorato
+Levorato M
+Max Welling
+M Welling
+M. Welling
+Welling M
+Michael Dillencourt
+M Dillencourt
+M. Dillencourt
+Dillencourt M
+Michael Franz
+M Franz
+M. Franz
+Franz M
+Michael J. Carey
+Michael Carey
+M Carey
+M. Carey
+Michael J. Carey
+Michael J Carey
+M J Carey
+Carey M
+Michael T. Goodrich
+Michael Goodrich
+M Goodrich
+M. Goodrich
+Michael T. Goodrich
+Michael T Goodrich
+M T Goodrich
+Goodrich M
+Nalini Venkatasubramanian
+N Venkatasubramanian
+N. Venkatasubramanian
+Venkatasubramanian N
+Nikil Dutt
+N Dutt
+N. Dutt
+Dutt N
+Padhraic Smyth
+P Smyth
+P. Smyth
+Smyth P
+Paul Dourish
+P Dourish
+P. Dourish
+Dourish P
+Pierre Baldi
+P Baldi
+P. Baldi
+Baldi P
+Richard Lathrop
+R Lathrop
+R. Lathrop
+Lathrop R
+Rina Dechter
+R Dechter
+R. Dechter
+Dechter R
+Sandy Irani
+S Irani
+S. Irani
+Irani S
+Scott Jordan
+S Jordan
+S. Jordan
+Jordan S
+Sharad Mehrotra
+S Mehrotra
+S. Mehrotra
+Mehrotra S
+Stanislaw Jarecki
+S Jarecki
+S. Jarecki
+Jarecki S
+Tony Givargis
+T Givargis
+T. Givargis
+Givargis T
+Wayne Hayes
+W Hayes
+W. Hayes
+Hayes W
+Wesley O. Johnson
+Wesley Johnson
+W Johnson
+W. Johnson
+Wesley O. Johnson
+Wesley O Johnson
+W O Johnson
+Johnson W
+Xiaohui Xie
+X Xie
+X. Xie
+Xie X
+Yaming Yu
+Y Yu
+Y. Yu
+Yu Y
+Yunan Chen
+Y Chen
+Y. Chen
+Chen Y
+Zhaixia Yu
+Z Yu
+Z. Yu
+Yu Z
+Adnan Darwiche
+A Darwiche
+A. Darwiche
+Darwiche A
+Alan Yuille
+A Yuille
+A. Yuille
+Yuille A
+Alexander Sherstov
+A Sherstov
+A. Sherstov
+Sherstov A
+Alfonso F. Cardenas
+Alfonso Cardenas
+A Cardenas
+A. Cardenas
+Alfonso F. Cardenas
+Alfonso F Cardenas
+A F Cardenas
+Cardenas A
+Amit Sahai
+A Sahai
+A. Sahai
+Sahai A
+Ani Nahapetian
+A Nahapetian
+A. Nahapetian
+Nahapetian A
+Carlo Zaniolo
+C Zaniolo
+C. Zaniolo
+Zaniolo C
+Christopher Lee
+C Lee
+C. Lee
+Lee C
+D. Stott Parker
+D. Parker
+D Parker
+D. Parker
+D. S. Parker
+D. S Parker
+D S Parker
+Parker D
+David Heckerman
+D Heckerman
+D. Heckerman
+Heckerman D
+Demetri Terzopoulos
+D Terzopoulos
+D. Terzopoulos
+Terzopoulos D
+Eleazar Eskin
+E Eskin
+E. Eskin
+Eskin E
+Eliezer Gafni
+E Gafni
+E. Gafni
+Gafni E
+Glenn Reinman
+G Reinman
+G. Reinman
+Reinman G
+Jason (Jingsheng) Cong
+Jason Cong
+J Cong
+J. Cong
+Jason (. Cong
+Jason ( Cong
+J ( Cong
+Cong J
+Jason Ernst
+J Ernst
+J. Ernst
+Ernst J
+Jens Palsberg
+J Palsberg
+J. Palsberg
+Palsberg J
+Joseph Distefano III
+Joseph III
+J III
+J. III
+Joseph D. III
+Joseph D III
+J D III
+III J
+Judea Pearl
+J Pearl
+J. Pearl
+Pearl J
+Junghoo (John) Cho
+Junghoo Cho
+J Cho
+J. Cho
+Junghoo (. Cho
+Junghoo ( Cho
+J ( Cho
+Cho J
+Lixia Zhang
+L Zhang
+L. Zhang
+Zhang L
+Majid Sarrafzadeh
+M Sarrafzadeh
+M. Sarrafzadeh
+Sarrafzadeh M
+Mani Srivastava
+M Srivastava
+M. Srivastava
+Srivastava M
+Mario Gerla
+M Gerla
+M. Gerla
+Gerla M
+Michael G. Dyer
+Michael Dyer
+M Dyer
+M. Dyer
+Michael G. Dyer
+Michael G Dyer
+M G Dyer
+Dyer M
+Milos D. Ercegovac
+Milos Ercegovac
+M Ercegovac
+M. Ercegovac
+Milos D. Ercegovac
+Milos D Ercegovac
+M D Ercegovac
+Ercegovac M
+Miodrag Potkonjak
+M Potkonjak
+M. Potkonjak
+Potkonjak M
+Rafail Ostrovsky
+R Ostrovsky
+R. Ostrovsky
+Ostrovsky R
+Richard Korf
+R Korf
+R. Korf
+Korf R
+Richard R. Muntz
+Richard Muntz
+R Muntz
+R. Muntz
+Richard R. Muntz
+Richard R Muntz
+R R Muntz
+Muntz R
+Rupak Majumdar
+R Majumdar
+R. Majumdar
+Majumdar R
+Sheila Greibach
+S Greibach
+S. Greibach
+Greibach S
+Song Chun Zhu
+Song Zhu
+S Zhu
+S. Zhu
+Song C. Zhu
+Song C Zhu
+S C Zhu
+Zhu S
+Songwu Lu
+S Lu
+S. Lu
+Lu S
+Stanley Osher
+S Osher
+S. Osher
+Osher S
+Stefano Soatto
+S Soatto
+S. Soatto
+Soatto S
+Todd Millstein
+T Millstein
+T. Millstein
+Millstein T
+Tyson Condie
+T Condie
+T. Condie
+Condie T
+Wei Wang
+W Wang
+W. Wang
+Wang W
+Yuval Tamir
+Y Tamir
+Y. Tamir
+Tamir Y
+Alex C. Snoeren
+Alex Snoeren
+A Snoeren
+A. Snoeren
+Alex C. Snoeren
+Alex C Snoeren
+A C Snoeren
+Snoeren A
+Alex Orailoglu
+A Orailoglu
+A. Orailoglu
+Orailoglu A
+Alexander Vardy
+A Vardy
+A. Vardy
+Vardy A
+Alin Deutsch
+A Deutsch
+A. Deutsch
+Deutsch A
+Alon Orlitsky
+A Orlitsky
+A. Orlitsky
+Orlitsky A
+Amin Vahdat
+A Vahdat
+A. Vahdat
+Vahdat A
+Andrew Kahng
+A Kahng
+A. Kahng
+Kahng A
+Bill Lin
+B Lin
+B. Lin
+Lin B
+Bradley Calder
+B Calder
+B. Calder
+Calder B
+Charles Elkan
+C Elkan
+C. Elkan
+Elkan C
+Daniel Kane
+D Kane
+D. Kane
+Kane D
+Daniele Micciancio
+D Micciancio
+D. Micciancio
+Micciancio D
+David Kriegman
+D Kriegman
+D. Kriegman
+Kriegman D
+Dean Tullsen
+D Tullsen
+D. Tullsen
+Tullsen D
+Falko Kuester
+F Kuester
+F. Kuester
+Kuester F
+Fan Graham
+F Graham
+F. Graham
+Graham F
+Garrison Cottrell
+G Cottrell
+G. Cottrell
+Cottrell G
+Geoffrey Voelker
+G Voelker
+G. Voelker
+Voelker G
+Henrik Jensen
+H Jensen
+H. Jensen
+Jensen H
+Hovav Shacham
+H Shacham
+H. Shacham
+Shacham H
+Ingolf Krueger
+I Krueger
+I. Krueger
+Krueger I
+Jeanne Ferrante
+J Ferrante
+J. Ferrante
+Ferrante J
+Jeffrey Remmel
+J Remmel
+J. Remmel
+Remmel J
+Joseph Pasquale
+J Pasquale
+J. Pasquale
+Pasquale J
+Kamalika Chaudhuri
+K Chaudhuri
+K. Chaudhuri
+Chaudhuri K
+Keith Marzullo
+K Marzullo
+K. Marzullo
+Marzullo K
+Larry Smarr
+L Smarr
+L. Smarr
+Smarr L
+Lawrence Saul
+L Saul
+L. Saul
+Saul L
+Michael Taylor
+M Taylor
+M. Taylor
+Taylor M
+Mihir Bellare
+M Bellare
+M. Bellare
+Bellare M
+Pavel Pevzner
+P Pevzner
+P. Pevzner
+Pevzner P
+Pradeep Khosla
+P Khosla
+P. Khosla
+Khosla P
+Rajesh Gupta
+R Gupta
+R. Gupta
+Gupta R
+Ramamohan Paturi
+R Paturi
+R. Paturi
+Paturi R
+Ranjit Jhala
+R Jhala
+R. Jhala
+Jhala R
+Ravi Ramamoorthi
+R Ramamoorthi
+R. Ramamoorthi
+Ramamoorthi R
+Ronald Graham
+R Graham
+R. Graham
+Graham R
+Russell Impagliazzo
+R Impagliazzo
+R. Impagliazzo
+Impagliazzo R
+Ryan Kastner
+R Kastner
+R. Kastner
+Kastner R
+Sadik Esener
+S Esener
+S. Esener
+Esener S
+Samuel Buss
+S Buss
+S. Buss
+Buss S
+Sanjoy Dasgupta
+S Dasgupta
+S. Dasgupta
+Dasgupta S
+Scott Baden
+S Baden
+S. Baden
+Baden S
+Scott Klemmer
+S Klemmer
+S. Klemmer
+Klemmer S
+Serge Belongie
+S Belongie
+S. Belongie
+Belongie S
+Shachar Lovett
+S Lovett
+S. Lovett
+Lovett S
+Sorin Lerner
+S Lerner
+S. Lerner
+Lerner S
+Stefan Savage
+S Savage
+S. Savage
+Savage S
+Steven Swanson
+S Swanson
+S. Swanson
+Swanson S
+Tajana Rosing
+T Rosing
+T. Rosing
+Rosing T
+Trey Ideker
+T Ideker
+T. Ideker
+Ideker T
+Victor Vianu
+V Vianu
+V. Vianu
+Vianu V
+Vineet Bafna
+V Bafna
+V. Bafna
+Bafna V
+William Griswold
+W Griswold
+W. Griswold
+Griswold W
+Yannis Papakonstantinou
+Y Papakonstantinou
+Y. Papakonstantinou
+Papakonstantinou Y
+Yoav Freund
+Y Freund
+Y. Freund
+Freund Y
+Yuanyuan Zhou
+Y Zhou
+Y. Zhou
+Zhou Y
+Zhuowen Tu
+Z Tu
+Z. Tu
+Tu Z
+Ambuj K. Singh
+Ambuj Singh
+A Singh
+A. Singh
+Ambuj K. Singh
+Ambuj K Singh
+A K Singh
+Singh A
+Amr El Abbadi
+Amr Abbadi
+A Abbadi
+A. Abbadi
+Amr E. Abbadi
+Amr E Abbadi
+A E Abbadi
+Abbadi A
+Ben Hardekopf
+B Hardekopf
+B. Hardekopf
+Hardekopf B
+Ben Y. Zhao
+Ben Zhao
+B Zhao
+B. Zhao
+Ben Y. Zhao
+Ben Y Zhao
+B Y Zhao
+Zhao B
+Chandra Krintz
+C Krintz
+C. Krintz
+Krintz C
+Christopher Kruegel
+C Kruegel
+C. Kruegel
+Kruegel C
+Divyakant Agrawal
+D Agrawal
+D. Agrawal
+Agrawal D
+Elizabeth Belding
+E Belding
+E. Belding
+Belding E
+Fred Chong
+F Chong
+F. Chong
+Chong F
+Giovanni Vigna
+G Vigna
+G. Vigna
+Vigna G
+Heather Zheng
+H Zheng
+H. Zheng
+Zheng H
+Huijia (Rachel) Lin
+Huijia Lin
+H Lin
+H. Lin
+Huijia (. Lin
+Huijia ( Lin
+H ( Lin
+Lin H
+Jianwen Su
+J Su
+J. Su
+Su J
+John Gilbert
+J Gilbert
+J. Gilbert
+Gilbert J
+Kevin Almeroth
+K Almeroth
+K. Almeroth
+Almeroth K
+Linda Petzold
+L Petzold
+L. Petzold
+Petzold L
+Matthew Turk
+M Turk
+M. Turk
+Turk M
+Omer Egecioglu
+O Egecioglu
+O. Egecioglu
+Egecioglu O
+Peter Cappello
+P Cappello
+P. Cappello
+Cappello P
+Richard A. Kemmerer
+Richard Kemmerer
+R Kemmerer
+R. Kemmerer
+Richard A. Kemmerer
+Richard A Kemmerer
+R A Kemmerer
+Kemmerer R
+Richard Wolski
+R Wolski
+R. Wolski
+Wolski R
+Stefano Tessaro
+S Tessaro
+S. Tessaro
+Tessaro S
+Subhash Suri
+S Suri
+S. Suri
+Suri S
+Tao Yang
+T Yang
+T. Yang
+Yang T
+Teofilo Gonzalez
+T Gonzalez
+T. Gonzalez
+Gonzalez T
+Tevfik Bultan
+T Bultan
+T. Bultan
+Bultan T
+Theodore Kim
+T Kim
+T. Kim
+Kim T
+Tim Sherwood
+T Sherwood
+T. Sherwood
+Sherwood T
+Tobias Hollerer
+T Hollerer
+T. Hollerer
+Hollerer T
+Wim van Dam
+Wim Dam
+W Dam
+W. Dam
+Wim v. Dam
+Wim v Dam
+W v Dam
+Dam W
+Xifeng Yan
+X Yan
+X. Yan
+Yan X
+Yuan-Fang Wang
+Yuan Wang
+Y Wang
+Y. Wang
+Yuan F. Wang
+Yuan F Wang
+Y F Wang
+Wang Y
+Alexander Razborov
+A Razborov
+A. Razborov
+Razborov A
+Andrew Chien
+A Chien
+A. Chien
+Chien A
+Anne Rogers
+A Rogers
+A. Rogers
+Rogers A
+Gordon Kindlmann
+G Kindlmann
+G. Kindlmann
+Kindlmann G
+Gregory Shakhnarovich
+G Shakhnarovich
+G. Shakhnarovich
+Shakhnarovich G
+Haryadi Gunawi
+H Gunawi
+H. Gunawi
+Gunawi H
+Henry Hoffmann
+H Hoffmann
+H. Hoffmann
+Hoffmann H
+Ian Foster
+I Foster
+I. Foster
+Foster I
+Janos Simon
+J Simon
+J. Simon
+Simon J
+Jinbo Xu
+J Xu
+J. Xu
+Xu J
+John Goldsmith
+J Goldsmith
+J. Goldsmith
+Goldsmith J
+John Lafferty
+J Lafferty
+J. Lafferty
+Lafferty J
+John Reppy
+J Reppy
+J. Reppy
+Reppy J
+Julia Chuzhoy
+J Chuzhoy
+J. Chuzhoy
+Chuzhoy J
+Karen Livescu
+K Livescu
+K. Livescu
+Livescu K
+Ketan Mulmuley
+K Mulmuley
+K. Mulmuley
+Mulmuley K
+L. Ridgway Scott
+L. Scott
+L Scott
+L. Scott
+L. R. Scott
+L. R Scott
+L R Scott
+Scott L
+Laszlo Babai
+L Babai
+L. Babai
+Babai L
+Madhur Tulsiani
+M Tulsiani
+M. Tulsiani
+Tulsiani M
+Michael O'Donnell
+M O'Donnell
+M. O'Donnell
+O'Donnell M
+Nathan Srebro
+N Srebro
+N. Srebro
+Srebro N
+Raquel Urtasun
+R Urtasun
+R. Urtasun
+Urtasun R
+Rick Stevens
+R Stevens
+R. Stevens
+Stevens R
+Risi Kondor
+R Kondor
+R. Kondor
+Kondor R
+Robert Soare
+R Soare
+R. Soare
+Soare R
+Stuart Kurtz
+S Kurtz
+S. Kurtz
+Kurtz S
+Todd Dupont
+T Dupont
+T. Dupont
+Dupont T
+Yali Amit
+Y Amit
+Y. Amit
+Amit Y
+Yury Makarychev
+Y Makarychev
+Y. Makarychev
+Makarychev Y
+Aaron Clauset
+A Clauset
+A. Clauset
+Clauset A
+Andrzej Ehrenfeucht
+A Ehrenfeucht
+A. Ehrenfeucht
+Ehrenfeucht A
+Ann Eisenberg
+A Eisenberg
+A. Eisenberg
+Eisenberg A
+Bor-Yuh Evan Chang
+Bor Chang
+B Chang
+B. Chang
+Bor Y.E. Chang
+Bor YE Chang
+B Y Chang
+Chang B
+Clayton Lewis
+C Lewis
+C. Lewis
+Lewis C
+Debra Goldberg
+D Goldberg
+D. Goldberg
+Goldberg D
+Dirk Grunwald
+D Grunwald
+D. Grunwald
+Grunwald D
+Douglas Sicker
+D Sicker
+D. Sicker
+Sicker D
+Elizabeth Bradley
+E Bradley
+E. Bradley
+Bradley E
+Elizabeth Jessup
+E Jessup
+E. Jessup
+Jessup E
+Gerhard Fischer
+G Fischer
+G. Fischer
+Fischer G
+Henry Tufo
+H Tufo
+H. Tufo
+Tufo H
+James Martin
+J Martin
+J. Martin
+Martin J
+John Bennett
+J Bennett
+J. Bennett
+Bennett J
+John Black
+J Black
+J. Black
+Black J
+Kenneth Anderson
+K Anderson
+K. Anderson
+Anderson K
+Lawrence Hunter
+L Hunter
+L. Hunter
+Hunter L
+Leysia Palen
+L Palen
+L. Palen
+Palen L
+Martha Palmer
+M Palmer
+M. Palmer
+Palmer M
+Michael Eisenberg
+M Eisenberg
+M. Eisenberg
+Eisenberg M
+Michael Mozer
+M Mozer
+M. Mozer
+Mozer M
+Nikolaus Correll
+N Correll
+N. Correll
+Correll N
+Pavol Cerny
+P Cerny
+P. Cerny
+Cerny P
+Qin Lv
+Q Lv
+Q. Lv
+Lv Q
+Richard Han
+R Han
+R. Han
+Han R
+Roger King
+R King
+R. King
+King R
+Shaun Kane
+S Kane
+S. Kane
+Kane S
+Shivakant Mishra
+S Mishra
+S. Mishra
+Mishra S
+Sriram Sankaranarayanan
+S Sankaranarayanan
+S. Sankaranarayanan
+Sankaranarayanan S
+Tamara Sumner
+T Sumner
+T. Sumner
+Sumner T
+Timothy Brown
+T Brown
+T. Brown
+Brown T
+Tom Yeh
+T Yeh
+T. Yeh
+Yeh T
+Xiao-Chuan Cai
+Xiao Cai
+X Cai
+X. Cai
+Xiao C. Cai
+Xiao C Cai
+X C Cai
+Cai X
+Jordan Boyd-Graber
+Jordan Graber
+J Graber
+J. Graber
+Jordan B. Graber
+Jordan B Graber
+J B Graber
+Graber J
+Ahmed Helmy
+A Helmy
+A. Helmy
+Helmy A
+Alin Dobra
+A Dobra
+A. Dobra
+Dobra A
+Alireza Entezari
+A Entezari
+A. Entezari
+Entezari A
+Alper Ungor
+A Ungor
+A. Ungor
+Ungor A
+Anand Rangarajan
+A Rangarajan
+A. Rangarajan
+Rangarajan A
+Arunava Banerjee
+A Banerjee
+A. Banerjee
+Banerjee A
+Baba C. Vemuri
+Baba Vemuri
+B Vemuri
+B. Vemuri
+Baba C. Vemuri
+Baba C Vemuri
+B C Vemuri
+Vemuri B
+Benjamin C. Lok
+Benjamin Lok
+B Lok
+B. Lok
+Benjamin C. Lok
+Benjamin C Lok
+B C Lok
+Lok B
+Beverly Sanders
+B Sanders
+B. Sanders
+Sanders B
+Christina M. Gardner-McCune
+Christina McCune
+C McCune
+C. McCune
+Christina M.G. McCune
+Christina MG McCune
+C M McCune
+McCune C
+Corey Toler-Franklin
+Corey Franklin
+C Franklin
+C. Franklin
+Corey T. Franklin
+Corey T Franklin
+C T Franklin
+Franklin C
+Daisy Zhe Wang
+Daisy Wang
+D Wang
+D. Wang
+Daisy Z. Wang
+Daisy Z Wang
+D Z Wang
+Wang D
+Damon L. Woodard
+Damon Woodard
+D Woodard
+D. Woodard
+Damon L. Woodard
+Damon L Woodard
+D L Woodard
+Woodard D
+Douglas D. Dankel II
+Douglas II
+D II
+D. II
+Douglas D.D. II
+Douglas DD II
+D D II
+II D
+Eakta Jain
+E Jain
+E. Jain
+Jain E
+Jih-Kwon Peir
+Jih Peir
+J Peir
+J. Peir
+Jih K. Peir
+Jih K Peir
+J K Peir
+Peir J
+Jonathan C.L. Liu
+Jonathan Liu
+J Liu
+J. Liu
+Jonathan C. Liu
+Jonathan C Liu
+J C Liu
+Liu J
+Jorg Peters
+J Peters
+J. Peters
+Peters J
+Jose A.B. Fortes
+Jose Fortes
+J Fortes
+J. Fortes
+Jose A. Fortes
+Jose A Fortes
+J A Fortes
+Fortes J
+Joseph N. Wilson
+Joseph Wilson
+J Wilson
+J. Wilson
+Joseph N. Wilson
+Joseph N Wilson
+J N Wilson
+Wilson J
+Juan E. Gilbert
+Juan Gilbert
+J Gilbert
+J. Gilbert
+Juan E. Gilbert
+Juan E Gilbert
+J E Gilbert
+Gilbert J
+Kevin R. B. Butler
+Kevin Butler
+K Butler
+K. Butler
+Kevin R.B. Butler
+Kevin RB Butler
+K R Butler
+Butler K
+Kyla A. McMullen
+Kyla McMullen
+K McMullen
+K. McMullen
+Kyla A. McMullen
+Kyla A McMullen
+K A McMullen
+McMullen K
+Lisa Anthony
+L Anthony
+L. Anthony
+Anthony L
+Manuel E. Bermudez
+Manuel Bermudez
+M Bermudez
+M. Bermudez
+Manuel E. Bermudez
+Manuel E Bermudez
+M E Bermudez
+Bermudez M
+Markus Schneider
+M Schneider
+M. Schneider
+Schneider M
+Meera Sitharam
+M Sitharam
+M. Sitharam
+Sitharam M
+My T. Thai
+My Thai
+M Thai
+M. Thai
+My T. Thai
+My T Thai
+M T Thai
+Thai M
+Paul D. Gader
+Paul Gader
+P Gader
+P. Gader
+Paul D. Gader
+Paul D Gader
+P D Gader
+Gader P
+Patrick Gerard Traynor
+Patrick Traynor
+P Traynor
+P. Traynor
+Patrick G. Traynor
+Patrick G Traynor
+P G Traynor
+Traynor P
+Prabhat Mishra
+P Mishra
+P. Mishra
+Mishra P
+Richard Newman
+R Newman
+R. Newman
+Newman R
+Sanjay Ranka
+S Ranka
+S. Ranka
+Ranka S
+Sartaj Sahni
+S Sahni
+S. Sahni
+Sahni S
+Shaundra Daily
+S Daily
+S. Daily
+Daily S
+Shigang Chen
+S Chen
+S. Chen
+Chen S
+Stephen M. Thebaut
+Stephen Thebaut
+S Thebaut
+S. Thebaut
+Stephen M. Thebaut
+Stephen M Thebaut
+S M Thebaut
+Thebaut S
+Sumi Helal
+S Helal
+S. Helal
+Helal S
+Tamer Kahveci
+T Kahveci
+T. Kahveci
+Kahveci T
+Tuba Yavuz-Kahveci
+Tuba Kahveci
+T Kahveci
+T. Kahveci
+Tuba Y. Kahveci
+Tuba Y Kahveci
+T Y Kahveci
+Kahveci T
+Ye Xia
+Y Xia
+Y. Xia
+Xia Y
+Aditya G. Parameswaran
+Aditya Parameswaran
+A Parameswaran
+A. Parameswaran
+Aditya G. Parameswaran
+Aditya G Parameswaran
+A G Parameswaran
+Parameswaran A
+Alex Kirlik
+A Kirlik
+A. Kirlik
+Kirlik A
+Alexandra Kolla
+A Kolla
+A. Kolla
+Kolla A
+Andreas Kloeckner
+A Kloeckner
+A. Kloeckner
+Kloeckner A
+Anil Nirmal Hirani
+Anil Hirani
+A Hirani
+A. Hirani
+Anil N. Hirani
+Anil N Hirani
+A N Hirani
+Hirani A
+Brian P. Bailey
+Brian Bailey
+B Bailey
+B. Bailey
+Brian P. Bailey
+Brian P Bailey
+B P Bailey
+Bailey B
+Brighten Godfrey
+B Godfrey
+B. Godfrey
+Godfrey B
+Carl A. Gunter
+Carl Gunter
+C Gunter
+C. Gunter
+Carl A. Gunter
+Carl A Gunter
+C A Gunter
+Gunter C
+Chandra Sekhar Chekuri
+Chandra Chekuri
+C Chekuri
+C. Chekuri
+Chandra S. Chekuri
+Chandra S Chekuri
+C S Chekuri
+Chekuri C
+Chengxiang Zhai
+C Zhai
+C. Zhai
+Zhai C
+Craig Zilles
+C Zilles
+C. Zilles
+Zilles C
+Dan Roth
+D Roth
+D. Roth
+Roth D
+Darko Marinov
+D Marinov
+D. Marinov
+Marinov D
+David A. Padua
+David Padua
+D Padua
+D. Padua
+David A. Padua
+David A Padua
+D A Padua
+Padua D
+David Alexander Forsyth
+David Forsyth
+D Forsyth
+D. Forsyth
+David A. Forsyth
+David A Forsyth
+D A Forsyth
+Forsyth D
+Derek W. Hoiem
+Derek Hoiem
+D Hoiem
+D. Hoiem
+Derek W. Hoiem
+Derek W Hoiem
+D W Hoiem
+Hoiem D
+Gerald F. DeJong - II
+Gerald II
+G II
+G. II
+Gerald F.D. II
+Gerald FD II
+G F II
+II G
+Grigore Rosu
+G Rosu
+G. Rosu
+Rosu G
+Gul Agha
+G Agha
+G. Agha
+Agha G
+Indranil Gupta
+I Gupta
+I. Gupta
+Gupta I
+Jeff Erickson
+J Erickson
+J. Erickson
+Erickson J
+Jiawei Han
+J Han
+J. Han
+Han J
+John C. Hart
+John Hart
+J Hart
+J. Hart
+John C. Hart
+John C Hart
+J C Hart
+Hart J
+Jose Meseguer
+J Meseguer
+J. Meseguer
+Meseguer J
+Josep Torrellas
+J Torrellas
+J. Torrellas
+Torrellas J
+Julia Constanze Hockenmaier
+Julia Hockenmaier
+J Hockenmaier
+J. Hockenmaier
+Julia C. Hockenmaier
+Julia C Hockenmaier
+J C Hockenmaier
+Hockenmaier J
+Karrie G. Karahalios
+Karrie Karahalios
+K Karahalios
+K. Karahalios
+Karrie G. Karahalios
+Karrie G Karahalios
+K G Karahalios
+Karahalios K
+Kevin Chen-Chuan Chang
+Kevin Chang
+K Chang
+K. Chang
+Kevin C.C. Chang
+Kevin CC Chang
+K C Chang
+Chang K
+Klara Nahrstedt
+K Nahrstedt
+K. Nahrstedt
+Nahrstedt K
+Laxmikant V. Kale
+Laxmikant Kale
+L Kale
+L. Kale
+Laxmikant V. Kale
+Laxmikant V Kale
+L V Kale
+Kale L
+Leonard B. Pitt
+Leonard Pitt
+L Pitt
+L. Pitt
+Leonard B. Pitt
+Leonard B Pitt
+L B Pitt
+Pitt L
+Lui Sha
+L Sha
+L. Sha
+Sha L
+Luke Olson
+L Olson
+L. Olson
+Olson L
+Madhusudan Parthasarathy
+M Parthasarathy
+M. Parthasarathy
+Parthasarathy M
+Mahesh Viswanathan
+M Viswanathan
+M. Viswanathan
+Viswanathan M
+Manoj M. Prabhakaran
+Manoj Prabhakaran
+M Prabhakaran
+M. Prabhakaran
+Manoj M. Prabhakaran
+Manoj M Prabhakaran
+M M Prabhakaran
+Prabhakaran M
+Marc Snir
+M Snir
+M. Snir
+Snir M
+Marco Caccamo
+M Caccamo
+M. Caccamo
+Caccamo M
+Matthew Caesar
+M Caesar
+M. Caesar
+Caesar M
+Paris Smaragdis
+P Smaragdis
+P. Smaragdis
+Smaragdis P
+Ranjitha Kumar
+R Kumar
+R. Kumar
+Kumar R
+Rob A. Rutenbar
+Rob Rutenbar
+R Rutenbar
+R. Rutenbar
+Rob A. Rutenbar
+Rob A Rutenbar
+R A Rutenbar
+Rutenbar R
+Robin H. Kravets
+Robin Kravets
+R Kravets
+R. Kravets
+Robin H. Kravets
+Robin H Kravets
+R H Kravets
+Kravets R
+Roy H. Campbell
+Roy Campbell
+R Campbell
+R. Campbell
+Roy H. Campbell
+Roy H Campbell
+R H Campbell
+Campbell R
+Samuel N. Kamin
+Samuel Kamin
+S Kamin
+S. Kamin
+Samuel N. Kamin
+Samuel N Kamin
+S N Kamin
+Kamin S
+Samuel T. King
+Samuel King
+S King
+S. King
+Samuel T. King
+Samuel T King
+S T King
+King S
+Sariel Har-Peled
+Sariel Peled
+S Peled
+S. Peled
+Sariel H. Peled
+Sariel H Peled
+S H Peled
+Peled S
+Sarita V. Adve
+Sarita Adve
+S Adve
+S. Adve
+Sarita V. Adve
+Sarita V Adve
+S V Adve
+Adve S
+Saurabh Sinha
+S Sinha
+S. Sinha
+Sinha S
+Sheldon Howard Jacobson
+Sheldon Jacobson
+S Jacobson
+S. Jacobson
+Sheldon H. Jacobson
+Sheldon H Jacobson
+S H Jacobson
+Jacobson S
+Steven M. LaValle
+Steven LaValle
+S LaValle
+S. LaValle
+Steven M. LaValle
+Steven M LaValle
+S M LaValle
+LaValle S
+Svetlana Lazebnik
+S Lazebnik
+S. Lazebnik
+Lazebnik S
+Tao Xie
+T Xie
+T. Xie
+Xie T
+Tarek F. Abdelzaher
+Tarek Abdelzaher
+T Abdelzaher
+T. Abdelzaher
+Tarek F. Abdelzaher
+Tarek F Abdelzaher
+T F Abdelzaher
+Abdelzaher T
+Vikram Adve
+V Adve
+V. Adve
+Adve V
+Wai-Tat Fu
+Wai Fu
+W Fu
+W. Fu
+Wai T. Fu
+Wai T Fu
+W T Fu
+Fu W
+William D. Gropp
+William Gropp
+W Gropp
+W. Gropp
+William D. Gropp
+William D Gropp
+W D Gropp
+Gropp W
+A. Udaya Shankar
+A. Shankar
+A Shankar
+A. Shankar
+A. U. Shankar
+A. U Shankar
+A U Shankar
+Shankar A
+Adam Porter
+A Porter
+A. Porter
+Porter A
+Alan Sussman
+A Sussman
+A. Sussman
+Sussman A
+Alexander Barg
+A Barg
+A. Barg
+Barg A
+Amitabh Varshney
+A Varshney
+A. Varshney
+Varshney A
+Amol Deshpande
+A Deshpande
+A. Deshpande
+Deshpande A
+Aravind Srinivasan
+A Srinivasan
+A. Srinivasan
+Srinivasan A
+Ashok Agrawala
+A Agrawala
+A. Agrawala
+Agrawala A
+Atif Memon
+A Memon
+A. Memon
+Memon A
+Ben Bederson
+B Bederson
+B. Bederson
+Bederson B
+Ben Shneiderman
+B Shneiderman
+B. Shneiderman
+Shneiderman B
+Bobby (Samrat) Bhattacharjee
+Bobby Bhattacharjee
+B Bhattacharjee
+B. Bhattacharjee
+Bobby (. Bhattacharjee
+Bobby ( Bhattacharjee
+B ( Bhattacharjee
+Bhattacharjee B
+Bonnie Dorr
+B Dorr
+B. Dorr
+Dorr B
+Charalampos (Babis) Papamanthou
+Charalampos Papamanthou
+C Papamanthou
+C. Papamanthou
+Charalampos (. Papamanthou
+Charalampos ( Papamanthou
+C ( Papamanthou
+Papamanthou C
+Chau-Wen Tseng
+Chau Tseng
+C Tseng
+C. Tseng
+Chau W. Tseng
+Chau W Tseng
+C W Tseng
+Tseng C
+Clyde Kruskal
+C Kruskal
+C. Kruskal
+Kruskal C
+Dana Nau
+D Nau
+D. Nau
+Nau D
+David Van Horn
+David Horn
+D Horn
+D. Horn
+David V. Horn
+David V Horn
+D V Horn
+Horn D
+David Jacobs
+D Jacobs
+D. Jacobs
+Jacobs D
+David Mount
+D Mount
+D. Mount
+Mount D
+Dianne O'Leary
+D O'Leary
+D. O'Leary
+O'Leary D
+Don Perlis
+D Perlis
+D. Perlis
+Perlis D
+Donald Yeung
+D Yeung
+D. Yeung
+Yeung D
+Douglas Oard
+D Oard
+D. Oard
+Oard D
+Elaine Shi
+E Shi
+E. Shi
+Shi E
+Hal Daume III
+Hal III
+H III
+H. III
+Hal D. III
+Hal D III
+H D III
+III H
+Hanan Samet
+H Samet
+H. Samet
+Samet H
+Hector Corrada Bravo
+Hector Bravo
+H Bravo
+H. Bravo
+Hector C. Bravo
+Hector C Bravo
+H C Bravo
+Bravo H
+Howard Elman
+H Elman
+H. Elman
+Elman H
+James Purtilo
+J Purtilo
+J. Purtilo
+Purtilo J
+James Reggia
+J Reggia
+J. Reggia
+Reggia J
+Jeffrey Foster
+J Foster
+J. Foster
+Foster J
+Jeffrey Hollingsworth
+J Hollingsworth
+J. Hollingsworth
+Hollingsworth J
+Jennifer Golbeck
+J Golbeck
+J. Golbeck
+Golbeck J
+Jimmy Lin
+J Lin
+J. Lin
+Lin J
+John Aloimonos
+J Aloimonos
+J. Aloimonos
+Aloimonos J
+Jon Froehlich
+J Froehlich
+J. Froehlich
+Froehlich J
+Jonathan Katz
+J Katz
+J. Katz
+Katz J
+Joseph Ja' Ja'
+Joseph Ja'
+J Ja'
+J. Ja'
+Joseph J. Ja'
+Joseph J Ja'
+J J Ja'
+Ja' J
+Larry Davis
+L Davis
+L. Davis
+Davis L
+Leah Findlater
+L Findlater
+L. Findlater
+Findlater L
+Louiqa Raschid
+L Raschid
+L. Raschid
+Raschid L
+Michael Hicks
+M Hicks
+M. Hicks
+Hicks M
+Michel Cukier
+M Cukier
+M. Cukier
+Cukier M
+Mihai Pop
+M Pop
+M. Pop
+Pop M
+Mohammad Hajiaghayi
+M Hajiaghayi
+M. Hajiaghayi
+Hajiaghayi M
+Neil Spring
+N Spring
+N. Spring
+Spring N
+Nicholas Roussopoulos
+N Roussopoulos
+N. Roussopoulos
+Roussopoulos N
+Pete Keleher
+P Keleher
+P. Keleher
+Keleher P
+Phil Resnik
+P Resnik
+P. Resnik
+Resnik P
+Rajeev Barua
+R Barua
+R. Barua
+Barua R
+Ramalingam Chellappa
+R Chellappa
+R. Chellappa
+Chellappa R
+Ramani Duraiswami
+R Duraiswami
+R. Duraiswami
+Duraiswami R
+Rance Cleaveland
+R Cleaveland
+R. Cleaveland
+Cleaveland R
+Samir Khuller
+S Khuller
+S. Khuller
+Khuller S
+Sridhar Hannenhalli
+S Hannenhalli
+S. Hannenhalli
+Hannenhalli S
+Uzi Vishkin
+U Vishkin
+U. Vishkin
+Vishkin U
+V.S. Subrahmanian
+V Subrahmanian
+V. Subrahmanian
+Subrahmanian V
+William Gasarch
+W Gasarch
+W. Gasarch
+Gasarch W
+Zia Khan
+Z Khan
+Z. Khan
+Khan Z
+Alexandra Meliou
+A Meliou
+A. Meliou
+Meliou A
+Andrew McCallum
+A McCallum
+A. McCallum
+McCallum A
+Andrew McGregor
+A McGregor
+A. McGregor
+McGregor A
+Arjun Guha
+A Guha
+A. Guha
+Guha A
+Arun Venkataramani
+A Venkataramani
+A. Venkataramani
+Venkataramani A
+Benjamin M. Marlin
+Benjamin Marlin
+B Marlin
+B. Marlin
+Benjamin M. Marlin
+Benjamin M Marlin
+B M Marlin
+Marlin B
+Brian Levine
+B Levine
+B. Levine
+Levine B
+Charles C Weems
+Charles Weems
+C Weems
+C. Weems
+Charles C. Weems
+Charles C Weems
+C C Weems
+Weems C
+Dan Sheldon
+D Sheldon
+D. Sheldon
+Sheldon D
+David A. Mix Barrington
+David Barrington
+D Barrington
+D. Barrington
+David A.M. Barrington
+David AM Barrington
+D A Barrington
+Barrington D
+David Jensen
+D Jensen
+D. Jensen
+Jensen D
+Deepak Ganesan
+D Ganesan
+D. Ganesan
+Ganesan D
+Donald F Towsley
+Donald Towsley
+D Towsley
+D. Towsley
+Donald F. Towsley
+Donald F Towsley
+D F Towsley
+Towsley D
+Emery Berger
+E Berger
+E. Berger
+Berger E
+Erik G Learned-Miller
+Erik Miller
+E Miller
+E. Miller
+Erik G.L. Miller
+Erik GL Miller
+E G Miller
+Miller E
+Evangelos Kalogerakis
+E Kalogerakis
+E. Kalogerakis
+Kalogerakis E
+Gerome Miklau
+G Miklau
+G. Miklau
+Miklau G
+Hanna M. Wallach
+Hanna Wallach
+H Wallach
+H. Wallach
+Hanna M. Wallach
+Hanna M Wallach
+H M Wallach
+Wallach H
+Hava T Siegelmann
+Hava Siegelmann
+H Siegelmann
+H. Siegelmann
+Hava T. Siegelmann
+Hava T Siegelmann
+H T Siegelmann
+Siegelmann H
+J. Eliot B. Moss
+J. Moss
+J Moss
+J. Moss
+J. E.B. Moss
+J. EB Moss
+J E Moss
+Moss J
+Jack C Wileden
+Jack Wileden
+J Wileden
+J. Wileden
+Jack C. Wileden
+Jack C Wileden
+J C Wileden
+Wileden J
+James Allan
+J Allan
+J. Allan
+Allan J
+James F Kurose
+James Kurose
+J Kurose
+J. Kurose
+James F. Kurose
+James F Kurose
+J F Kurose
+Kurose J
+Leon Osterweil
+L Osterweil
+L. Osterweil
+Osterweil L
+Lori A Clarke
+Lori Clarke
+L Clarke
+L. Clarke
+Lori A. Clarke
+Lori A Clarke
+L A Clarke
+Clarke L
+Mark Corner
+M Corner
+M. Corner
+Corner M
+Neil Immerman
+N Immerman
+N. Immerman
+Immerman N
+Prashant Shenoy
+P Shenoy
+P. Shenoy
+Shenoy P
+Ramesh Sitaraman
+R Sitaraman
+R. Sitaraman
+Sitaraman R
+Robert Moll
+R Moll
+R. Moll
+Moll R
+Roderic A Grupen
+Roderic Grupen
+R Grupen
+R. Grupen
+Roderic A. Grupen
+Roderic A Grupen
+R A Grupen
+Grupen R
+Rui Wang
+R Wang
+R. Wang
+Wang R
+Shlomo Zilberstein
+S Zilberstein
+S. Zilberstein
+Zilberstein S
+Sridhar Mahadevan
+S Mahadevan
+S. Mahadevan
+Mahadevan S
+W. Bruce Croft
+W. Croft
+W Croft
+W. Croft
+W. B. Croft
+W. B Croft
+W B Croft
+Croft W
+Yanlei Diao
+Y Diao
+Y. Diao
+Diao Y
+Yuriy Brun
+Y Brun
+Y. Brun
+Brun Y
+Alfred O. Hero
+Alfred Hero
+A Hero
+A. Hero
+Alfred O. Hero
+Alfred O Hero
+A O Hero
+Hero A
+Atul Prakash
+A Prakash
+A. Prakash
+Prakash A
+Barzan Mozafari
+B Mozafari
+B. Mozafari
+Mozafari B
+Benjamin Kuipers
+B Kuipers
+B. Kuipers
+Kuipers B
+Brian Noble
+B Noble
+B. Noble
+Noble B
+Daniel E. Atkins
+Daniel Atkins
+D Atkins
+D. Atkins
+Daniel E. Atkins
+Daniel E Atkins
+D E Atkins
+Atkins D
+David E. Kieras
+David Kieras
+D Kieras
+D. Kieras
+David E. Kieras
+David E Kieras
+D E Kieras
+Kieras D
+David T. Blaauw
+David Blaauw
+D Blaauw
+D. Blaauw
+David T. Blaauw
+David T Blaauw
+D T Blaauw
+Blaauw D
+Demosthenis Teneketzis
+D Teneketzis
+D. Teneketzis
+Teneketzis D
+Dragomir Radev
+D Radev
+D. Radev
+Radev D
+Edmund H Durfee
+Edmund Durfee
+E Durfee
+E. Durfee
+Edmund H. Durfee
+Edmund H Durfee
+E H Durfee
+Durfee E
+Edwin Olson
+E Olson
+E. Olson
+Olson E
+Elliot Soloway
+E Soloway
+E. Soloway
+Soloway E
+Emily Mower Provost
+Emily Provost
+E Provost
+E. Provost
+Emily M. Provost
+Emily M Provost
+E M Provost
+Provost E
+Farnam Jahanian
+F Jahanian
+F. Jahanian
+Jahanian F
+Georg Essl
+G Essl
+G. Essl
+Essl G
+Grant Schoenebeck
+G Schoenebeck
+G. Schoenebeck
+Schoenebeck G
+Gregory H. Wakefield
+Gregory Wakefield
+G Wakefield
+G. Wakefield
+Gregory H. Wakefield
+Gregory H Wakefield
+G H Wakefield
+Wakefield G
+H V Jagadish
+H Jagadish
+H Jagadish
+H. Jagadish
+H V. Jagadish
+H V Jagadish
+H V Jagadish
+Jagadish H
+Honglak Lee
+H Lee
+H. Lee
+Lee H
+Igor Markov
+I Markov
+I. Markov
+Markov I
+J. Alex Halderman
+J. Halderman
+J Halderman
+J. Halderman
+J. A. Halderman
+J. A Halderman
+J A Halderman
+Halderman J
+Jacob Abernethy
+J Abernethy
+J. Abernethy
+Abernethy J
+Jason Flinn
+J Flinn
+J. Flinn
+Flinn J
+Jason Mars
+J Mars
+J. Mars
+Mars J
+Jia Deng
+J Deng
+J. Deng
+Deng J
+John E. Laird
+John Laird
+J Laird
+J. Laird
+John E. Laird
+John E Laird
+J E Laird
+Laird J
+John H. Holland
+John Holland
+J Holland
+J. Holland
+John H. Holland
+John H Holland
+J H Holland
+Holland J
+John P. Hayes
+John Hayes
+J Hayes
+J. Hayes
+John P. Hayes
+John P Hayes
+J P Hayes
+Hayes J
+Kang G. Shin
+Kang Shin
+K Shin
+K. Shin
+Kang G. Shin
+Kang G Shin
+K G Shin
+Shin K
+Karem A. Sakallah
+Karem Sakallah
+K Sakallah
+K. Sakallah
+Karem A. Sakallah
+Karem A Sakallah
+K A Sakallah
+Sakallah K
+Kevin Fu
+K Fu
+K. Fu
+Fu K
+Kevin J. Compton
+Kevin Compton
+K Compton
+K. Compton
+Kevin J. Compton
+Kevin J Compton
+K J Compton
+Compton K
+Lingjia Tang
+L Tang
+L. Tang
+Tang L
+Marios Papaefthymiou
+M Papaefthymiou
+M. Papaefthymiou
+Papaefthymiou M
+Mark S. Ackerman
+Mark Ackerman
+M Ackerman
+M. Ackerman
+Mark S. Ackerman
+Mark S Ackerman
+M S Ackerman
+Ackerman M
+Martha Pollack
+M Pollack
+M. Pollack
+Pollack M
+Martin J. Strauss
+Martin Strauss
+M Strauss
+M. Strauss
+Martin J. Strauss
+Martin J Strauss
+M J Strauss
+Strauss M
+Michael J. Cafarella
+Michael Cafarella
+M Cafarella
+M. Cafarella
+Michael J. Cafarella
+Michael J Cafarella
+M J Cafarella
+Cafarella M
+Michael Wellman
+M Wellman
+M. Wellman
+Wellman M
+Mingyan Liu
+M Liu
+M. Liu
+Liu M
+Peter M. Chen
+Peter Chen
+P Chen
+P. Chen
+Peter M. Chen
+Peter M Chen
+P M Chen
+Chen P
+Pinaki Mazumder
+P Mazumder
+P. Mazumder
+Mazumder P
+Prabal Dutta
+P Dutta
+P. Dutta
+Dutta P
+Quentin F. Stout
+Quentin Stout
+Q Stout
+Q. Stout
+Quentin F. Stout
+Quentin F Stout
+Q F Stout
+Stout Q
+Rada Mihalcea
+R Mihalcea
+R. Mihalcea
+Mihalcea R
+Satinder Singh Baveja
+Satinder Baveja
+S Baveja
+S. Baveja
+Satinder S. Baveja
+Satinder S Baveja
+S S Baveja
+Baveja S
+Satish Narayanasamy
+S Narayanasamy
+S. Narayanasamy
+Narayanasamy S
+Scott Mahlke
+S Mahlke
+S. Mahlke
+Mahlke S
+Seth Pettie
+S Pettie
+S. Pettie
+Pettie S
+Stephane Lafortune
+S Lafortune
+S. Lafortune
+Lafortune S
+Sugih Jamin
+S Jamin
+S. Jamin
+Jamin S
+Thomas F. Wenisch
+Thomas Wenisch
+T Wenisch
+T. Wenisch
+Thomas F. Wenisch
+Thomas F Wenisch
+T F Wenisch
+Wenisch T
+Todd Austin
+T Austin
+T. Austin
+Austin T
+Trevor Mudge
+T Mudge
+T. Mudge
+Mudge T
+Valeria Bertacco
+V Bertacco
+V. Bertacco
+Bertacco V
+Yaoyun Shi
+Y Shi
+Y. Shi
+Shi Y
+Zeeshan H. Syed
+Zeeshan Syed
+Z Syed
+Z. Syed
+Zeeshan H. Syed
+Zeeshan H Syed
+Z H Syed
+Syed Z
+Zhuoqing Morley Mao
+Zhuoqing Mao
+Z Mao
+Z. Mao
+Zhuoqing M. Mao
+Zhuoqing M Mao
+Z M Mao
+Mao Z
+Arindam Banerjee
+A Banerjee
+A. Banerjee
+Banerjee A
+Brent Hecht
+B Hecht
+B. Hecht
+Hecht B
+Eric Van Wyk
+Eric Wyk
+E Wyk
+E. Wyk
+Eric V. Wyk
+Eric V Wyk
+E V Wyk
+Wyk E
+Gary Meyer
+G Meyer
+G. Meyer
+Meyer G
+George Karypis
+G Karypis
+G. Karypis
+Karypis G
+Gopalan Nadathur
+G Nadathur
+G. Nadathur
+Nadathur G
+Jaideep Srivastava
+J Srivastava
+J. Srivastava
+Srivastava J
+John Carlis
+J Carlis
+J. Carlis
+Carlis J
+Jon Weissman
+J Weissman
+J. Weissman
+Weissman J
+Joseph Konstan
+J Konstan
+J. Konstan
+Konstan J
+Joseph Y. Halpern
+Joseph Halpern
+J Halpern
+J. Halpern
+Joseph Y. Halpern
+Joseph Y Halpern
+J Y Halpern
+Halpern J
+Larry Carter
+L Carter
+L. Carter
+Carter L
+Loren Terveen
+L Terveen
+L. Terveen
+Terveen L
+Maria Gini
+M Gini
+M. Gini
+Gini M
+Mats Heimdahl
+M Heimdahl
+M. Heimdahl
+Heimdahl M
+Milos Prvulovic
+M Prvulovic
+M. Prvulovic
+Prvulovic M
+Mohamed Mokbel
+M Mokbel
+M. Mokbel
+Mokbel M
+Nate Foster
+N Foster
+N. Foster
+Foster N
+Nick Hopper
+N Hopper
+N. Hopper
+Hopper N
+Nikolaos Papanikolopoulos
+N Papanikolopoulos
+N. Papanikolopoulos
+Papanikolopoulos N
+Paul Schrater
+P Schrater
+P. Schrater
+Schrater P
+Pen-Chung Yew
+Pen Yew
+P Yew
+P. Yew
+Pen C. Yew
+Pen C Yew
+P C Yew
+Yew P
+Ravi Janardan
+R Janardan
+R. Janardan
+Janardan R
+Rui Kuang
+R Kuang
+R. Kuang
+Kuang R
+Shashi Shekhar
+S Shekhar
+S. Shekhar
+Shekhar S
+Stephen McCamant
+S McCamant
+S. McCamant
+McCamant S
+Stergios Roumeliotis
+S Roumeliotis
+S. Roumeliotis
+Roumeliotis S
+Stephen Guy
+S Guy
+S. Guy
+Guy S
+Svetlana Yarosh
+S Yarosh
+S. Yarosh
+Yarosh S
+Tian He
+T He
+T. He
+He T
+Vipin Kumar
+V Kumar
+V. Kumar
+Kumar V
+Volkan Isler
+V Isler
+V. Isler
+Isler V
+Yousef Saad
+Y Saad
+Y. Saad
+Saad Y
+Zhi-Li Zhang
+Zhi Zhang
+Z Zhang
+Z. Zhang
+Zhi L. Zhang
+Zhi L Zhang
+Z L Zhang
+Zhang Z
+Alex Berg
+A Berg
+A. Berg
+Berg A
+Anselmo Lastra
+A Lastra
+A. Lastra
+Lastra A
+Cynthia Sturton
+C Sturton
+C. Sturton
+Sturton C
+David Plaisted
+D Plaisted
+D. Plaisted
+Plaisted D
+David Stotts
+D Stotts
+D. Stotts
+Stotts D
+Dinesh Manocha
+D Manocha
+D. Manocha
+Manocha D
+Fabian Monrose
+F Monrose
+F. Monrose
+Monrose F
+Frederick Brooks Jr.
+Frederick Jr.
+F Jr.
+F. Jr.
+Frederick B. Jr.
+Frederick B Jr.
+F B Jr.
+Jr. F
+Gary Bishop
+G Bishop
+G. Bishop
+Bishop G
+Gregory Welch
+G Welch
+G. Welch
+Welch G
+Henry Fuchs
+H Fuchs
+H. Fuchs
+Fuchs H
+Jack Snoeyink
+J Snoeyink
+J. Snoeyink
+Snoeyink J
+James Anderson
+J Anderson
+J. Anderson
+Anderson J
+Jan Prins
+J Prins
+J. Prins
+Prins J
+Jan-Michael Frahm
+Jan Frahm
+J Frahm
+J. Frahm
+Jan M. Frahm
+Jan M Frahm
+J M Frahm
+Frahm J
+Jasleen Kaur
+J Kaur
+J. Kaur
+Kaur J
+Ketan Mayer-Patel
+Ketan Patel
+K Patel
+K. Patel
+Ketan M. Patel
+Ketan M Patel
+K M Patel
+Patel K
+Kevin Jeffay
+K Jeffay
+K. Jeffay
+Jeffay K
+Leonard McMillan
+L McMillan
+L. McMillan
+McMillan L
+Manuel A. A. Pérez-Quiñones
+Manuel Quiñones
+M Quiñones
+M. Quiñones
+Manuel A.A.P. Quiñones
+Manuel AAP Quiñones
+M A Quiñones
+Quiñones M
+Marc Niethammer
+M Niethammer
+M. Niethammer
+Niethammer M
+Michael Fern
+M Fern
+M. Fern
+Fern M
+Michael Reiter
+M Reiter
+M. Reiter
+Reiter M
+Ming Lin
+M Lin
+M. Lin
+Lin M
+Montek Singh
+M Singh
+M. Singh
+Singh M
+Prasun Dewan
+P Dewan
+P. Dewan
+Dewan P
+Ron Alterovitz
+R Alterovitz
+R. Alterovitz
+Alterovitz R
+Sanjoy Baruah
+S Baruah
+S. Baruah
+Baruah S
+Stan Ahalt
+S Ahalt
+S. Ahalt
+Ahalt S
+Stephen Pizer
+S Pizer
+S. Pizer
+Pizer S
+Tamara Berg
+T Berg
+T. Berg
+Berg T
+Vladimir Jojic
+V Jojic
+V. Jojic
+Jojic V
+Marina Blanton
+M Blanton
+M. Blanton
+Blanton M
+Kevin Bowyer
+K Bowyer
+K. Bowyer
+Bowyer K
+Nitesh V. Chawla
+Nitesh Chawla
+N Chawla
+N. Chawla
+Nitesh V. Chawla
+Nitesh V Chawla
+N V Chawla
+Chawla N
+Danny Chen
+D Chen
+D. Chen
+Chen D
+David Chiang
+D Chiang
+D. Chiang
+Chiang D
+Sidney D'Mello
+S D'Mello
+S. D'Mello
+D'Mello S
+Patrick J. Flynn
+Patrick Flynn
+P Flynn
+P. Flynn
+Patrick J. Flynn
+Patrick J Flynn
+P J Flynn
+Flynn P
+Jesus Izaguirre
+J Izaguirre
+J. Izaguirre
+Izaguirre J
+Collin McMillan
+C McMillan
+C. McMillan
+McMillan C
+Tijana Milenkovic
+T Milenkovic
+T. Milenkovic
+Milenkovic T
+Christian Poellabauer
+C Poellabauer
+C. Poellabauer
+Poellabauer C
+Laurel Riek
+L Riek
+L. Riek
+Riek L
+Douglas Thain
+D Thain
+D. Thain
+Thain D
+Chaoli Wang
+C Wang
+C. Wang
+Wang C
+Dong Wang
+D Wang
+D. Wang
+Wang D
+Tim Weninger
+T Weninger
+T. Weninger
+Weninger T
+Aaron Roth
+A Roth
+A. Roth
+Roth A
+Alexander (Sasha) Rakhlin
+Alexander Rakhlin
+A Rakhlin
+A. Rakhlin
+Alexander (. Rakhlin
+Alexander ( Rakhlin
+A ( Rakhlin
+Rakhlin A
+Andreas Haeberlen
+A Haeberlen
+A. Haeberlen
+Haeberlen A
+Ani Nenkova
+A Nenkova
+A. Nenkova
+Nenkova A
+Benjamin C. Pierce
+Benjamin Pierce
+B Pierce
+B. Pierce
+Benjamin C. Pierce
+Benjamin C Pierce
+B C Pierce
+Pierce B
+Boon Thau Loo
+Boon Loo
+B Loo
+B. Loo
+Boon T. Loo
+Boon T Loo
+B T Loo
+Loo B
+Camillo J. Taylor
+Camillo Taylor
+C Taylor
+C. Taylor
+Camillo J. Taylor
+Camillo J Taylor
+C J Taylor
+Taylor C
+Chris Callison-Burch
+Chris Burch
+C Burch
+C. Burch
+Chris C. Burch
+Chris C Burch
+C C Burch
+Burch C
+Insup Lee
+I Lee
+I. Lee
+Lee I
+Jean Gallier
+J Gallier
+J. Gallier
+Gallier J
+Jianbo Shi
+J Shi
+J. Shi
+Shi J
+Joe Devietti
+J Devietti
+J. Devietti
+Devietti J
+Kostas Daniilidis
+K Daniilidis
+K. Daniilidis
+Daniilidis K
+Ladislav Kavan
+L Kavan
+L. Kavan
+Kavan L
+Lyle Ungar
+L Ungar
+L. Ungar
+Ungar L
+Matt Blaze
+M Blaze
+M. Blaze
+Blaze M
+Max Mintz
+M Mintz
+M. Mintz
+Mintz M
+Michael Kearns
+M Kearns
+M. Kearns
+Kearns M
+Milo Martin
+M Martin
+M. Martin
+Martin M
+Mitch Marcus
+M Marcus
+M. Marcus
+Marcus M
+Nadia Heninger
+N Heninger
+N. Heninger
+Heninger N
+Rajeev Alur
+R Alur
+R. Alur
+Alur R
+Rakesh Vohra
+R Vohra
+R. Vohra
+Vohra R
+Sampath Kannan
+S Kannan
+S. Kannan
+Kannan S
+Sanjeev Khanna
+S Khanna
+S. Khanna
+Khanna S
+Stephanie Weirich
+S Weirich
+S. Weirich
+Weirich S
+Steve Zdancewic
+S Zdancewic
+S. Zdancewic
+Zdancewic S
+Sudipto Guha
+S Guha
+S. Guha
+Guha S
+Susan B. Davidson
+Susan Davidson
+S Davidson
+S. Davidson
+Susan B. Davidson
+Susan B Davidson
+S B Davidson
+Davidson S
+Val Tannen
+V Tannen
+V. Tannen
+Tannen V
+Zach Ives
+Z Ives
+Z. Ives
+Ives Z
+Shi-Kuo Chang
+Shi Chang
+S Chang
+S. Chang
+Shi K. Chang
+Shi K Chang
+S K Chang
+Chang S
+Donald Chiarulli
+D Chiarulli
+D. Chiarulli
+Chiarulli D
+Bruce Childers
+B Childers
+B. Childers
+Childers B
+Sangyeun Cho
+S Cho
+S. Cho
+Cho S
+Panos Chrysanthis
+P Chrysanthis
+P. Chrysanthis
+Chrysanthis P
+Robert Daley
+R Daley
+R. Daley
+Daley R
+Milos Hauskrecht
+M Hauskrecht
+M. Hauskrecht
+Hauskrecht M
+Rebecca Hwa
+R Hwa
+R. Hwa
+Hwa R
+Alexandros Labrinidis
+A Labrinidis
+A. Labrinidis
+Labrinidis A
+John Lange
+J Lange
+J. Lange
+Lange J
+Adam Lee
+A Lee
+A. Lee
+Lee A
+Diane Litman
+D Litman
+D. Litman
+Litman D
+G. Elisabeta Marai
+G. Marai
+G Marai
+G. Marai
+G. E. Marai
+G. E Marai
+G E Marai
+Marai G
+Rami Melhem
+R Melhem
+R. Melhem
+Melhem R
+Daniel Mosse
+D Mosse
+D. Mosse
+Mosse D
+Kirk Pruhs
+K Pruhs
+K. Pruhs
+Pruhs K
+Jingtao Wang
+J Wang
+J. Wang
+Wang J
+Janyce Wiebe
+J Wiebe
+J. Wiebe
+Wiebe J
+Youtao Zhang
+Y Zhang
+Y. Zhang
+Zhang Y
+Taieb Znati
+T Znati
+T. Znati
+Znati T
+James F. Allen
+James Allen
+J Allen
+J. Allen
+James F. Allen
+James F Allen
+J F Allen
+Allen J
+Christopher M. Brown
+Christopher Brown
+C Brown
+C. Brown
+Christopher M. Brown
+Christopher M Brown
+C M Brown
+Brown C
+John Criswell
+J Criswell
+J. Criswell
+Criswell J
+Chen Ding
+C Ding
+C. Ding
+Ding C
+Sandhya Dwarkadas
+S Dwarkadas
+S. Dwarkadas
+Dwarkadas S
+Daniel Gildea
+D Gildea
+D. Gildea
+Gildea D
+Philip Guo
+P Guo
+P. Guo
+Guo P
+Lane A. Hemaspaandra
+Lane Hemaspaandra
+L Hemaspaandra
+L. Hemaspaandra
+Lane A. Hemaspaandra
+Lane A Hemaspaandra
+L A Hemaspaandra
+Hemaspaandra L
+M. Ehsan Hoque
+M. Hoque
+M Hoque
+M. Hoque
+M. E. Hoque
+M. E Hoque
+M E Hoque
+Hoque M
+Engin Ipek
+E Ipek
+E. Ipek
+Ipek E
+Henry Kautz
+H Kautz
+H. Kautz
+Kautz H
+Ji Liu
+J Liu
+J. Liu
+Liu J
+Jiebo Luo
+J Luo
+J. Luo
+Luo J
+Randal C. Nelson
+Randal Nelson
+R Nelson
+R. Nelson
+Randal C. Nelson
+Randal C Nelson
+R C Nelson
+Nelson R
+Lenhart K. Schubert
+Lenhart Schubert
+L Schubert
+L. Schubert
+Lenhart K. Schubert
+Lenhart K Schubert
+L K Schubert
+Schubert L
+Michael L. Scott
+Michael Scott
+M Scott
+M. Scott
+Michael L. Scott
+Michael L Scott
+M L Scott
+Scott M
+Joel I. Seiferas
+Joel Seiferas
+J Seiferas
+J. Seiferas
+Joel I. Seiferas
+Joel I Seiferas
+J I Seiferas
+Seiferas J
+Kai Shen
+K Shen
+K. Shen
+Shen K
+Daniel Stefankovic
+D Stefankovic
+D. Stefankovic
+Stefankovic D
+Muthuramakrishnan Venkitasubramaniam
+M Venkitasubramaniam
+M. Venkitasubramaniam
+Venkitasubramaniam M
+Aiichiro Nakano
+A Nakano
+A. Nakano
+Nakano A
+Ari Requicha
+A Requicha
+A. Requicha
+Requicha A
+Barry Boehm
+B Boehm
+B. Boehm
+Boehm B
+Bhaskar Krishnamachari
+B Krishnamachari
+B. Krishnamachari
+Krishnamachari B
+Cauligi (Raghu) Raghavendra
+Cauligi Raghavendra
+C Raghavendra
+C. Raghavendra
+Cauligi (. Raghavendra
+Cauligi ( Raghavendra
+C ( Raghavendra
+Raghavendra C
+Cyrus Shahabi
+C Shahabi
+C. Shahabi
+Shahabi C
+David Kempe
+D Kempe
+D. Kempe
+Kempe D
+Dennis McLeod
+D McLeod
+D. McLeod
+McLeod D
+Ellis Horowitz
+E Horowitz
+E. Horowitz
+Horowitz E
+Ethan Katz-Bassett
+Ethan Bassett
+E Bassett
+E. Bassett
+Ethan K. Bassett
+Ethan K Bassett
+E K Bassett
+Bassett E
+Fei Sha
+F Sha
+F. Sha
+Sha F
+Francisco Valero-Cuevas
+Francisco Cuevas
+F Cuevas
+F. Cuevas
+Francisco V. Cuevas
+Francisco V Cuevas
+F V Cuevas
+Cuevas F
+Gaurav S. Sukhatme
+Gaurav Sukhatme
+G Sukhatme
+G. Sukhatme
+Gaurav S. Sukhatme
+Gaurav S Sukhatme
+G S Sukhatme
+Sukhatme G
+Gerard Medioni
+G Medioni
+G. Medioni
+Medioni G
+Hao Li
+H Li
+H. Li
+Li H
+Jay Kuo
+J Kuo
+J. Kuo
+Kuo J
+Jeffrey A. Miller
+Jeffrey Miller
+J Miller
+J. Miller
+Jeffrey A. Miller
+Jeffrey A Miller
+J A Miller
+Miller J
+Jernej Barbic
+J Barbic
+J. Barbic
+Barbic J
+Kai Hwang
+K Hwang
+K. Hwang
+Hwang K
+Kevin Knight
+K Knight
+K. Knight
+Knight K
+Laurent Itti
+L Itti
+L. Itti
+Itti L
+Leana Golubchik
+L Golubchik
+L. Golubchik
+Golubchik L
+Leonard Adleman
+L Adleman
+L. Adleman
+Adleman L
+Maja J Mataric
+Maja Mataric
+M Mataric
+M. Mataric
+Maja J. Mataric
+Maja J Mataric
+M J Mataric
+Mataric M
+Melvin Breuer
+M Breuer
+M. Breuer
+Breuer M
+Michael Arbib
+M Arbib
+M. Arbib
+Arbib M
+Michael S Waterman
+Michael Waterman
+M Waterman
+M. Waterman
+Michael S. Waterman
+Michael S Waterman
+M S Waterman
+Waterman M
+Milind Tambe
+M Tambe
+M. Tambe
+Tambe M
+Ming-Deh Huang
+Ming Huang
+M Huang
+M. Huang
+Ming D. Huang
+Ming D Huang
+M D Huang
+Huang M
+Minlan Yu
+M Yu
+M. Yu
+Yu M
+Murali Annavaram
+M Annavaram
+M. Annavaram
+Annavaram M
+Nenad Medvidovic
+N Medvidovic
+N. Medvidovic
+Medvidovic N
+Nora Ayanian
+N Ayanian
+N. Ayanian
+Ayanian N
+Paul Debevec
+P Debevec
+P. Debevec
+Debevec P
+Paul S. Rosenbloom
+Paul Rosenbloom
+P Rosenbloom
+P. Rosenbloom
+Paul S. Rosenbloom
+Paul S Rosenbloom
+P S Rosenbloom
+Rosenbloom P
+Rajiv Kalia
+R Kalia
+R. Kalia
+Kalia R
+Ramakant Nevatia
+R Nevatia
+R. Nevatia
+Nevatia R
+Ramesh Govindan
+R Govindan
+R. Govindan
+Govindan R
+Remo Rohs
+R Rohs
+R. Rohs
+Rohs R
+Shaddin Dughmi
+S Dughmi
+S. Dughmi
+Dughmi S
+Shahram Ghandeharizadeh
+S Ghandeharizadeh
+S. Ghandeharizadeh
+Ghandeharizadeh S
+Shang-Hua Teng
+Shang Teng
+S Teng
+S. Teng
+Shang H. Teng
+Shang H Teng
+S H Teng
+Teng S
+Shrikanth (Shri) S. Narayanan
+Shrikanth Narayanan
+S Narayanan
+S. Narayanan
+Shrikanth (.S. Narayanan
+Shrikanth (S Narayanan
+S ( Narayanan
+Narayanan S
+Stefan Schaal
+S Schaal
+S. Schaal
+Schaal S
+Stephen Lu
+S Lu
+S. Lu
+Lu S
+Sven Koenig
+S Koenig
+S. Koenig
+Koenig S
+Tim-Ting Chen
+Tim Chen
+T Chen
+T. Chen
+Tim T. Chen
+Tim T Chen
+T T Chen
+Chen T
+Todd A. Brun
+Todd Brun
+T Brun
+T. Brun
+Todd A. Brun
+Todd A Brun
+T A Brun
+Brun T
+Ulrich Neumann
+U Neumann
+U. Neumann
+Neumann U
+Viktor K. Prasanna
+Viktor Prasanna
+V Prasanna
+V. Prasanna
+Viktor K. Prasanna
+Viktor K Prasanna
+V K Prasanna
+Prasanna V
+William GJ Halfond
+William Halfond
+W Halfond
+W. Halfond
+William G. Halfond
+William G Halfond
+W G Halfond
+Halfond W
+Wyatt Lloyd
+W Lloyd
+W. Lloyd
+Lloyd W
+Xianghong Jasmine Zhou
+Xianghong Zhou
+X Zhou
+X. Zhou
+Xianghong J. Zhou
+Xianghong J Zhou
+X J Zhou
+Zhou X
+Yan Liu
+Y Liu
+Y. Liu
+Liu Y
+Adam Klivans
+A Klivans
+A. Klivans
+Klivans A
+Alan K. Cline
+Alan Cline
+A Cline
+A. Cline
+Alan K. Cline
+Alan K Cline
+A K Cline
+Cline A
+Aloysius K. Mok
+Aloysius Mok
+A Mok
+A. Mok
+Aloysius K. Mok
+Aloysius K Mok
+A K Mok
+Mok A
+Anna Gal
+A Gal
+A. Gal
+Gal A
+Brent Waters
+B Waters
+B. Waters
+Waters B
+Calvin Lin
+C Lin
+C. Lin
+Lin C
+Chandrajit Bajaj
+C Bajaj
+C. Bajaj
+Bajaj C
+Dana H. Ballard
+Dana Ballard
+D Ballard
+D. Ballard
+Dana H. Ballard
+Dana H Ballard
+D H Ballard
+Ballard D
+Daniel Miranker
+D Miranker
+D. Miranker
+Miranker D
+David I. Zuckerman
+David Zuckerman
+D Zuckerman
+D. Zuckerman
+David I. Zuckerman
+David I Zuckerman
+D I Zuckerman
+Zuckerman D
+Don Batory
+D Batory
+D. Batory
+Batory D
+Donald Fussell
+D Fussell
+D. Fussell
+Fussell D
+Ernest Allen Emerson
+Ernest Emerson
+E Emerson
+E. Emerson
+Ernest A. Emerson
+Ernest A Emerson
+E A Emerson
+Emerson E
+Emmett Witchel
+E Witchel
+E. Witchel
+Witchel E
+Eric Price
+E Price
+E. Price
+Price E
+Etienne Vouga
+E Vouga
+E. Vouga
+Vouga E
+Gordon S. Novak Jr.
+Gordon Jr.
+G Jr.
+G. Jr.
+Gordon S.N. Jr.
+Gordon SN Jr.
+G S Jr.
+Jr. G
+Greg Plaxton
+G Plaxton
+G. Plaxton
+Plaxton G
+Isil Dillig
+I Dillig
+I. Dillig
+Dillig I
+J. Strother Moore
+J. Moore
+J Moore
+J. Moore
+J. S. Moore
+J. S Moore
+J S Moore
+Moore J
+James C. Browne
+James Browne
+J Browne
+J. Browne
+James C. Browne
+James C Browne
+J C Browne
+Browne J
+Jayadev Misra
+J Misra
+J. Misra
+Misra J
+Keshav Pingali
+K Pingali
+K. Pingali
+Pingali K
+Kristen Grauman
+K Grauman
+K. Grauman
+Grauman K
+Lorenzo Alvisi
+L Alvisi
+L. Alvisi
+Alvisi L
+Michael D. Dahlin
+Michael Dahlin
+M Dahlin
+M. Dahlin
+Michael D. Dahlin
+Michael D Dahlin
+M D Dahlin
+Dahlin M
+Mohamed G. Gouda
+Mohamed Gouda
+M Gouda
+M. Gouda
+Mohamed G. Gouda
+Mohamed G Gouda
+M G Gouda
+Gouda M
+Peter Stone
+P Stone
+P. Stone
+Stone P
+Raymond Mooney
+R Mooney
+R. Mooney
+Mooney R
+Risto Miikkulainen
+R Miikkulainen
+R. Miikkulainen
+Miikkulainen R
+Robert A. Van de Geijn
+Robert Geijn
+R Geijn
+R. Geijn
+Robert A.V.d. Geijn
+Robert AVd Geijn
+R A Geijn
+Geijn R
+Simon S. Lam
+Simon Lam
+S Lam
+S. Lam
+Simon S. Lam
+Simon S Lam
+S S Lam
+Lam S
+Thomas Dillig
+T Dillig
+T. Dillig
+Dillig T
+Vijaya Ramachandran
+V Ramachandran
+V. Ramachandran
+Ramachandran V
+Warren A. Hunt Jr.
+Warren Jr.
+W Jr.
+W. Jr.
+Warren A.H. Jr.
+Warren AH Jr.
+W A Jr.
+Jr. W
+William H. Press
+William Press
+W Press
+W. Press
+William H. Press
+William H Press
+W H Press
+Press W
+William R. Cook
+William Cook
+W Cook
+W. Cook
+William R. Cook
+William R Cook
+W R Cook
+Cook W
+Yin Zhang
+Y Zhang
+Y. Zhang
+Zhang Y
+Adam Bargteil
+A Bargteil
+A. Bargteil
+Bargteil A
+Al Davis
+A Davis
+A. Davis
+Davis A
+Bob Kessler
+B Kessler
+B. Kessler
+Kessler B
+Cem Yuksel
+C Yuksel
+C. Yuksel
+Yuksel C
+Christopher Johnson
+C Johnson
+C. Johnson
+Johnson C
+Chuck Hansen
+C Hansen
+C. Hansen
+Hansen C
+Craig Caldwell
+C Caldwell
+C. Caldwell
+Caldwell C
+Elaine Cohen
+E Cohen
+E. Cohen
+Cohen E
+Ellen Riloff
+E Riloff
+E. Riloff
+Riloff E
+Erik Brunvand
+E Brunvand
+E. Brunvand
+Brunvand E
+Erin Parker
+E Parker
+E. Parker
+Parker E
+Feifei Li
+F Li
+F. Li
+Li F
+Ganesh Gopalakrishnan
+G Gopalakrishnan
+G. Gopalakrishnan
+Gopalakrishnan G
+Guido Gerig
+G Gerig
+G. Gerig
+Gerig G
+Jeff Phillips
+J Phillips
+J. Phillips
+Phillips J
+Jeff Weiss
+J Weiss
+J. Weiss
+Weiss J
+Joe Zachary
+J Zachary
+J. Zachary
+Zachary J
+John Hollerbach
+J Hollerbach
+J. Hollerbach
+Hollerbach J
+John Regehr
+J Regehr
+J. Regehr
+Regehr J
+Jur van den Berg
+Jur Berg
+J Berg
+J. Berg
+Jur v.d. Berg
+Jur vd Berg
+J v Berg
+Berg J
+Kenneth Stevens
+K Stevens
+K. Stevens
+Stevens K
+Kobus van der Merwe
+Kobus Merwe
+K Merwe
+K. Merwe
+Kobus v.d. Merwe
+Kobus vd Merwe
+K v Merwe
+Merwe K
+Lee Hollaar
+L Hollaar
+L. Hollaar
+Hollaar L
+Marcel Prastawa
+M Prastawa
+M. Prastawa
+Prastawa M
+Mark Van Langeveld
+Mark Langeveld
+M Langeveld
+M. Langeveld
+Mark V. Langeveld
+Mark V Langeveld
+M V Langeveld
+Langeveld M
+Martin Berzins
+M Berzins
+M. Berzins
+Berzins M
+Mary Hall
+M Hall
+M. Hall
+Hall M
+Matthew Flatt
+M Flatt
+M. Flatt
+Flatt M
+Matthew Might
+M Might
+M. Might
+Might M
+Mike Kirby
+M Kirby
+M. Kirby
+Kirby M
+Miriah Meyer
+M Meyer
+M. Meyer
+Meyer M
+Rajeev Balasubramonian
+R Balasubramonian
+R. Balasubramonian
+Balasubramonian R
+Rich Riesenfeld
+R Riesenfeld
+R. Riesenfeld
+Riesenfeld R
+Richard Brown
+R Brown
+R. Brown
+Brown R
+Ross Whitaker
+R Whitaker
+R. Whitaker
+Whitaker R
+Sneha Kasera
+S Kasera
+S. Kasera
+Kasera S
+Suresh Venkatasubramanian
+S Venkatasubramanian
+S. Venkatasubramanian
+Venkatasubramanian S
+Thomas Fletcher
+T Fletcher
+T. Fletcher
+Fletcher T
+Thomas Schmid
+T Schmid
+T. Schmid
+Schmid T
+Tolga Tasdizen
+T Tasdizen
+T. Tasdizen
+Tasdizen T
+Tom Henderson
+T Henderson
+T. Henderson
+Henderson T
+Valerio Pascucci
+V Pascucci
+V. Pascucci
+Pascucci V
+Vivek Srikumar
+V Srikumar
+V. Srikumar
+Srikumar V
+William Thompson
+W Thompson
+W. Thompson
+Thompson W
+Zvonimir Rakamaric
+Z Rakamaric
+Z. Rakamaric
+Rakamaric Z
+Aaron Quinlan
+A Quinlan
+A. Quinlan
+Quinlan A
+Abhi Shelat
+A Shelat
+A. Shelat
+Shelat A
+Alfred Weaver
+A Weaver
+A. Weaver
+Weaver A
+Andrew Grimshaw
+A Grimshaw
+A. Grimshaw
+Grimshaw A
+Connelly Barnes
+C Barnes
+C. Barnes
+Barnes C
+David Evans
+D Evans
+D. Evans
+Evans D
+Gabriel Robins
+G Robins
+G. Robins
+Robins G
+Jack Davidson
+J Davidson
+J. Davidson
+Davidson J
+James Cohoon
+J Cohoon
+J. Cohoon
+Cohoon J
+Jason Lawrence
+J Lawrence
+J. Lawrence
+Lawrence J
+John Knight
+J Knight
+J. Knight
+Knight J
+John Stankovic
+J Stankovic
+J. Stankovic
+Stankovic J
+Kamin Whitehouse
+K Whitehouse
+K. Whitehouse
+Whitehouse K
+Kevin Skadron
+K Skadron
+K. Skadron
+Skadron K
+Kevin Sullivan
+K Sullivan
+K. Sullivan
+Sullivan K
+Malathi Veeraraghavan
+M Veeraraghavan
+M. Veeraraghavan
+Veeraraghavan M
+Marty Humphrey
+M Humphrey
+M. Humphrey
+Humphrey M
+Mary Lou Soffa
+Mary Soffa
+M Soffa
+M. Soffa
+Mary L. Soffa
+Mary L Soffa
+M L Soffa
+Soffa M
+Mohammad Mahmoody
+M Mahmoody
+M. Mahmoody
+Mahmoody M
+Sudhanva Gurumurthi
+S Gurumurthi
+S. Gurumurthi
+Gurumurthi S
+Westley Weimer
+W Weimer
+W. Weimer
+Weimer W
+Worthy Martin
+W Martin
+W. Martin
+Martin W
+Yanjun Qi
+Y Qi
+Y. Qi
+Qi Y
+Alan Borning
+A Borning
+A. Borning
+Borning A
+Ali Farhadi
+A Farhadi
+A. Farhadi
+Farhadi A
+Anna R. Karlin
+Anna Karlin
+A Karlin
+A. Karlin
+Anna R. Karlin
+Anna R Karlin
+A R Karlin
+Karlin A
+Anup Rao
+A Rao
+A. Rao
+Rao A
+Arvind Krishnamurthy
+A Krishnamurthy
+A. Krishnamurthy
+Krishnamurthy A
+Brian L. Curless
+Brian Curless
+B Curless
+B. Curless
+Brian L. Curless
+Brian L Curless
+B L Curless
+Curless B
+Carlos Guestrin
+C Guestrin
+C. Guestrin
+Guestrin C
+Dan Grossman
+D Grossman
+D. Grossman
+Grossman D
+Dan Suciu
+D Suciu
+D. Suciu
+Suciu D
+Daniel S. Weld
+Daniel Weld
+D Weld
+D. Weld
+Daniel S. Weld
+Daniel S Weld
+D S Weld
+Weld D
+David Wetherall
+D Wetherall
+D. Wetherall
+Wetherall D
+Dieter Fox
+D Fox
+D. Fox
+Fox D
+Ed Lazowska
+E Lazowska
+E. Lazowska
+Lazowska E
+Emanuel Todorov
+E Todorov
+E. Todorov
+Todorov E
+Gaetano Borriello
+G Borriello
+G. Borriello
+Borriello G
+Georg Seelig
+G Seelig
+G. Seelig
+Seelig G
+Henry M. Levy
+Henry Levy
+H Levy
+H. Levy
+Henry M. Levy
+Henry M Levy
+H M Levy
+Levy H
+Ira Kemelmacher-Shlizerman
+Ira Shlizerman
+I Shlizerman
+I. Shlizerman
+Ira K. Shlizerman
+Ira K Shlizerman
+I K Shlizerman
+Shlizerman I
+James A. Fogarty
+James Fogarty
+J Fogarty
+J. Fogarty
+James A. Fogarty
+James A Fogarty
+J A Fogarty
+Fogarty J
+James Landay
+J Landay
+J. Landay
+Landay J
+James R. Lee
+James Lee
+J Lee
+J. Lee
+James R. Lee
+James R Lee
+J R Lee
+Lee J
+Jeff Heer
+J Heer
+J. Heer
+Heer J
+John Zahorjan
+J Zahorjan
+J. Zahorjan
+Zahorjan J
+Joshua R. Smith
+Joshua Smith
+J Smith
+J. Smith
+Joshua R. Smith
+Joshua R Smith
+J R Smith
+Smith J
+Larry Ruzzo
+L Ruzzo
+L. Ruzzo
+Ruzzo L
+Linda Shapiro
+L Shapiro
+L. Shapiro
+Shapiro L
+Luis Ceze
+L Ceze
+L. Ceze
+Ceze L
+Luke Zettlemoyer
+L Zettlemoyer
+L. Zettlemoyer
+Zettlemoyer L
+Magdalena Balazinska
+M Balazinska
+M. Balazinska
+Balazinska M
+Mark Oskin
+M Oskin
+M. Oskin
+Oskin M
+Martin Tompa
+M Tompa
+M. Tompa
+Tompa M
+Maya Cakmak
+M Cakmak
+M. Cakmak
+Cakmak M
+Michael Ernst
+M Ernst
+M. Ernst
+Ernst M
+Noah Smith
+N Smith
+N. Smith
+Smith N
+Oren Etzioni
+O Etzioni
+O. Etzioni
+Etzioni O
+Paul Beame
+P Beame
+P. Beame
+Beame P
+Pedro Domingos
+P Domingos
+P. Domingos
+Domingos P
+Rajesh Rao
+R Rao
+R. Rao
+Rao R
+Richard Anderson
+R Anderson
+R. Anderson
+Anderson R
+Richard E. Ladner
+Richard Ladner
+R Ladner
+R. Ladner
+Richard E. Ladner
+Richard E Ladner
+R E Ladner
+Ladner R
+Shwetak Patel
+S Patel
+S. Patel
+Patel S
+Shyam Gollakota
+S Gollakota
+S. Gollakota
+Gollakota S
+Steve Gribble
+S Gribble
+S. Gribble
+Gribble S
+Steve Tanimoto
+S Tanimoto
+S. Tanimoto
+Tanimoto S
+Steven D. Gribble
+Steven Gribble
+S Gribble
+S. Gribble
+Steven D. Gribble
+Steven D Gribble
+S D Gribble
+Gribble S
+Steven Seitz
+S Seitz
+S. Seitz
+Seitz S
+Su-In Lee
+Su Lee
+S Lee
+S. Lee
+Su I. Lee
+Su I Lee
+S I Lee
+Lee S
+Tadayoshi Kohno
+T Kohno
+T. Kohno
+Kohno T
+Tom Anderson
+T Anderson
+T. Anderson
+Anderson T
+Zoran Popovic
+Z Popovic
+Z. Popovic
+Popovic Z
+Aditya Akella
+A Akella
+A. Akella
+Akella A
+Amos Ron
+A Ron
+A. Ron
+Ron A
+Andrea Arpaci-Dusseau
+Andrea Dusseau
+A Dusseau
+A. Dusseau
+Andrea A. Dusseau
+Andrea A Dusseau
+A A Dusseau
+Dusseau A
+Anhai Doan
+A Doan
+A. Doan
+Doan A
+Barton Miller
+B Miller
+B. Miller
+Miller B
+Ben Liblit
+B Liblit
+B. Liblit
+Liblit B
+Benjamin Snyder
+B Snyder
+B. Snyder
+Snyder B
+Bilge Mutlu
+B Mutlu
+B. Mutlu
+Mutlu B
+Charles Dyer
+C Dyer
+C. Dyer
+Dyer C
+David Wood
+D Wood
+D. Wood
+Wood D
+Deborah Joseph
+D Joseph
+D. Joseph
+Joseph D
+Dieter van Melkebeek
+Dieter Melkebeek
+D Melkebeek
+D. Melkebeek
+Dieter v. Melkebeek
+Dieter v Melkebeek
+D v Melkebeek
+Melkebeek D
+Eftychios Sifakis
+E Sifakis
+E. Sifakis
+Sifakis E
+Eric Bach
+E Bach
+E. Bach
+Bach E
+Gurindar Sohi
+G Sohi
+G. Sohi
+Sohi G
+Jeffrey Naughton
+J Naughton
+J. Naughton
+Naughton J
+Jerry Zhu
+J Zhu
+J. Zhu
+Zhu J
+Jignesh Patel
+J Patel
+J. Patel
+Patel J
+Jin-Yi Cai
+Jin Cai
+J Cai
+J. Cai
+Jin Y. Cai
+Jin Y Cai
+J Y Cai
+Cai J
+Jude Shavlik
+J Shavlik
+J. Shavlik
+Shavlik J
+Karthikeyan Sankaralingam
+K Sankaralingam
+K. Sankaralingam
+Sankaralingam K
+Li Zhang
+L Zhang
+L. Zhang
+Zhang L
+Mark D. Hill
+Mark Hill
+M Hill
+M. Hill
+Mark D. Hill
+Mark D Hill
+M D Hill
+Hill M
+Michael Ferris
+M Ferris
+M. Ferris
+Ferris M
+Michael Gleicher
+M Gleicher
+M. Gleicher
+Gleicher M
+Michael Swift
+M Swift
+M. Swift
+Swift M
+Miron Livny
+M Livny
+M. Livny
+Livny M
+Paul Barford
+P Barford
+P. Barford
+Barford P
+Remzi Arpaci-Dusseau
+Remzi Dusseau
+R Dusseau
+R. Dusseau
+Remzi A. Dusseau
+Remzi A Dusseau
+R A Dusseau
+Dusseau R
+Shan Lu
+S Lu
+S. Lu
+Lu S
+Shuchi Chawla
+S Chawla
+S. Chawla
+Chawla S
+Somesh Jha
+S Jha
+S. Jha
+Jha S
+Stephen Wright
+S Wright
+S. Wright
+Wright S
+Suman Banerjee
+S Banerjee
+S. Banerjee
+Banerjee S
+Susan Horwitz
+S Horwitz
+S. Horwitz
+Horwitz S
+Thomas Reps
+T Reps
+T. Reps
+Reps T
+Thomas Ristenpart
+T Ristenpart
+T. Ristenpart
+Ristenpart T
+Xiaojin Zhu
+X Zhu
+X. Zhu
+Zhu X
+Adrian Sandu
+A Sandu
+A. Sandu
+Sandu A
+Alexey V Onufriev
+Alexey Onufriev
+A Onufriev
+A. Onufriev
+Alexey V. Onufriev
+Alexey V Onufriev
+A V Onufriev
+Onufriev A
+Ali R Butt
+Ali Butt
+A Butt
+A. Butt
+Ali R. Butt
+Ali R Butt
+A R Butt
+Butt A
+Anil Kumar Vullikanti
+Anil Vullikanti
+A Vullikanti
+A. Vullikanti
+Anil K. Vullikanti
+Anil K Vullikanti
+A K Vullikanti
+Vullikanti A
+B. Aditya Prakash
+B. Prakash
+B Prakash
+B. Prakash
+B. A. Prakash
+B. A Prakash
+B A Prakash
+Prakash B
+Barbara Ryder
+B Ryder
+B. Ryder
+Ryder B
+Calvin J. Ribbens
+Calvin Ribbens
+C Ribbens
+C. Ribbens
+Calvin J. Ribbens
+Calvin J Ribbens
+C J Ribbens
+Ribbens C
+Chang-Tien Lu
+Chang Lu
+C Lu
+C. Lu
+Chang T. Lu
+Chang T Lu
+C T Lu
+Lu C
+Changhee Jung
+C Jung
+C. Jung
+Jung C
+Chris North
+C North
+C. North
+North C
+Christopher Barrett
+C Barrett
+C. Barrett
+Barrett C
+Cliff Shaffer
+C Shaffer
+C. Shaffer
+Shaffer C
+Csaba J. Egyhazy
+Csaba Egyhazy
+C Egyhazy
+C. Egyhazy
+Csaba J. Egyhazy
+Csaba J Egyhazy
+C J Egyhazy
+Egyhazy C
+Danfeng (Daphne) Yao
+Danfeng Yao
+D Yao
+D. Yao
+Danfeng (. Yao
+Danfeng ( Yao
+D ( Yao
+Yao D
+Deborah Tatar
+D Tatar
+D. Tatar
+Tatar D
+Denis Gracanin
+D Gracanin
+D. Gracanin
+Gracanin D
+Dennis Kafura
+D Kafura
+D. Kafura
+Kafura D
+Dongyoon Lee
+D Lee
+D. Lee
+Lee D
+Doug A. Bowman
+Doug Bowman
+D Bowman
+D. Bowman
+Doug A. Bowman
+Doug A Bowman
+D A Bowman
+Bowman D
+Edward A. Fox
+Edward Fox
+E Fox
+E. Fox
+Edward A. Fox
+Edward A Fox
+E A Fox
+Fox E
+Eli Tilevich
+E Tilevich
+E. Tilevich
+Tilevich E
+Godmar Back
+G Back
+G. Back
+Back G
+Ing-Ray Chen
+Ing Chen
+I Chen
+I. Chen
+Ing R. Chen
+Ing R Chen
+I R Chen
+Chen I
+Kirk W. Cameron
+Kirk Cameron
+K Cameron
+K. Cameron
+Kirk W. Cameron
+Kirk W Cameron
+K W Cameron
+Cameron K
+Layne T. Watson
+Layne Watson
+L Watson
+L. Watson
+Layne T. Watson
+Layne T Watson
+L T Watson
+Watson L
+Lenwood S Heath
+Lenwood Heath
+L Heath
+L. Heath
+Lenwood S. Heath
+Lenwood S Heath
+L S Heath
+Heath L
+Liqing Zhang
+L Zhang
+L. Zhang
+Zhang L
+Madhav Marathe
+M Marathe
+M. Marathe
+Marathe M
+Naren Ramakrishnan
+N Ramakrishnan
+N. Ramakrishnan
+Ramakrishnan N
+Osman Balci
+O Balci
+O. Balci
+Balci O
+Scott McCrickard
+S McCrickard
+S. McCrickard
+McCrickard S
+Stephen H. Edwards
+Stephen Edwards
+S Edwards
+S. Edwards
+Stephen H. Edwards
+Stephen H Edwards
+S H Edwards
+Edwards S
+Steve Harrison
+S Harrison
+S. Harrison
+Harrison S
+T. M. Murali
+T. Murali
+T Murali
+T. Murali
+T. M. Murali
+T. M Murali
+T M Murali
+Murali T
+Wenjing Lou
+W Lou
+W. Lou
+Lou W
+Wu Feng
+W Feng
+W. Feng
+Feng W
+Yang Cao
+Y Cao
+Y. Cao
+Cao Y
+Yong Cao
+Y Cao
+Y. Cao
+Cao Y
+Caitlin Kelleher
+C Kelleher
+C. Kelleher
+Kelleher C
+Chenyang Lu
+C Lu
+C. Lu
+Lu C
+Christopher Gill
+C Gill
+C. Gill
+Gill C
+Jeremy Buhler
+J Buhler
+J. Buhler
+Buhler J
+Jonathan Turner
+J Turner
+J. Turner
+Turner J
+Kilian Weinberger
+K Weinberger
+K. Weinberger
+Weinberger K
+Kunal Agrawal
+K Agrawal
+K. Agrawal
+Agrawal K
+Michael Brent
+M Brent
+M. Brent
+Brent M
+Patrick Crowley
+P Crowley
+P. Crowley
+Crowley P
+Raj Jain
+R Jain
+R. Jain
+Jain R
+Robert Pless
+R Pless
+R. Pless
+Pless R
+Roch Guerin
+R Guerin
+R. Guerin
+Guerin R
+Roger Chamberlain
+R Chamberlain
+R. Chamberlain
+Chamberlain R
+Ron Cytron
+R Cytron
+R. Cytron
+Cytron R
+Sanmay Das
+S Das
+S. Das
+Das S
+Tao Ju
+T Ju
+T. Ju
+Ju T
+Viktor Gruev
+V Gruev
+V. Gruev
+Gruev V
+Weixiong Zhang
+W Zhang
+W. Zhang
+Zhang W
+William Richard
+W Richard
+W. Richard
+Richard W
+Yasutaka Furukawa
+Y Furukawa
+Y. Furukawa
+Furukawa Y
+Yixin Chen
+Y Chen
+Y. Chen
+Chen Y
+Avi Silberschatz
+A Silberschatz
+A. Silberschatz
+Silberschatz A
+Brian Scassellati
+B Scassellati
+B. Scassellati
+Scassellati B
+Bryan Ford
+B Ford
+B. Ford
+Ford B
+Dana Angluin
+D Angluin
+D. Angluin
+Angluin D
+Daniel A. Spielman
+Daniel Spielman
+D Spielman
+D. Spielman
+Daniel A. Spielman
+Daniel A Spielman
+D A Spielman
+Spielman D
+Daniel Abadi
+D Abadi
+D. Abadi
+Abadi D
+David Gelernter
+D Gelernter
+D. Gelernter
+Gelernter D
+Drew McDermott
+D McDermott
+D. McDermott
+McDermott D
+Holly Rushmeier
+H Rushmeier
+H. Rushmeier
+Rushmeier H
+James Aspnes
+J Aspnes
+J. Aspnes
+Aspnes J
+Joan Feigenbaum
+J Feigenbaum
+J. Feigenbaum
+Feigenbaum J
+Julie Dorsey
+J Dorsey
+J. Dorsey
+Dorsey J
+Michael Fischer
+M Fischer
+M. Fischer
+Fischer M
+Paul Hudak
+P Hudak
+P. Hudak
+Hudak P
+Ruzica Piskac
+R Piskac
+R. Piskac
+Piskac R
+Stanley C. Eisenstat
+Stanley Eisenstat
+S Eisenstat
+S. Eisenstat
+Stanley C. Eisenstat
+Stanley C Eisenstat
+S C Eisenstat
+Eisenstat S
+Steven Zucker
+S Zucker
+S. Zucker
+Zucker S
+Vladimir Rokhlin
+V Rokhlin
+V. Rokhlin
+Rokhlin V
+Yang Richard Yang
+Yang Yang
+Y Yang
+Y. Yang
+Yang R. Yang
+Yang R Yang
+Y R Yang
+Yang Y
+Zhong Shao
+Z Shao
+Z. Shao
+Shao Z

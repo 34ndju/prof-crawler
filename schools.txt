@@ -1,0 +1,106 @@
+Carnegie Mellon University
+https://www.scs.cmu.edu/
+University of California - Berkeley
+https://eecs.berkeley.edu/
+Massachusetts Institute of Technology
+http://www.eecs.mit.edu/
+Georgia Institute of Technology
+https://www.cc.gatech.edu/
+Univ. of Illinois at Urbana-Champaign
+https://cs.illinois.edu/
+University of Michigan
+https://www.eecs.umich.edu/
+CUNY
+Rochester Institute of Technology
+Cornell University
+University of California - San Diego
+Northeastern University
+New York University
+Indiana University
+Purdue University
+University of Maryland - College Park
+University of Washington
+Stanford University
+University of California - Irvine
+University of Southern California
+Oregon State University
+University of Central Florida
+University of Massachusetts Amherst
+University of Texas at Dallas
+Rutgers University
+University of Utah
+Princeton University
+University of Wisconsin - Madison
+University of Colorado Boulder
+University of Pennsylvania
+Columbia University
+Virginia Tech
+University of Texas at Austin
+North Carolina State University
+University of California - Santa Cruz
+Stony Brook University
+Washington State University
+Texas A&M University
+University of Minnesota
+George Mason University
+University of California - Los Angeles
+Northwestern University
+University of Florida
+University of Tennessee
+Pennsylvania State University
+University of California - Davis
+University of California - Riverside
+Ohio State University
+University of Illinois at Chicago
+Worcester Polytechnic Institute
+University of Kansas
+University at Buffalo
+Vanderbilt University
+University of California - Santa Barbara
+Clemson University
+University of Chicago
+University of North Carolina
+Univ. of Maryland - Baltimore County
+Harvard University
+Arizona State University
+Washington University in St. Louis
+Michigan State University
+Brigham Young University
+Rensselaer Polytechnic Institute
+Johns Hopkins University
+University of Virginia
+University of Notre Dame
+Brown University
+University of Connecticut
+NJIT
+University of Nebraska
+University of Massachusetts Lowell
+Boston University
+Iowa State University
+Yale University
+Rice University
+University of Texas at Arlington
+Northern Arizona University
+University of Delaware
+Emory University
+Binghamton University
+University of Houston
+University of Rochester
+University of Arizona
+Duke University
+Dartmouth College
+University of South Florida
+University of Kentucky
+University of Vermont
+University of South Carolina
+University of Texas at San Antonio
+University of Pittsburgh
+Drexel University
+Georgetown University
+Naval Postgraduate School
+University of Nevada
+Florida State University
+Boise State University
+Auburn University
+University of Iowa
+Stevens Institute of Technology

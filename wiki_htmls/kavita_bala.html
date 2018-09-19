@@ -1,0 +1,249 @@
+<div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Global_illumination&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span>  <small><i>(May 2013)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></table>
+<div class="thumb tmulti tright"><div class="thumbinner" style="width:204px;max-width:204px"><div class="tsingle" style="margin:1px;width:202px;max-width:202px"><div class="thumbimage"><a href="/wiki/File:Local_illumination.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Local_illumination.JPG/200px-Local_illumination.JPG" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Local_illumination.JPG/300px-Local_illumination.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Local_illumination.JPG/400px-Local_illumination.JPG 2x" data-file-width="480" data-file-height="360" /></a></div><div class="thumbcaption" style="clear:left">Rendering without global illumination. Areas that lie outside of the ceiling lamp's direct light lack definition. For example, the lamp's housing appears completely uniform. Without the ambient light added into the render, it would appear uniformly black.</div></div><div class="tsingle" style="margin:1px;width:202px;max-width:202px"><div class="thumbimage"><a href="/wiki/File:Global_illumination.JPG" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Global_illumination.JPG/200px-Global_illumination.JPG" width="200" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Global_illumination.JPG/300px-Global_illumination.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Global_illumination.JPG/400px-Global_illumination.JPG 2x" data-file-width="480" data-file-height="360" /></a></div><div class="thumbcaption" style="clear:left">Rendering with global illumination. Light is reflected by surfaces, and colored light transfers from one surface to another. Notice how color from the red wall and green wall (not visible) reflects onto other surfaces in the scene. Also notable is the <a href="/wiki/Caustic_(optics)" title="Caustic (optics)">caustic</a> projected onto the red wall from light passing through the glass sphere.</div></div></div></div>
+<p><b>Global illumination</b><sup id="cite_ref-wordpress_1-0" class="reference"><a href="#cite_note-wordpress-1">&#91;1&#93;</a></sup> (shortened as <b>GI</b>), or <b>indirect illumination</b>, is a general name for a group of <a href="/wiki/Algorithm" title="Algorithm">algorithms</a> used in <a href="/wiki/3D_computer_graphics" title="3D computer graphics">3D computer graphics</a> that are meant to add more realistic lighting to 3D scenes. Such algorithms take into account not only the light that comes directly from a light source (<i>direct illumination</i>), but also subsequent cases in which light rays from the same source are reflected by other surfaces in the scene, whether reflective or not (<i>indirect illumination</i>).
+</p><p>Theoretically, reflections, refractions, and shadows are all examples of global illumination, because when simulating them, one object affects the rendering of another (as opposed to an object being affected only by a direct light). In practice, however, only the simulation of <a href="/wiki/Diffuse_inter-reflection" class="mw-redirect" title="Diffuse inter-reflection">diffuse inter-reflection</a> or <a href="/wiki/Caustic_(optics)" title="Caustic (optics)">caustics</a> is called global illumination.
+</p>
+<div id="toc" class="toc"><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Algorithms"><span class="tocnumber">1</span> <span class="toctext">Algorithms</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Photorealism"><span class="tocnumber">2</span> <span class="toctext">Photorealism</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Procedure"><span class="tocnumber">3</span> <span class="toctext">Procedure</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Image-based_lighting"><span class="tocnumber">4</span> <span class="toctext">Image-based lighting</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#List_of_methods"><span class="tocnumber">5</span> <span class="toctext">List of methods</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Algorithms">Algorithms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Global_illumination&amp;action=edit&amp;section=1" title="Edit section: Algorithms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Images rendered using global illumination algorithms often appear more photorealistic than those using only direct illumination algorithms. However, such images are computationally more expensive and consequently much slower to generate. One common approach is to compute the global illumination of a scene and store that information with the geometry (e.g., radiosity). The stored data can then be used to generate images from different viewpoints for generating walkthroughs of a scene without having to go through expensive lighting calculations repeatedly.
+</p><p><a href="/wiki/Radiosity_(computer_graphics)" title="Radiosity (computer graphics)">Radiosity</a>, <a href="/wiki/Ray_tracing_(graphics)" title="Ray tracing (graphics)">ray tracing</a>, <a href="/wiki/Beam_tracing" title="Beam tracing">beam tracing</a>, <a href="/wiki/Cone_tracing" title="Cone tracing">cone tracing</a>, <a href="/wiki/Path_tracing" title="Path tracing">path tracing</a>, <a href="/wiki/Metropolis_light_transport" title="Metropolis light transport">Metropolis light transport</a>, <a href="/wiki/Ambient_occlusion" title="Ambient occlusion">ambient occlusion</a>, <a href="/wiki/Photon_mapping" title="Photon mapping">photon mapping</a>, and <a href="/wiki/Image_based_lighting" class="mw-redirect" title="Image based lighting">image based lighting</a> are all examples of algorithms used in global illumination, some of which may be used together to yield results that are not fast, but accurate.
+</p><p>These algorithms model <a href="/wiki/Diffuse_inter-reflection" class="mw-redirect" title="Diffuse inter-reflection">diffuse inter-reflection</a> which is a very important part of global illumination; however most of these (excluding radiosity) also model <a href="/wiki/Specular_reflection" title="Specular reflection">specular reflection</a>, which makes them more accurate algorithms to solve the lighting equation and provide a more realistically illuminated scene.  The algorithms used to calculate the distribution of light energy between surfaces of a scene are closely related to <a href="/wiki/Heat_transfer" title="Heat transfer">heat transfer</a> simulations performed using <a href="/wiki/Finite_element_analysis" class="mw-redirect" title="Finite element analysis">finite-element</a> methods in engineering design.
+</p>
+<h2><span class="mw-headline" id="Photorealism">Photorealism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Global_illumination&amp;action=edit&amp;section=2" title="Edit section: Photorealism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Alexexterior2.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alexexterior2.jpg/220px-Alexexterior2.jpg" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alexexterior2.jpg/330px-Alexexterior2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Alexexterior2.jpg/440px-Alexexterior2.jpg 2x" data-file-width="800" data-file-height="600" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Alexexterior2.jpg" class="internal" title="Enlarge"></a></div>Exterior view of an architectural model</div></div></div>
+<div class="thumb tright"><div class="thumbinner" style="width:172px;"><a href="/wiki/File:Show_how_3D_real_time_ambient_occlusion_works_2013-11-23_10-45.jpeg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Show_how_3D_real_time_ambient_occlusion_works_2013-11-23_10-45.jpeg/170px-Show_how_3D_real_time_ambient_occlusion_works_2013-11-23_10-45.jpeg" width="170" height="283" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Show_how_3D_real_time_ambient_occlusion_works_2013-11-23_10-45.jpeg/255px-Show_how_3D_real_time_ambient_occlusion_works_2013-11-23_10-45.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Show_how_3D_real_time_ambient_occlusion_works_2013-11-23_10-45.jpeg/340px-Show_how_3D_real_time_ambient_occlusion_works_2013-11-23_10-45.jpeg 2x" data-file-width="576" data-file-height="960" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Show_how_3D_real_time_ambient_occlusion_works_2013-11-23_10-45.jpeg" class="internal" title="Enlarge"></a></div>Example of an ambient occlusion layer</div></div></div>
+<p>Achieving accurate computation of global illumination in real-time remains difficult.<sup id="cite_ref-tmocg_2-0" class="reference"><a href="#cite_note-tmocg-2">&#91;2&#93;</a></sup>  In real-time 3D graphics, the <a href="/wiki/Diffuse_inter-reflection" class="mw-redirect" title="Diffuse inter-reflection">diffuse inter-reflection</a> component of global illumination is sometimes approximated by an "ambient" term in the lighting equation, which is also called "ambient lighting" or "ambient color" in 3D software packages. Though this method of approximation (also known as a "cheat" because it's not really a global illumination method) is easy to perform computationally, when used alone it does not provide an adequately realistic effect. Ambient lighting is known to "flatten" shadows in 3D scenes, making the overall visual effect more bland. However, used properly, ambient lighting can be an efficient way to make up for a lack of processing power.
+</p>
+<h2><span class="mw-headline" id="Procedure">Procedure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Global_illumination&amp;action=edit&amp;section=3" title="Edit section: Procedure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>More and more specialized algorithms are used in 3D programs that can effectively simulate the global illumination. These algorithms are numerical approximations to the <a href="/wiki/Rendering_equation" title="Rendering equation">rendering equation</a>. Well known algorithms for computing global illumination include <a href="/wiki/Path_tracing" title="Path tracing">path tracing</a>, <a href="/wiki/Photon_mapping" title="Photon mapping">photon mapping</a> and <a href="/wiki/Radiosity_(computer_graphics)" title="Radiosity (computer graphics)">radiosity</a>.
+The following approaches can be distinguished here:
+</p>
+<ul><li>Inversion: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle L=(1-T)^{-1}L^{e}\,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>L</mi>
+        <mo>=</mo>
+        <mo stretchy="false">(</mo>
+        <mn>1</mn>
+        <mo>&#x2212;<!-- − --></mo>
+        <mi>T</mi>
+        <msup>
+          <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+          </mrow>
+        </msup>
+        <msup>
+          <mi>L</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>e</mi>
+          </mrow>
+        </msup>
+        <mspace width="thinmathspace" />
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle L=(1-T)^{-1}L^{e}\,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d95acdc9aca3d999c247a993f462ea77401276dc" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:17.431ex; height:3.176ex;" alt="L=(1-T)^{{-1}}L^{e}\," /></span>
+<ul><li>is not applied in practice</li></ul></li>
+<li>Expansion: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle L=\sum _{i=0}^{\infty }T^{i}L^{e}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>L</mi>
+        <mo>=</mo>
+        <munderover>
+          <mo>&#x2211;<!-- ∑ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+            <mo>=</mo>
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi mathvariant="normal">&#x221E;<!-- ∞ --></mi>
+          </mrow>
+        </munderover>
+        <msup>
+          <mi>T</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msup>
+        <msup>
+          <mi>L</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>e</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle L=\sum _{i=0}^{\infty }T^{i}L^{e}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/06e6894115302c56d560607fdb7c0a7743008887" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -3.005ex; width:13.524ex; height:6.843ex;" alt="L=\sum _{{i=0}}^{\infty }T^{i}L^{e}" /></span>
+<ul><li>bi-directional approach: <a href="/wiki/Photon_mapping" title="Photon mapping">Photon mapping</a> + Distributed ray tracing, Bi-directional path tracing, <a href="/wiki/Metropolis_light_transport" title="Metropolis light transport">Metropolis light transport</a></li></ul></li>
+<li>Iteration: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle L_{n}tl_{e}+=L^{(n-1)}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>L</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mi>t</mi>
+        <msub>
+          <mi>l</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>e</mi>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <mo>=</mo>
+        <msup>
+          <mi>L</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mo stretchy="false">(</mo>
+            <mi>n</mi>
+            <mo>&#x2212;<!-- − --></mo>
+            <mn>1</mn>
+            <mo stretchy="false">)</mo>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle L_{n}tl_{e}+=L^{(n-1)}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b40e243f57d4de3092e24a323a96caa2b79229c5" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:16.42ex; height:3.176ex;" alt="L_{n}tl_{e}+=L^{{(n-1)}}" /></span>
+<ul><li><a href="/wiki/Radiosity_(computer_graphics)" title="Radiosity (computer graphics)">Radiosity</a></li></ul></li></ul>
+<p>In Light path notation global lighting the paths of the type L (D | S) corresponds * E.
+</p><p>A full treatment can be found in <sup id="cite_ref-WikiMarkup_3-0" class="reference"><a href="#cite_note-WikiMarkup-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Image-based_lighting">Image-based lighting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Global_illumination&amp;action=edit&amp;section=4" title="Edit section: Image-based lighting">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Another way to simulate real global illumination is the use of <a href="/wiki/High_dynamic_range_imaging" class="mw-redirect" title="High dynamic range imaging">High dynamic range images</a> (HDRIs), also known as environment maps, which encircle and illuminate the scene. This process is known as <a href="/wiki/Image-based_lighting" title="Image-based lighting">image-based lighting</a>.
+</p>
+<h2><span class="mw-headline" id="List_of_methods">List of methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Global_illumination&amp;action=edit&amp;section=5" title="Edit section: List of methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tr>
+<th>Method</th>
+<th>Description/Notes
+</th></tr>
+<tr>
+<td><a href="/wiki/Ray_tracing_(graphics)" title="Ray tracing (graphics)">Ray tracing</a></td>
+<td>Several enhanced variants exist for solving problems related to sampling, aliasing, soft shadows: <a href="/wiki/Distributed_ray_tracing" title="Distributed ray tracing">Distributed ray tracing</a>, <a href="/wiki/Cone_tracing" title="Cone tracing">Cone tracing</a>, <a href="/wiki/Beam_tracing" title="Beam tracing">Beam tracing</a>.
+</td></tr>
+<tr>
+<td><a href="/wiki/Path_tracing" title="Path tracing">Path tracing</a></td>
+<td>Unbiased, Variant: Bi-directional Path Tracing, Energy Redistriution Path Tracing<sup id="cite_ref-psu_4-0" class="reference"><a href="#cite_note-psu-4">&#91;4&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Photon_mapping" title="Photon mapping">Photon mapping</a></td>
+<td>Consistent, biased; enhanced variants: Progressive Photon Mapping, Stochastic Progressive Photon Mapping (<sup id="cite_ref-u-tokyo_5-0" class="reference"><a href="#cite_note-u-tokyo-5">&#91;5&#93;</a></sup>)
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Lightcuts&amp;action=edit&amp;redlink=1" class="new" title="Lightcuts (page does not exist)">Lightcuts</a></td>
+<td>enhanced variants: Multidimensional Lightcuts, Bidirectional Lightcuts
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=Point_Based_Global_Illumination&amp;action=edit&amp;redlink=1" class="new" title="Point Based Global Illumination (page does not exist)">Point Based Global Illumination</a></td>
+<td>Extensively used in movie animations<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Radiosity_(computer_graphics)" title="Radiosity (computer graphics)">Radiosity</a></td>
+<td>Finite element method, very good for precomputations. Improved versions Instant Radiosity<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> and Bidirectional Instant Radiosity<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Metropolis_light_transport" title="Metropolis light transport">Metropolis light transport</a></td>
+<td>Builds upon bi-directional path tracing, unbiased, Multiplexed<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<td><a href="/wiki/Spherical_harmonic_lighting" title="Spherical harmonic lighting">Spherical harmonic lighting</a></td>
+<td>Encodes global illumination results for <a href="/wiki/Real-time_rendering" class="mw-redirect" title="Real-time rendering">real-time rendering</a> of static scenes
+</td></tr>
+<tr>
+<td><a href="/wiki/Ambient_occlusion" title="Ambient occlusion">Ambient occlusion</a></td>
+<td>Not a physically correct method, but gives good results in general. Good for precomputation.
+</td></tr>
+<tr>
+<td>Voxel-based Global Illumination</td>
+<td>Several variants exist including Voxel Cone Tracing Global Illumination,<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Sparse Voxel Octree Global Illumination and Voxel Global Illumination (VXGI)<sup id="cite_ref-geforce_12-0" class="reference"><a href="#cite_note-geforce-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Light Propagation Volumes Global Illumination<sup id="cite_ref-unrealengine_13-0" class="reference"><a href="#cite_note-unrealengine-13">&#91;13&#93;</a></sup></td>
+<td>Light propagation volumes is a technique to approximately achieve global illumination (GI) in Real-time.
+<p>It uses lattices and spherical harmonics (SH) to represent the spatial and angular distribution of light in the scene. Variant Cascaded Light Propagation Volumes.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td>Deferred Radiance Transfer Global Illumination<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup></td>
+<td>
+</td></tr>
+<tr>
+<td>Deep G-Buffer based Global Illumination<sup id="cite_ref-williams_16-0" class="reference"><a href="#cite_note-williams-16">&#91;16&#93;</a></sup></td>
+<td>
+</td></tr></table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Global_illumination&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/5-cell.gif/28px-5-cell.gif" width="28" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/5-cell.gif/42px-5-cell.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/5-cell.gif/56px-5-cell.gif 2x" data-file-width="252" data-file-height="252" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Computer_graphics" title="Portal:Computer graphics">Computer graphics portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/Category:Global_illumination_software" title="Category:Global illumination software">Category:Global illumination software</a></li>
+<li><a href="/wiki/Bias_of_an_estimator" title="Bias of an estimator">Bias of an estimator</a></li>
+<li><a href="/wiki/Consistent_estimator" title="Consistent estimator">Consistent estimator</a></li>
+<li><a href="/wiki/Unbiased_rendering" title="Unbiased rendering">Unbiased rendering</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Global_illumination&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-wordpress-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-wordpress_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://extremeistan.wordpress.com/2014/05/11/realtime-global-illumination-techniques-collection/">"Realtime Global Illumination techniques collection &#124; extremeistan"</a>. extremeistan.wordpress.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Realtime+Global+Illumination+techniques+collection+%26%23124%3B+extremeistan&amp;rft.pub=extremeistan.wordpress.com&amp;rft_id=https%3A%2F%2Fextremeistan.wordpress.com%2F2014%2F05%2F11%2Frealtime-global-illumination-techniques-collection%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-tmocg-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-tmocg_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Kurachi, Noriko (2011). <a rel="nofollow" class="external text" href="https://play.google.com/store/books/details?id=YjLOBQAAQBAJ"><i>The Magic of Computer Graphics</i></a>. CRC Press. p.&#160;339. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781439873571" title="Special:BookSources/9781439873571">9781439873571</a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 September</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Magic+of+Computer+Graphics&amp;rft.pages=339&amp;rft.pub=CRC+Press&amp;rft.date=2011&amp;rft.isbn=9781439873571&amp;rft.aulast=Kurachi&amp;rft.aufirst=Noriko&amp;rft_id=https%3A%2F%2Fplay.google.com%2Fstore%2Fbooks%2Fdetails%3Fid%3DYjLOBQAAQBAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-WikiMarkup-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-WikiMarkup_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Philip Dutre; Philippe Bekaert; Kavita Bala (August 30, 2006). <i>Advanced Global Illumination, Second Edition</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1568813073" title="Special:BookSources/978-1568813073">978-1568813073</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Advanced+Global+Illumination%2C+Second+Edition&amp;rft.date=2006-08-30&amp;rft.isbn=978-1568813073&amp;rft.au=Philip+Dutre&amp;rft.au=Philippe+Bekaert&amp;rft.au=Kavita+Bala&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-psu-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-psu_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.63.5938">"CiteSeerX &#8212; Abstract"</a>. citeseerx.ist.psu.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CiteSeerX+%26mdash%3B+Abstract&amp;rft.pub=citeseerx.ist.psu.edu&amp;rft_id=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.63.5938&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-u-tokyo-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-u-tokyo_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ci.i.u-tokyo.ac.jp/~hachisuka/">"Toshiya Hachisuka at UTokyo"</a>. ci.i.u-tokyo.ac.jp<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Toshiya+Hachisuka+at+UTokyo&amp;rft.pub=ci.i.u-tokyo.ac.jp&amp;rft_id=http%3A%2F%2Fwww.ci.i.u-tokyo.ac.jp%2F~hachisuka%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://graphics.pixar.com/library/PointBasedGlobalIlluminationForMovieProduction/paper.pdf">"coursenote.dvi"</a> <span style="font-size:85%;">(PDF)</span>. <i>Graphics.pixar.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Graphics.pixar.com&amp;rft.atitle=coursenote.dvi&amp;rft_id=http%3A%2F%2Fgraphics.pixar.com%2Flibrary%2FPointBasedGlobalIlluminationForMovieProduction%2Fpaper.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141222074728/http://www.karstendaemen.com/thesis/files/intro_pbgi.pdf">"Archived copy"</a> <span style="font-size:85%;">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.karstendaemen.com/thesis/files/intro_pbgi.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2014-12-22<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-04-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.karstendaemen.com%2Fthesis%2Ffiles%2Fintro_pbgi.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.cs.cornell.edu/courses/cs6630/2012sp/slides/Boyadzhiev-Matzen-InstantRadiosity.pdf">"Instant Radiosity&#160;: Keller (SIGGRAPH 1997)"</a> <span style="font-size:85%;">(PDF)</span>. <i>Cs.cornell.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Cs.cornell.edu&amp;rft.atitle=Instant+Radiosity+%3A+Keller+%28SIGGRAPH+1997%29&amp;rft_id=http%3A%2F%2Fwww.cs.cornell.edu%2Fcourses%2Fcs6630%2F2012sp%2Fslides%2FBoyadzhiev-Matzen-InstantRadiosity.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://artis.imag.fr/Projets/Cyber-II/Publications/SIMP06a.pdf">"Bidirectional Instant Radiosity"</a> <span style="font-size:85%;">(PDF)</span>. <i>Artis.imag.fr</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Artis.imag.fr&amp;rft.atitle=Bidirectional+Instant+Radiosity&amp;rft_id=http%3A%2F%2Fartis.imag.fr%2FProjets%2FCyber-II%2FPublications%2FSIMP06a.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.ci.i.u-tokyo.ac.jp/~hachisuka/mmlt.pdf">"Multiplexed Metropolis Light Transport"</a> <span style="font-size:85%;">(PDF)</span>. <i>Ci.i.u-tokyo.ac.jp</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ci.i.u-tokyo.ac.jp&amp;rft.atitle=Multiplexed+Metropolis+Light+Transport&amp;rft_id=http%3A%2F%2Fwww.ci.i.u-tokyo.ac.jp%2F~hachisuka%2Fmmlt.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Cyril Crassin. <a rel="nofollow" class="external text" href="http://on-demand.gputechconf.com/gtc/2012/presentations/SB134-Voxel-Cone-Tracing-Octree-Real-Time-Illumination.pdf">"Voxel Cone Tracing and Sparse Voxel Octree for Real-time Global Illumination"</a> <span style="font-size:85%;">(PDF)</span>. <i>On-demand.gputechconf.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=On-demand.gputechconf.com&amp;rft.atitle=Voxel+Cone+Tracing+and+Sparse+Voxel+Octree+for+Real-time+Global+Illumination&amp;rft.au=Cyril+Crassin&amp;rft_id=http%3A%2F%2Fon-demand.gputechconf.com%2Fgtc%2F2012%2Fpresentations%2FSB134-Voxel-Cone-Tracing-Octree-Real-Time-Illumination.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-geforce-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-geforce_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.geforce.com/hardware/technology/vxgi">"VXGI &#124; GeForce"</a>. geforce.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=VXGI+%26%23124%3B+GeForce&amp;rft.pub=geforce.com&amp;rft_id=http%3A%2F%2Fwww.geforce.com%2Fhardware%2Ftechnology%2Fvxgi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-unrealengine-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-unrealengine_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://wiki.unrealengine.com/Light_Propagation_Volumes_GI">"Light Propagation Volumes GI - Epic Wiki"</a>. wiki.unrealengine.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Light+Propagation+Volumes+GI+-+Epic+Wiki&amp;rft.pub=wiki.unrealengine.com&amp;rft_id=https%3A%2F%2Fwiki.unrealengine.com%2FLight_Propagation_Volumes_GI&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160118035359/http://www.vis.uni-stuttgart.de/~dachsbcn/download/lpv.pdf">"Archived copy"</a> <span style="font-size:85%;">(PDF)</span>. Archived from <a rel="nofollow" class="external text" href="http://www.vis.uni-stuttgart.de/~dachsbcn/download/lpv.pdf">the original</a> <span style="font-size:85%;">(PDF)</span> on 2016-01-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-01-23</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Archived+copy&amp;rft_id=http%3A%2F%2Fwww.vis.uni-stuttgart.de%2F~dachsbcn%2Fdownload%2Flpv.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://twvideo01.ubm-us.net/o1/vault/gdc2012/slides/Programming%20Track/Stefanov_Nikolay_DeferredRadianceTransfer.pdf">"Deferred Radiance Transfer Volumes&#160;: Global Illumination in Far Cry 3"</a> <span style="font-size:85%;">(PDF)</span>. <i>Twvideo01.ubm-us.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Twvideo01.ubm-us.net&amp;rft.atitle=Deferred+Radiance+Transfer+Volumes+%3A+Global+Illumination+in+Far+Cry+3&amp;rft_id=http%3A%2F%2Ftwvideo01.ubm-us.net%2Fo1%2Fvault%2Fgdc2012%2Fslides%2FProgramming%2520Track%2FStefanov_Nikolay_DeferredRadianceTransfer.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-williams-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-williams_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://graphics.cs.williams.edu/papers/DeepGBuffer14/">"Fast Global Illumination Approximations on Deep G-Buffers"</a>. graphics.cs.williams.edu<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-14</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Fast+Global+Illumination+Approximations+on+Deep+G-Buffers&amp;rft.pub=graphics.cs.williams.edu&amp;rft_id=http%3A%2F%2Fgraphics.cs.williams.edu%2Fpapers%2FDeepGBuffer14%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGlobal+illumination" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Global_illumination&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://archive.org/details/MarcC_AoI-Global_Illumination">Video demonstrating global illumination and the ambient color effect</a></li>
+<li><a rel="nofollow" class="external text" href="http://realtimeradiosity.com/demos">Real-time GI demos</a> – survey of practical real-time GI techniques as a list of executable demos</li>
+<li><a rel="nofollow" class="external text" href="http://www.cs.kuleuven.be/~phil/GI/">kuleuven</a> - This page contains the Global Illumination Compendium, an effort to bring together most of the useful formulas and equations for global illumination algorithms in computer graphics.</li>
+<li><a rel="nofollow" class="external text" href="http://scratchapixel.com/lessons/3d-basic-rendering/global-illumination-path-tracing/introduction-global-illumination-path-tracing">Theory and practical implementation of Global Illumination using Monte Carlo Path Tracing.</a></li></ul>
+</div>

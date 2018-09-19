@@ -1,0 +1,377 @@
+1521233867803	geckodriver	INFO	geckodriver 0.19.1
+1521233867808	geckodriver	INFO	Listening on 127.0.0.1:32941
+1521233868917	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cUt5GOlDUpE8"
+1521233870589	Marionette	INFO	Enabled via --marionette
+1521233871997	Marionette	INFO	Listening on port 41615
+1521233872031	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521233911511	geckodriver	INFO	geckodriver 0.19.1
+1521233911514	geckodriver	INFO	Listening on 127.0.0.1:54039
+1521233912624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VrFH7YiZKAi3"
+1521233913168	Marionette	INFO	Enabled via --marionette
+1521233914393	Marionette	INFO	Listening on port 45645
+1521233914445	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521234096045	geckodriver	INFO	geckodriver 0.19.1
+1521234096048	geckodriver	INFO	Listening on 127.0.0.1:60997
+1521234097158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nNuikbeNvArZ"
+1521234097718	Marionette	INFO	Enabled via --marionette
+1521234100134	Marionette	INFO	Listening on port 40617
+1521234100173	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521496837495	geckodriver	INFO	geckodriver 0.19.1
+1521496837503	geckodriver	INFO	Listening on 127.0.0.1:39233
+1521496838614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.drKSYjSeTb5I"
+1521496839553	Marionette	INFO	Enabled via --marionette
+1521496840989	Marionette	INFO	Listening on port 34961
+1521496841024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521497294776	geckodriver	INFO	geckodriver 0.19.1
+1521497294780	geckodriver	INFO	Listening on 127.0.0.1:50511
+1521497295898	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wH0fw3gvOfLS"
+1521497296483	Marionette	INFO	Enabled via --marionette
+1521497297736	Marionette	INFO	Listening on port 41863
+1521497297817	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521498917060	geckodriver	INFO	geckodriver 0.19.1
+1521498917066	geckodriver	INFO	Listening on 127.0.0.1:39965
+1521498918186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vpHyvNlsj0gs"
+1521498919243	Marionette	INFO	Enabled via --marionette
+1521498920737	Marionette	INFO	Listening on port 39331
+1521498920797	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521499054922	geckodriver	INFO	geckodriver 0.19.1
+1521499054926	geckodriver	INFO	Listening on 127.0.0.1:44743
+1521499056040	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZHaafuZp54A5"
+1521499056603	Marionette	INFO	Enabled via --marionette
+1521499057836	Marionette	INFO	Listening on port 38085
+1521499057852	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521499429121	geckodriver	INFO	geckodriver 0.19.1
+1521499429126	geckodriver	INFO	Listening on 127.0.0.1:38305
+1521499430221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4NDgKpoZDJaP"
+1521499431626	Marionette	INFO	Enabled via --marionette
+1521499433817	Marionette	INFO	Listening on port 42293
+1521499433896	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521499477101	geckodriver	INFO	geckodriver 0.19.1
+1521499477107	geckodriver	INFO	Listening on 127.0.0.1:40351
+1521499478281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5ULib1yiCXg3"
+1521499478940	Marionette	INFO	Enabled via --marionette
+1521499480279	Marionette	INFO	Listening on port 35289
+1521499480292	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521501607842	geckodriver	INFO	geckodriver 0.19.1
+1521501607848	geckodriver	INFO	Listening on 127.0.0.1:51331
+1521501608990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.etjqT0AtnS9E"
+1521501610029	Marionette	INFO	Enabled via --marionette
+1521501611679	Marionette	INFO	Listening on port 41769
+1521501611706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521501691066	geckodriver	INFO	geckodriver 0.19.1
+1521501691071	geckodriver	INFO	Listening on 127.0.0.1:43745
+1521501692190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.7bIjCXodKDb2"
+1521501692789	Marionette	INFO	Enabled via --marionette
+1521501694150	Marionette	INFO	Listening on port 39351
+1521501694208	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox:28238): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:28238): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:28238): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:28238): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+
+(firefox:28238): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+1521501979658	geckodriver	INFO	geckodriver 0.19.1
+1521501979665	geckodriver	INFO	Listening on 127.0.0.1:48035
+1521501980894	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.pIGFNU8b85xV"
+1521501981701	Marionette	INFO	Enabled via --marionette
+1521501983473	Marionette	INFO	Listening on port 41733
+1521501983534	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cse.umich.edu/, line 544: ReferenceError: slide_count is not defined
+
+(firefox:28922): Gtk-CRITICAL **: gtk_window_resize: assertion 'height > 0' failed
+1521502414299	geckodriver	INFO	geckodriver 0.19.1
+1521502414302	geckodriver	INFO	Listening on 127.0.0.1:50797
+1521502415417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.M9rtlCSke3VI"
+1521502415975	Marionette	INFO	Enabled via --marionette
+1521502417269	Marionette	INFO	Listening on port 33715
+1521502417331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cse.umich.edu/, line 544: ReferenceError: slide_count is not defined
+1521502432987	geckodriver	INFO	geckodriver 0.19.1
+1521502432993	geckodriver	INFO	Listening on 127.0.0.1:57867
+1521502434098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uygLQiOg1ia1"
+1521502434654	Marionette	INFO	Enabled via --marionette
+1521502435945	Marionette	INFO	Listening on port 45087
+1521502436010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cse.umich.edu/, line 544: ReferenceError: slide_count is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521502756098	geckodriver	INFO	geckodriver 0.19.1
+1521502756103	geckodriver	INFO	Listening on 127.0.0.1:41719
+1521502757283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZFljrp0RKnUS"
+1521502757911	Marionette	INFO	Enabled via --marionette
+1521502759325	Marionette	INFO	Listening on port 45545
+1521502759399	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cse.umich.edu/, line 544: ReferenceError: slide_count is not defined
+1521502793181	geckodriver	INFO	geckodriver 0.19.1
+1521502793186	geckodriver	INFO	Listening on 127.0.0.1:36003
+1521502794339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EifZaolnpRde"
+1521502794912	Marionette	INFO	Enabled via --marionette
+1521502796201	Marionette	INFO	Listening on port 42987
+1521502796258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cse.umich.edu/, line 544: ReferenceError: slide_count is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521503123088	geckodriver	INFO	geckodriver 0.19.1
+1521503123093	geckodriver	INFO	Listening on 127.0.0.1:47797
+1521503124208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jTsvxcaGUdC2"
+1521503124782	Marionette	INFO	Enabled via --marionette
+1521503126065	Marionette	INFO	Listening on port 38063
+1521503126121	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cse.umich.edu/, line 544: ReferenceError: slide_count is not defined
+1521503170679	geckodriver	INFO	geckodriver 0.19.1
+1521503170682	geckodriver	INFO	Listening on 127.0.0.1:35381
+1521503171798	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0UCvmP2kKgsv"
+1521503172378	Marionette	INFO	Enabled via --marionette
+1521503173653	Marionette	INFO	Listening on port 45527
+1521503173712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cse.umich.edu/, line 544: ReferenceError: slide_count is not defined
+1521503213872	geckodriver	INFO	geckodriver 0.19.1
+1521503213876	geckodriver	INFO	Listening on 127.0.0.1:58593
+1521503214989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.uBco6dyWAIYX"
+1521503215556	Marionette	INFO	Enabled via --marionette
+1521503216817	Marionette	INFO	Listening on port 46877
+1521503216899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cse.umich.edu/, line 544: ReferenceError: slide_count is not defined
+1521503243709	geckodriver	INFO	geckodriver 0.19.1
+1521503243712	geckodriver	INFO	Listening on 127.0.0.1:43233
+1521503244842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VefLwDwUVMcC"
+1521503245435	Marionette	INFO	Enabled via --marionette
+1521503246697	Marionette	INFO	Listening on port 45647
+1521503246750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.cse.umich.edu/, line 544: ReferenceError: slide_count is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522021294743	geckodriver	INFO	geckodriver 0.19.1
+1522021294748	geckodriver	INFO	Listening on 127.0.0.1:58515
+1522021295873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Lsb3TamccCts"
+1522021296738	Marionette	INFO	Enabled via --marionette
+1522021298954	Marionette	INFO	Listening on port 38041
+1522021298994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522021352304	geckodriver	INFO	geckodriver 0.19.1
+1522021352309	geckodriver	INFO	Listening on 127.0.0.1:43241
+1522021353413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.m8fLSk0WSoFQ"
+1522021353982	Marionette	INFO	Enabled via --marionette
+1522021355956	Marionette	INFO	Listening on port 35581
+1522021356024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522021378539	geckodriver	INFO	geckodriver 0.19.1
+1522021378543	geckodriver	INFO	Listening on 127.0.0.1:40677
+1522021379658	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3FclKKu237EX"
+1522021380212	Marionette	INFO	Enabled via --marionette
+1522021381934	Marionette	INFO	Listening on port 42273
+1522021381972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522021408730	geckodriver	INFO	geckodriver 0.19.1
+1522021408734	geckodriver	INFO	Listening on 127.0.0.1:32985
+1522021409882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.N3SQiwLnWMO2"
+1522021410444	Marionette	INFO	Enabled via --marionette
+1522021411864	Marionette	INFO	Listening on port 35015
+1522021411904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522021422927	geckodriver	INFO	geckodriver 0.19.1
+1522021422930	geckodriver	INFO	Listening on 127.0.0.1:39469
+1522021424045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.tAa6flVgBvFm"
+1522021424618	Marionette	INFO	Enabled via --marionette
+1522021427740	Marionette	INFO	Listening on port 44735
+1522021427764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522021437638	geckodriver	INFO	geckodriver 0.19.1
+1522021437641	geckodriver	INFO	Listening on 127.0.0.1:35251
+1522021438768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.4oVfUE3BtX3h"
+1522021439402	Marionette	INFO	Enabled via --marionette
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522021440872	Marionette	INFO	Listening on port 34849
+1522021440882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522021474426	geckodriver	INFO	geckodriver 0.19.1
+1522021474429	geckodriver	INFO	Listening on 127.0.0.1:53397
+1522021475572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IBMnJWqFazf3"
+1522021476122	Marionette	INFO	Enabled via --marionette
+1522021477352	Marionette	INFO	Listening on port 39911
+1522021477384	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522021492889	geckodriver	INFO	geckodriver 0.19.1
+1522021492893	geckodriver	INFO	Listening on 127.0.0.1:57727
+1522021494008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.OQFPoJtfovEI"
+1522021494566	Marionette	INFO	Enabled via --marionette
+1522021495836	Marionette	INFO	Listening on port 42661
+1522021495916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522021526603	geckodriver	INFO	geckodriver 0.19.1
+1522021526607	geckodriver	INFO	Listening on 127.0.0.1:50155
+1522021527762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PGG8G9Afi8Uo"
+1522021528314	Marionette	INFO	Enabled via --marionette
+1522021529600	Marionette	INFO	Listening on port 42625
+1522021529668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522021580068	geckodriver	INFO	geckodriver 0.19.1
+1522021580071	geckodriver	INFO	Listening on 127.0.0.1:54001
+1522021581251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.T2UpBxir970H"
+1522021581836	Marionette	INFO	Enabled via --marionette
+1522021583928	Marionette	INFO	Listening on port 40107
+1522021583974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522021637576	geckodriver	INFO	geckodriver 0.19.1
+1522021637580	geckodriver	INFO	Listening on 127.0.0.1:59613
+1522021638748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6qWbgM2VMLYz"
+1522021639312	Marionette	INFO	Enabled via --marionette
+1522021640574	Marionette	INFO	Listening on port 41727
+1522021640654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522021658341	geckodriver	INFO	geckodriver 0.19.1
+1522021658344	geckodriver	INFO	Listening on 127.0.0.1:49491
+1522021659486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LyNIpRaxYIdn"
+1522021660056	Marionette	INFO	Enabled via --marionette
+1522021661302	Marionette	INFO	Listening on port 42055
+1522021661394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522021954944	geckodriver	INFO	geckodriver 0.19.1
+1522021954948	geckodriver	INFO	Listening on 127.0.0.1:50297
+1522021956067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.DhzbVMKHyEbN"
+1522021957070	Marionette	INFO	Enabled via --marionette
+1522021958332	Marionette	INFO	Listening on port 38743
+1522021958380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522021966502	geckodriver	INFO	geckodriver 0.19.1
+1522021966505	geckodriver	INFO	Listening on 127.0.0.1:49921
+1522021967626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.15Eq9gMDiFgP"
+1522021968190	Marionette	INFO	Enabled via --marionette
+1522021970218	Marionette	INFO	Listening on port 43717
+1522021970240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522021998936	geckodriver	INFO	geckodriver 0.19.1
+1522021998940	geckodriver	INFO	Listening on 127.0.0.1:45319
+1522022000055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0UloJrGjGmKq"
+1522022000618	Marionette	INFO	Enabled via --marionette
+1522022001848	Marionette	INFO	Listening on port 43051
+1522022001870	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522022071888	geckodriver	INFO	geckodriver 0.19.1
+1522022071891	geckodriver	INFO	Listening on 127.0.0.1:42877
+1522022073006	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ZzYYAZEvKMk8"
+1522022073550	Marionette	INFO	Enabled via --marionette
+1522022074792	Marionette	INFO	Listening on port 34527
+1522022074816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+JavaScript error: resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/firefox@getpocket.com.xpi!/bootstrap.js, line 279: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522022368284	geckodriver	INFO	geckodriver 0.19.1
+1522022368287	geckodriver	INFO	Listening on 127.0.0.1:47463
+1522022369446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rNKBAJtdDSkm"
+1522022370026	Marionette	INFO	Enabled via --marionette
+1522022371264	Marionette	INFO	Listening on port 33609
+1522022371354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522022383982	geckodriver	INFO	geckodriver 0.19.1
+1522022383985	geckodriver	INFO	Listening on 127.0.0.1:45985
+1522022385126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CB3bumm826N7"
+1522022385702	Marionette	INFO	Enabled via --marionette
+1522022386956	Marionette	INFO	Listening on port 40285
+1522022387038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522022398629	geckodriver	INFO	geckodriver 0.19.1
+1522022398632	geckodriver	INFO	Listening on 127.0.0.1:49771
+1522022399748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.RjrkazSI3Rjy"
+1522022400324	Marionette	INFO	Enabled via --marionette
+1522022401614	Marionette	INFO	Listening on port 45093
+1522022401664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522022413480	geckodriver	INFO	geckodriver 0.19.1
+1522022413484	geckodriver	INFO	Listening on 127.0.0.1:51909
+1522022414596	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kkDVgcO1ZBQP"
+1522022415140	Marionette	INFO	Enabled via --marionette
+1522022416400	Marionette	INFO	Listening on port 43367
+1522022416412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1522022424765	geckodriver	INFO	geckodriver 0.19.1
+1522022424769	geckodriver	INFO	Listening on 127.0.0.1:36711
+1522022425882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lmkbpTA85URl"
+1522022426434	Marionette	INFO	Enabled via --marionette
+1522022427672	Marionette	INFO	Listening on port 33371
+1522022427700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522030750734	geckodriver	INFO	geckodriver 0.19.1
+1522030750737	geckodriver	INFO	Listening on 127.0.0.1:58305
+1522030751896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dsIu2EZvb9Mb"
+1522030752556	Marionette	INFO	Enabled via --marionette
+1522030754502	Marionette	INFO	Listening on port 33997
+1522030754512	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522030778733	geckodriver	INFO	geckodriver 0.19.1
+1522030778736	geckodriver	INFO	Listening on 127.0.0.1:54369
+1522030779859	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FIwMreQWkMkl"
+1522030780448	Marionette	INFO	Enabled via --marionette
+1522030781846	Marionette	INFO	Listening on port 43953
+1522030781866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522031265207	geckodriver	INFO	geckodriver 0.19.1
+1522031265211	geckodriver	INFO	Listening on 127.0.0.1:45727
+1522031266368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PRlyUuM6sebC"
+1522031266920	Marionette	INFO	Enabled via --marionette
+1522031268196	Marionette	INFO	Listening on port 43721
+1522031268278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522031346479	geckodriver	INFO	geckodriver 0.19.1
+1522031346483	geckodriver	INFO	Listening on 127.0.0.1:54553
+1522031347635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.isGR1m1K2JQM"
+1522031348192	Marionette	INFO	Enabled via --marionette
+1522031350220	Marionette	INFO	Listening on port 37839
+1522031350244	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522031418869	geckodriver	INFO	geckodriver 0.19.1
+1522031418873	geckodriver	INFO	Listening on 127.0.0.1:54361
+1522031420055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.b8c4zXXCK2me"
+1522031420626	Marionette	INFO	Enabled via --marionette
+1522031421864	Marionette	INFO	Listening on port 45271
+1522031421970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522033125926	geckodriver	INFO	geckodriver 0.19.1
+1522033125930	geckodriver	INFO	Listening on 127.0.0.1:38815
+1522033127066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vSKJWUst3LzB"
+1522033128428	Marionette	INFO	Enabled via --marionette
+1522033129844	Marionette	INFO	Listening on port 39781
+1522033129888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+1522033138149	geckodriver	INFO	geckodriver 0.19.1
+1522033138153	geckodriver	INFO	Listening on 127.0.0.1:39867
+1522033139278	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JLhwundDxr6W"
+1522033140610	Marionette	INFO	Enabled via --marionette
+1522033141874	Marionette	INFO	Listening on port 40149
+1522033141892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522033182581	geckodriver	INFO	geckodriver 0.19.1
+1522033182584	geckodriver	INFO	Listening on 127.0.0.1:55647
+1522033183705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.odmYls1p34bt"
+1522033184264	Marionette	INFO	Enabled via --marionette
+1522033185540	Marionette	INFO	Listening on port 42763
+1522033185616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/ContentLinkHandler.jsm, line 97: NS_ERROR_MALFORMED_URI: Component returned failure code: 0x804b000a (NS_ERROR_MALFORMED_URI) [nsIIOService.newURI]
+JavaScript error: chrome://browser/content/browser-sync.js, line 8: ReferenceError: Cu is not defined
+JavaScript error: chrome://browser/content/places/places.js, line 141: TypeError: gSync is undefined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
